@@ -51,5 +51,5 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a dataset 
 ## 🚀 How to Run
 1. Clone this repository  
    ```bash
-   git clone https://github.com/<your-username>/job-role-EDA.git
+    https://github.com/Giri1529/Predicting-Job-Roles-from-Educational-Background.git
    cd job-role-EDA

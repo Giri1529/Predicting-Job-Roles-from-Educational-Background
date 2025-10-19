@@ -1,0 +1,1001 @@
+Student_ID,skills,qualification,experience_level,job_role,skills_encoded,qualification_encoded,experience_level_encoded,job_role_encoded
+STU0001,"Python, SQL, TensorFlow, Machine Learning, Communication",Master's in Data Science,Senior,Data Scientist,75,14,4,8
+STU0002,"HTML, CSS, JavaScript, React, Teamwork",Bachelor's in Computer Science,Mid,Frontend Developer,33,2,3,12
+STU0003,"Java, Spring, SQL, REST APIs, Problem Solving",Bachelor's in Software Engineering,Senior,Backend Developer,47,9,4,3
+STU0004,"Figma, Adobe XD, UI/UX Design, Creativity",Bachelor's in Design,Entry,Designer,24,4,1,9
+STU0005,"Python, Django, JavaScript, React, Agile",Master's in Computer Science,Mid,Full Stack Python Developer,66,12,3,14
+STU0006,"Financial Modeling, Excel, Communication, Risk Analysis",Master's in Finance,Senior,Finance,26,15,4,11
+STU0007,"C++, Unreal Engine, Game Design, Teamwork",Bachelor's in Game Development,Mid,Game Developer,19,5,3,15
+STU0008,"Kubernetes, Docker, AWS, CI/CD, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,49,2,4,10
+STU0009,"Java, Spring Boot, Hibernate, Microservices",Bachelor's in Software Engineering,Mid,Full Stack Java Developer,41,9,3,13
+STU0010,"Solidity, Ethereum, JavaScript, Blockchain",Bachelor's in Computer Science,Entry,Blockchain Developer,91,2,1,4
+STU0011,"Marketing Strategy, SEO, Content Creation, Analytics",Bachelor's in Marketing,Mid,Marketing,56,8,3,18
+STU0012,"Recruitment, HR Policies, Communication, Leadership",Master's in Human Resources,Senior,HR,85,16,4,16
+STU0013,"C#, .NET, SQL, ASP.NET",Bachelor's in Computer Science,Mid,C# Developer,12,2,3,5
+STU0014,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,62,7,1,20
+STU0015,"Swift, iOS Development, Objective-C, UI/UX",Bachelor's in Computer Science,Mid,Mobile Developer,95,2,3,19
+STU0016,"Network Security, Penetration Testing, Firewalls",Bachelor's in Cybersecurity,Senior,Cybersecurity Engineer,60,3,4,6
+STU0017,"Agile, Scrum, Project Management, Leadership",Master's in Business Administration,Senior,Software Project Manager,9,11,4,21
+STU0018,"C++, Unity, Game Design, 3D Modeling",Bachelor's in Game Development,Entry,Video Game Designer,15,5,1,22
+STU0019,"Python, Pandas, SQL, Data Visualization",Master's in Data Science,Mid,Data Analyst,72,14,3,7
+STU0020,"Kubernetes, Helm, AWS, Terraform",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,54,2,4,17
+STU0021,"HTML, CSS, JavaScript, Node.js, MongoDB",Bachelor's in Computer Science,Mid,Web Developer,32,2,3,23
+STU0022,"Python, Machine Learning, Deep Learning, NLP",PhD in Artificial Intelligence,Senior,AIML,71,18,4,2
+STU0023,"Java, Android Development, Kotlin, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,35,9,3,19
+STU0024,"Python, Flask, JavaScript, PostgreSQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,68,2,1,14
+STU0025,"Java, Spring, Angular, Microservices",Master's in Software Engineering,Senior,Full Stack Java Developer,43,17,4,13
+STU0026,"Adobe Illustrator, Photoshop, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,4,6,3,9
+STU0027,"SQL, Tableau, Data Analysis, Statistics",Bachelor's in Statistics,Entry,Data Analyst,88,10,1,7
+STU0028,"C#, Unity, Game Physics, 3D Modeling",Bachelor's in Game Development,Mid,Game Developer,14,5,3,15
+STU0029,"AWS, Jenkins, Docker, Ansible",Bachelor's in Computer Science,Senior,DevOps Engineer,1,2,4,10
+STU0030,"PHP, WordPress, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,64,7,1,20
+STU0031,"Python, TensorFlow, Keras, Data Science",Master's in Data Science,Mid,   ,77,14,3,1
+STU0032,"Blockchain, Smart Contracts, Solidity, Web3",Bachelor's in Computer Science,Senior, ,10,2,4,0
+STU0033,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid, ,81,2,3,0
+STU0034, ,Bachelor's in Software Engineering,Senior, ,0,9,4,0
+STU0035,"Digital Marketing, Google Analytics, SEO, PPC",Bachelor's in Marketing,Mid,Marketing,21,8,3,18
+STU0036,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,28,16,4,16
+STU0037,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,11,2,3,5
+STU0038,"Swift, iOS, Xcode, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,97,2,1,19
+STU0039,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,59,13,4,6
+STU0040,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,7,11,3,21
+STU0041,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,74,14,4,8
+STU0042,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,25,4,1,9
+STU0043,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,50,2,3,17
+STU0044,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,48,7,1,23
+STU0045, ,Bachelor's in Computer Science,Mid,Full Stack Python Developer,0,2,3,14
+STU0046,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,40,17,4,13
+STU0047,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,20,5,3,15
+STU0048,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,3,2,4,10
+STU0049,"PHP, Symfony, MySQL, JavaScript",  ,Entry,PHP Developer,63,1,1,20
+STU0050,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,  ,Blockchain Developer,93,2,0,4
+STU0051,"React, TypeScript, HTML, CSS", ,Entry,Frontend Developer,83,0,1,12
+STU0052,"Java, Spring, SQL, Microservices", ,Senior,Backend Developer,45,0,4,3
+STU0053,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,55,8,3,18
+STU0054,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,30,16,4,16
+STU0055,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,13,2,3,5
+STU0056,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,96,2,1,19
+STU0057,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,65,13,4,6
+STU0058,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,89,11,3,21
+STU0059,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,73,14,1,7
+STU0060,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,52,2,4,17
+STU0061,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,34,7,3,23
+STU0062,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,80,18,4,2
+STU0063,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,39,9,3,19
+STU0064,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,69,2,1,14
+STU0065,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,44,17,4,13
+STU0066,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,6,6,3,9
+STU0067,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,86,10,1,7
+STU0068, ,Bachelor's in Game Development,Mid,Game Developer,0,5,3,15
+STU0069,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,2,2,4,10
+STU0070, ,Bachelor's in Information Technology,Entry,PHP Developer,0,7,1,20
+STU0071, ,Master's in Data Science,Mid,Data Scientist,0,14,3,8
+STU0072, ,Bachelor's in Computer Science,Senior,Blockchain Developer,0,2,4,4
+STU0073, ,Bachelor's in Computer Science,Mid,Frontend Developer,0,2,3,12
+STU0074,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,37,9,4,3
+STU0075,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,23,8,3,18
+STU0076,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,28,16,4,16
+STU0077,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,11,2,3,5
+STU0078,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,98,2,1,19
+STU0079,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,59,13,4,6
+STU0080,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,7,11,3,21
+STU0081,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,74,14,4,8
+STU0082,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,25,4,1,9
+STU0083,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,50,2,3,17
+STU0084,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,48,7,1,23
+STU0085,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,67,2,3,14
+STU0086,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior, ,40,17,4,0
+STU0087,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid, ,20,5,3,0
+STU0088,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,3,2,4,10
+STU0089,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry, ,63,7,1,0
+STU0090,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,93,2,3,4
+STU0091,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,83,2,1,12
+STU0092,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,45,9,4,3
+STU0093,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,55,8,3,18
+STU0094,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,30,16,4,16
+STU0095,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,13,2,3,5
+STU0096,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,96,2,1,19
+STU0097,"Penetration Testing, Firewalls, SIEM",  ,Senior,Cybersecurity Engineer,65,1,4,6
+STU0098,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,89,11,3,21
+STU0099,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,73,14,1,7
+STU0100,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,52,2,4,17
+STU0101,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,34,7,3,23
+STU0102,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,80,18,4,2
+STU0103,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,39,9,3,19
+STU0104,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry, ,69,2,1,0
+STU0105,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,44,17,4,13
+STU0106,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,6,6,3,9
+STU0107,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,86,10,1,7
+STU0108,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,16,5,3,15
+STU0109,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,2,2,4,10
+STU0110,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,62,7,1,20
+STU0111,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,79,14,3,8
+STU0112,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,92,2,4,4
+STU0113,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,81,2,3,12
+STU0114,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,37,9,4,3
+STU0115,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,23,8,3,18
+STU0116,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,28,16,4,16
+STU0117,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,11,2,3,5
+STU0118,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,98,2,1,19
+STU0119,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,59,13,4,6
+STU0120,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,7,11,3,21
+STU0121,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,74,14,4,8
+STU0122,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,25,4,1,9
+STU0123,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,50,2,3,17
+STU0124,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,48,7,1,23
+STU0125,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,67,2,3,14
+STU0126,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,40,17,4,13
+STU0127,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,20,5,3,15
+STU0128,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,3,2,4,10
+STU0129,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,63,7,1,20
+STU0130,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,93,2,3,4
+STU0131,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,83,2,1,12
+STU0132,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,45,9,4,3
+STU0133,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,55,8,3,18
+STU0134,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,30,16,4,16
+STU0135,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,13,2,3,5
+STU0136,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,96,2,1,19
+STU0137,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,65,13,4,6
+STU0138,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,89,11,3,21
+STU0139,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,73,14,1,7
+STU0140,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,52,2,4,17
+STU0141,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,34,7,3,23
+STU0142,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,80,18,4,2
+STU0143,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,39,9,3,19
+STU0144,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,69,2,1,14
+STU0145,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,44,17,4,13
+STU0146,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,6,6,3,9
+STU0147,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,86,10,1,7
+STU0148,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,16,5,3,15
+STU0149,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,2,2,4,10
+STU0150,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,62,7,1,20
+STU0151,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,79,14,3,8
+STU0152,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,92,2,4,4
+STU0153,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,81,2,3,12
+STU0154,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,37,9,4,3
+STU0155,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,23,8,3,18
+STU0156,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,28,16,4,16
+STU0157,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,11,2,3,5
+STU0158,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,98,2,1,19
+STU0159,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,59,13,4,6
+STU0160,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,7,11,3,21
+STU0161,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,74,14,4,8
+STU0162,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,25,4,1,9
+STU0163,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,50,2,3,17
+STU0164,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,48,7,1,23
+STU0165,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,67,2,3,14
+STU0166,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,40,17,4,13
+STU0167,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,20,5,3,15
+STU0168,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,3,2,4,10
+STU0169,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,63,7,1,20
+STU0170,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,93,2,3,4
+STU0171,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,83,2,1,12
+STU0172,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,45,9,4,3
+STU0173,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,55,8,3,18
+STU0174,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,30,16,4,16
+STU0175,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,13,2,3,5
+STU0176,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,96,2,1,19
+STU0177,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,65,13,4,6
+STU0178,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,89,11,3,21
+STU0179,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,73,14,1,7
+STU0180,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,52,2,4,17
+STU0181,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,34,7,3,23
+STU0182,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,80,18,4,2
+STU0183,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,39,9,3,19
+STU0184,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,69,2,1,14
+STU0185,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,44,17,4,13
+STU0186,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,6,6,3,9
+STU0187,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,86,10,1,7
+STU0188,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,16,5,3,15
+STU0189,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,2,2,4,10
+STU0190,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,62,7,1,20
+STU0191,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,79,14,3,8
+STU0192,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,92,2,4,4
+STU0193,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,81,2,3,12
+STU0194,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,37,9,4,3
+STU0195,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,23,8,3,18
+STU0196,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,28,16,4,16
+STU0197,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,11,2,3,5
+STU0198,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,98,2,1,19
+STU0199,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,59,13,4,6
+STU0200,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,7,11,3,21
+STU0201,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,74,14,4,8
+STU0202,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,25,4,1,9
+STU0203,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,50,2,3,17
+STU0204,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,48,7,1,23
+STU0205,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,67,2,3,14
+STU0206,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,40,17,4,13
+STU0207,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,20,5,3,15
+STU0208,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,3,2,4,10
+STU0209,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,63,7,1,20
+STU0210,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,93,2,3,4
+STU0211,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,83,2,1,12
+STU0212,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,45,9,4,3
+STU0213,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,55,8,3,18
+STU0214,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,30,16,4,16
+STU0215,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,13,2,3,5
+STU0216,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,96,2,1,19
+STU0217,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,65,13,4,6
+STU0218,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,89,11,3,21
+STU0219,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,73,14,1,7
+STU0220,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,52,2,4,17
+STU0221,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,34,7,3,23
+STU0222,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,80,18,4,2
+STU0223,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,39,9,3,19
+STU0224,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,69,2,1,14
+STU0225,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,44,17,4,13
+STU0226,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,6,6,3,9
+STU0227,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,86,10,1,7
+STU0228,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,16,5,3,15
+STU0229,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,2,2,4,10
+STU0230,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,62,7,1,20
+STU0231,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,79,14,3,8
+STU0232,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,92,2,4,4
+STU0233,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,81,2,3,12
+STU0234,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,37,9,4,3
+STU0235,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,23,8,3,18
+STU0236,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,28,16,4,16
+STU0237,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,11,2,3,5
+STU0238,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,98,2,1,19
+STU0239,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,59,13,4,6
+STU0240,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,7,11,3,21
+STU0241,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,74,14,4,8
+STU0242,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,25,4,1,9
+STU0243,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,50,2,3,17
+STU0244,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,48,7,1,23
+STU0245,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,67,2,3,14
+STU0246,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,40,17,4,13
+STU0247,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,20,5,3,15
+STU0248,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,3,2,4,10
+STU0249,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,63,7,1,20
+STU0250,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,93,2,3,4
+STU0251,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,83,2,1,12
+STU0252,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,45,9,4,3
+STU0253,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,55,8,3,18
+STU0254,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,30,16,4,16
+STU0255,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,13,2,3,5
+STU0256,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,96,2,1,19
+STU0257,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,65,13,4,6
+STU0258,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,89,11,3,21
+STU0259,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,73,14,1,7
+STU0260,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,52,2,4,17
+STU0261,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,34,7,3,23
+STU0262,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,80,18,4,2
+STU0263,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,39,9,3,19
+STU0264,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,69,2,1,14
+STU0265,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,44,17,4,13
+STU0266,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,6,6,3,9
+STU0267,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,86,10,1,7
+STU0268,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,16,5,3,15
+STU0269,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,2,2,4,10
+STU0270,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,62,7,1,20
+STU0271,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,79,14,3,8
+STU0272,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,92,2,4,4
+STU0273,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,81,2,3,12
+STU0274,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,37,9,4,3
+STU0275,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,23,8,3,18
+STU0276,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,28,16,4,16
+STU0277,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,11,2,3,5
+STU0278,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,98,2,1,19
+STU0279,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,59,13,4,6
+STU0280,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,7,11,3,21
+STU0281,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,74,14,4,8
+STU0282,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,25,4,1,9
+STU0283,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,50,2,3,17
+STU0284,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,48,7,1,23
+STU0285,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,67,2,3,14
+STU0286,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,40,17,4,13
+STU0287,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,20,5,3,15
+STU0288,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,3,2,4,10
+STU0289,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,63,7,1,20
+STU0290,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,93,2,3,4
+STU0291,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,83,2,1,12
+STU0292,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,45,9,4,3
+STU0293,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,55,8,3,18
+STU0294,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,30,16,4,16
+STU0295,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,13,2,3,5
+STU0296,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,96,2,1,19
+STU0297,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,65,13,4,6
+STU0298,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,89,11,3,21
+STU0299,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,73,14,1,7
+STU0300,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,52,2,4,17
+STU0301,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,34,7,3,23
+STU0302,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,80,18,4,2
+STU0303,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,39,9,3,19
+STU0304,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,69,2,1,14
+STU0305,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,44,17,4,13
+STU0306,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,6,6,3,9
+STU0307,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,86,10,1,7
+STU0308,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,16,5,3,15
+STU0309,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,2,2,4,10
+STU0310,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,62,7,1,20
+STU0311,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,79,14,3,8
+STU0312,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,92,2,4,4
+STU0313,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,81,2,3,12
+STU0314,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,37,9,4,3
+STU0315,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,23,8,3,18
+STU0316,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,28,16,4,16
+STU0317,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,11,2,3,5
+STU0318,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,98,2,1,19
+STU0319,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,59,13,4,6
+STU0320,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,7,11,3,21
+STU0321,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,74,14,4,8
+STU0322,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,25,4,1,9
+STU0323,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,50,2,3,17
+STU0324,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,48,7,1,23
+STU0325,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,67,2,3,14
+STU0326,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,40,17,4,13
+STU0327,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,20,5,3,15
+STU0328,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,3,2,4,10
+STU0329,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,63,7,1,20
+STU0330,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,93,2,3,4
+STU0331,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,83,2,1,12
+STU0332,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,45,9,4,3
+STU0333,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,55,8,3,18
+STU0334,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,30,16,4,16
+STU0335,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,13,2,3,5
+STU0336,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,96,2,1,19
+STU0337,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,65,13,4,6
+STU0338,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,89,11,3,21
+STU0339,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,73,14,1,7
+STU0340,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,52,2,4,17
+STU0341,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,34,7,3,23
+STU0342,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,80,18,4,2
+STU0343,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,39,9,3,19
+STU0344,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,69,2,1,14
+STU0345,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,44,17,4,13
+STU0346,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,6,6,3,9
+STU0347,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,86,10,1,7
+STU0348,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,16,5,3,15
+STU0349,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,2,2,4,10
+STU0350,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,62,7,1,20
+STU0351,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,79,14,3,8
+STU0352,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,92,2,4,4
+STU0353,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,81,2,3,12
+STU0354,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,37,9,4,3
+STU0355,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,23,8,3,18
+STU0356,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,28,16,4,16
+STU0357,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,11,2,3,5
+STU0358,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,98,2,1,19
+STU0359,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,59,13,4,6
+STU0360,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,7,11,3,21
+STU0361,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,74,14,4,8
+STU0362,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,25,4,1,9
+STU0363,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,50,2,3,17
+STU0364,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,48,7,1,23
+STU0365,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,67,2,3,14
+STU0366,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,40,17,4,13
+STU0367,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,20,5,3,15
+STU0368,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,3,2,4,10
+STU0369,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,63,7,1,20
+STU0370,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,93,2,3,4
+STU0371,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,83,2,1,12
+STU0372,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,45,9,4,3
+STU0373,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,55,8,3,18
+STU0374,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,30,16,4,16
+STU0375,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,13,2,3,5
+STU0376,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,96,2,1,19
+STU0377,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,65,13,4,6
+STU0378,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,89,11,3,21
+STU0379,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,73,14,1,7
+STU0380,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,52,2,4,17
+STU0381,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,34,7,3,23
+STU0382,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,80,18,4,2
+STU0383,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,39,9,3,19
+STU0384,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,69,2,1,14
+STU0385,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,44,17,4,13
+STU0386,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,6,6,3,9
+STU0387,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,86,10,1,7
+STU0388,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,16,5,3,15
+STU0389,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,2,2,4,10
+STU0390,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,62,7,1,20
+STU0391,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,79,14,3,8
+STU0392,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,92,2,4,4
+STU0393,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,81,2,3,12
+STU0394,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,37,9,4,3
+STU0395,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,23,8,3,18
+STU0396,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,28,16,4,16
+STU0397,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,11,2,3,5
+STU0398,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,98,2,1,19
+STU0399,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,59,13,4,6
+STU0400,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,7,11,3,21
+STU0401,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,74,14,4,8
+STU0402,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,25,4,1,9
+STU0403,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,50,2,3,17
+STU0404,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,48,7,1,23
+STU0405,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,67,2,3,14
+STU0406,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,40,17,4,13
+STU0407,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,20,5,3,15
+STU0408,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,3,2,4,10
+STU0409,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,63,7,1,20
+STU0410,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,93,2,3,4
+STU0411,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,83,2,1,12
+STU0412,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,45,9,4,3
+STU0413,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,55,8,3,18
+STU0414,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,30,16,4,16
+STU0415,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,13,2,3,5
+STU0416,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,96,2,1,19
+STU0417,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,65,13,4,6
+STU0418,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,89,11,3,21
+STU0419,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,73,14,1,7
+STU0420,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,52,2,4,17
+STU0421,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,34,7,3,23
+STU0422,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,80,18,4,2
+STU0423,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,39,9,3,19
+STU0424,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,69,2,1,14
+STU0425,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,44,17,4,13
+STU0426,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,6,6,3,9
+STU0427,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,86,10,1,7
+STU0428,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,16,5,3,15
+STU0429,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,2,2,4,10
+STU0430,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,62,7,1,20
+STU0431,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,79,14,3,8
+STU0432,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,92,2,4,4
+STU0433,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,81,2,3,12
+STU0434,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,37,9,4,3
+STU0435,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,23,8,3,18
+STU0436,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,28,16,4,16
+STU0437,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,11,2,3,5
+STU0438,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,98,2,1,19
+STU0439,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,59,13,4,6
+STU0440,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,7,11,3,21
+STU0441,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,74,14,4,8
+STU0442,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,25,4,1,9
+STU0443,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,50,2,3,17
+STU0444,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,48,7,1,23
+STU0445,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,67,2,3,14
+STU0446,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,40,17,4,13
+STU0447,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,20,5,3,15
+STU0448,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,3,2,4,10
+STU0449,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,63,7,1,20
+STU0450,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,93,2,3,4
+STU0451,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,83,2,1,12
+STU0452,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,45,9,4,3
+STU0453,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,55,8,3,18
+STU0454,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,30,16,4,16
+STU0455,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,13,2,3,5
+STU0456,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,96,2,1,19
+STU0457,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,65,13,4,6
+STU0458,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,89,11,3,21
+STU0459,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,73,14,1,7
+STU0460,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,52,2,4,17
+STU0461,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,34,7,3,23
+STU0462,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,80,18,4,2
+STU0463,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,39,9,3,19
+STU0464,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,69,2,1,14
+STU0465,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,44,17,4,13
+STU0466,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,6,6,3,9
+STU0467,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,86,10,1,7
+STU0468,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,16,5,3,15
+STU0469,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,2,2,4,10
+STU0470,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,62,7,1,20
+STU0471,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,79,14,3,8
+STU0472,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,92,2,4,4
+STU0473,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,81,2,3,12
+STU0474,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,37,9,4,3
+STU0475,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,23,8,3,18
+STU0476,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,28,16,4,16
+STU0477,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,11,2,3,5
+STU0478,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,98,2,1,19
+STU0479,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,59,13,4,6
+STU0480,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,7,11,3,21
+STU0481,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,74,14,4,8
+STU0482,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,25,4,1,9
+STU0483,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,50,2,3,17
+STU0484,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,48,7,1,23
+STU0485,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,67,2,3,14
+STU0486,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,40,17,4,13
+STU0487,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,20,5,3,15
+STU0488,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,3,2,4,10
+STU0489,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,63,7,1,20
+STU0490,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,93,2,3,4
+STU0491,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,83,2,1,12
+STU0492,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,45,9,4,3
+STU0493,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,55,8,3,18
+STU0494,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,30,16,4,16
+STU0495,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,13,2,3,5
+STU0496,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,96,2,1,19
+STU0497,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,65,13,4,6
+STU0498,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,89,11,3,21
+STU0499,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,73,14,1,7
+STU0500,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,52,2,4,17
+STU0501,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,34,7,3,23
+STU0502,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,80,18,4,2
+STU0503,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,39,9,3,19
+STU0504,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,69,2,1,14
+STU0505,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,44,17,4,13
+STU0506,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,6,6,3,9
+STU0507,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,86,10,1,7
+STU0508,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,16,5,3,15
+STU0509,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,2,2,4,10
+STU0510,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,62,7,1,20
+STU0511,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,79,14,3,8
+STU0512,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,92,2,4,4
+STU0513,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,81,2,3,12
+STU0514,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,37,9,4,3
+STU0515,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,23,8,3,18
+STU0516,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,28,16,4,16
+STU0517,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,11,2,3,5
+STU0518,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,98,2,1,19
+STU0519,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,59,13,4,6
+STU0520,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,7,11,3,21
+STU0521,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,74,14,4,8
+STU0522,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,25,4,1,9
+STU0523,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,50,2,3,17
+STU0524,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,48,7,1,23
+STU0525,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,67,2,3,14
+STU0526,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,40,17,4,13
+STU0527,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,20,5,3,15
+STU0528,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,3,2,4,10
+STU0529,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,63,7,1,20
+STU0530,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,93,2,3,4
+STU0531,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,83,2,1,12
+STU0532,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,45,9,4,3
+STU0533,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,55,8,3,18
+STU0534,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,30,16,4,16
+STU0535,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,13,2,3,5
+STU0536,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,96,2,1,19
+STU0537,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,65,13,4,6
+STU0538,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,89,11,3,21
+STU0539,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,73,14,1,7
+STU0540,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,52,2,4,17
+STU0541,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,34,7,3,23
+STU0542,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,80,18,4,2
+STU0543,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,39,9,3,19
+STU0544,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,69,2,1,14
+STU0545,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,44,17,4,13
+STU0546,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,6,6,3,9
+STU0547,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,86,10,1,7
+STU0548,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,16,5,3,15
+STU0549,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,2,2,4,10
+STU0550,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,62,7,1,20
+STU0551,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,79,14,3,8
+STU0552,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,92,2,4,4
+STU0553,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,81,2,3,12
+STU0554,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,37,9,4,3
+STU0555,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,23,8,3,18
+STU0556,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,28,16,4,16
+STU0557,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,11,2,3,5
+STU0558,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,98,2,1,19
+STU0559,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,59,13,4,6
+STU0560,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,7,11,3,21
+STU0561,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,74,14,4,8
+STU0562,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,25,4,1,9
+STU0563,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,50,2,3,17
+STU0564,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,48,7,1,23
+STU0565,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,67,2,3,14
+STU0566,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,40,17,4,13
+STU0567,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,20,5,3,15
+STU0568,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,3,2,4,10
+STU0569,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,63,7,1,20
+STU0570,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,93,2,3,4
+STU0571,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,83,2,1,12
+STU0572,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,45,9,4,3
+STU0573,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,55,8,3,18
+STU0574,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,30,16,4,16
+STU0575,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,13,2,3,5
+STU0576,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,96,2,1,19
+STU0577,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,65,13,4,6
+STU0578,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,89,11,3,21
+STU0579,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,73,14,1,7
+STU0580,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,52,2,4,17
+STU0581,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,34,7,3,23
+STU0582,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,80,18,4,2
+STU0583,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,39,9,3,19
+STU0584,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,69,2,1,14
+STU0585,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,44,17,4,13
+STU0586,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,6,6,3,9
+STU0587,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,86,10,1,7
+STU0588,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,16,5,3,15
+STU0589,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,2,2,4,10
+STU0590,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,62,7,1,20
+STU0591,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,79,14,3,8
+STU0592,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,92,2,4,4
+STU0593,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,81,2,3,12
+STU0594,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,37,9,4,3
+STU0595,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,23,8,3,18
+STU0596,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,28,16,4,16
+STU0597,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,11,2,3,5
+STU0598,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,98,2,1,19
+STU0599,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,59,13,4,6
+STU0600,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,7,11,3,21
+STU0601,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,74,14,4,8
+STU0602,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,25,4,1,9
+STU0603,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,50,2,3,17
+STU0604,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,48,7,1,23
+STU0605,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,67,2,3,14
+STU0606,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,40,17,4,13
+STU0607,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,20,5,3,15
+STU0608,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,3,2,4,10
+STU0609,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,63,7,1,20
+STU0610,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,93,2,3,4
+STU0611,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,83,2,1,12
+STU0612,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,45,9,4,3
+STU0613,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,55,8,3,18
+STU0614,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,30,16,4,16
+STU0615,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,13,2,3,5
+STU0616,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,96,2,1,19
+STU0617,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,65,13,4,6
+STU0618,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,89,11,3,21
+STU0619,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,73,14,1,7
+STU0620,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,52,2,4,17
+STU0621,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,34,7,3,23
+STU0622,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,80,18,4,2
+STU0623,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,39,9,3,19
+STU0624,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,69,2,1,14
+STU0625,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,44,17,4,13
+STU0626,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,6,6,3,9
+STU0627,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,86,10,1,7
+STU0628,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,16,5,3,15
+STU0629,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,2,2,4,10
+STU0630,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,62,7,1,20
+STU0631,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,79,14,3,8
+STU0632,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,92,2,4,4
+STU0633,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,81,2,3,12
+STU0634,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,37,9,4,3
+STU0635,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,23,8,3,18
+STU0636,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,28,16,4,16
+STU0637,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,11,2,3,5
+STU0638,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,98,2,1,19
+STU0639,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,59,13,4,6
+STU0640,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,7,11,3,21
+STU0641,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,74,14,4,8
+STU0642,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,25,4,1,9
+STU0643,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,50,2,3,17
+STU0644,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,48,7,1,23
+STU0645,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,67,2,3,14
+STU0646,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,40,17,4,13
+STU0647,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,20,5,3,15
+STU0648,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,3,2,4,10
+STU0649,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,63,7,1,20
+STU0650,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,93,2,3,4
+STU0651,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,83,2,1,12
+STU0652,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,45,9,4,3
+STU0653,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,55,8,3,18
+STU0654,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,30,16,4,16
+STU0655,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,13,2,3,5
+STU0656,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,96,2,1,19
+STU0657,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,65,13,4,6
+STU0658,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,89,11,3,21
+STU0659,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,73,14,1,7
+STU0660,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,52,2,4,17
+STU0661,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,34,7,3,23
+STU0662,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,80,18,4,2
+STU0663,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,39,9,3,19
+STU0664,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,69,2,1,14
+STU0665,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,44,17,4,13
+STU0666,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,6,6,3,9
+STU0667,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,86,10,1,7
+STU0668,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,16,5,3,15
+STU0669,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,2,2,4,10
+STU0670,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,62,7,1,20
+STU0671,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,79,14,3,8
+STU0672,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,92,2,4,4
+STU0673,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,81,2,3,12
+STU0674,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,37,9,4,3
+STU0675,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,23,8,3,18
+STU0676,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,28,16,4,16
+STU0677,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,11,2,3,5
+STU0678,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,98,2,1,19
+STU0679,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,59,13,4,6
+STU0680,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,7,11,3,21
+STU0681,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,74,14,4,8
+STU0682,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,25,4,1,9
+STU0683,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,50,2,3,17
+STU0684,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,48,7,1,23
+STU0685,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,67,2,3,14
+STU0686,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,40,17,4,13
+STU0687,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,20,5,3,15
+STU0688,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,3,2,4,10
+STU0689,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,63,7,1,20
+STU0690,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,93,2,3,4
+STU0691,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,83,2,1,12
+STU0692,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,45,9,4,3
+STU0693,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,55,8,3,18
+STU0694,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,30,16,4,16
+STU0695,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,13,2,3,5
+STU0696,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,96,2,1,19
+STU0697,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,65,13,4,6
+STU0698,"Scrum, Agile, Project Management, Leadership",Master's in Business Administration,Mid,Software Project Manager,90,11,3,21
+STU0699,"Python, Pandas, SQL, Data Visualization",Master's in Data Science,Entry,Data Analyst,72,14,1,7
+STU0700,"Kubernetes, Helm, AWS, Docker, CI/CD",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,53,2,4,17
+STU0701,"HTML, CSS, JavaScript, Angular",Bachelor's in Information Technology,Mid,Web Developer,31,7,3,23
+STU0702,"Python, TensorFlow, Deep Learning, NLP",PhD in Artificial Intelligence,Senior,AIML,76,18,4,2
+STU0703,"Java, Kotlin, Android Development, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,38,9,3,19
+STU0704,"Python, Flask, PostgreSQL, JavaScript",Bachelor's in Computer Science,Entry,Full Stack Python Developer,70,2,1,14
+STU0705,"Java, Spring Boot, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,42,17,4,13
+STU0706,"Adobe XD, Figma, UI/UX Design, Prototyping",Bachelor's in Graphic Design,Mid,Designer,5,6,3,9
+STU0707,"SQL, R, Tableau, Statistics",Bachelor's in Statistics,Entry,Data Analyst,87,10,1,7
+STU0708,"C++, Unity, Game Physics, VR Development",Bachelor's in Game Development,Mid,Game Developer,17,5,3,15
+STU0709,"AWS, Jenkins, Docker, Ansible",Bachelor's in Computer Science,Senior,DevOps Engineer,1,2,4,10
+STU0710,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,62,7,1,20
+STU0711,"Python, TensorFlow, Keras, Machine Learning",Master's in Data Science,Mid,Data Scientist,78,14,3,8
+STU0712,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,92,2,4,4
+STU0713,"React, JavaScript, HTML, CSS, TypeScript",Bachelor's in Computer Science,Mid,Frontend Developer,82,2,3,12
+STU0714,"Java, Hibernate, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,36,9,4,3
+STU0715,"Digital Marketing, SEO, Content Creation, Analytics",Bachelor's in Marketing,Mid,Marketing,22,8,3,18
+STU0716,"HR Management, Recruitment, Communication",Master's in Human Resources,Senior,HR,27,16,4,16
+STU0717,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,11,2,3,5
+STU0718,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,96,2,1,19
+STU0719,"Network Security, Penetration Testing, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,61,13,4,6
+STU0720,"Agile, JIRA, Stakeholder Management, Scrum",Master's in Business Administration,Mid,Software Project Manager,8,11,3,21
+STU0721,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,74,14,4,8
+STU0722,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,25,4,1,9
+STU0723,"Kubernetes, Docker, GCP, Terraform",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,51,2,3,17
+STU0724,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,48,7,1,23
+STU0725,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,67,2,3,14
+STU0726,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,40,17,4,13
+STU0727,"C++, Unreal Engine, Game Design, 3D Modeling",Bachelor's in Game Development,Mid,Game Developer,18,5,3,15
+STU0728,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,3,2,4,10
+STU0729,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,63,7,1,20
+STU0730,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,93,2,3,4
+STU0731,"React, TypeScript, HTML, CSS, Redux",Bachelor's in Computer Science,Entry,Frontend Developer,84,2,1,12
+STU0732,"Java, Spring, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,46,9,4,3
+STU0733,"Marketing Strategy, SEO, Social Media, PPC",Bachelor's in Marketing,Mid,Marketing,57,8,3,18
+STU0734,"HR Policies, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,29,16,4,16
+STU0735,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,13,2,3,5
+STU0736,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,98,2,1,19
+STU0737,"Network Security, Ethical Hacking, Firewalls",Master's in Cybersecurity,Senior,Cybersecurity Engineer,58,13,4,6
+STU0738,"Agile, Scrum, Project Management, Leadership",Master's in Business Administration,Mid,Software Project Manager,9,11,3,21
+STU0739,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,73,14,1,7
+STU0740,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,52,2,4,17
+STU0741,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,34,7,3,23
+STU0742,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,80,18,4,2
+STU0743,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,39,9,3,19
+STU0744,"Python, Flask, JavaScript, PostgreSQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,68,2,1,14
+STU0745,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,44,17,4,13
+STU0746,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,6,6,3,9
+STU0747,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,86,10,1,7
+STU0748,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,16,5,3,15
+STU0749,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,2,2,4,10
+STU0750,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,62,7,1,20
+STU0751,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,79,14,3,8
+STU0752,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,92,2,4,4
+STU0753,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,81,2,3,12
+STU0754,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,37,9,4,3
+STU0755,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,23,8,3,18
+STU0756,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,28,16,4,16
+STU0757,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,11,2,3,5
+STU0758,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,96,2,1,19
+STU0759,"Network Security, Penetration Testing, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,61,13,4,6
+STU0760,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,7,11,3,21
+STU0761,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,74,14,4,8
+STU0762,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,25,4,1,9
+STU0763,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,50,2,3,17
+STU0764,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,48,7,1,23
+STU0765,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,67,2,3,14
+STU0766,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,40,17,4,13
+STU0767,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,20,5,3,15
+STU0768,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,3,2,4,10
+STU0769,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,63,7,1,20
+STU0770,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,93,2,3,4
+STU0771,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,83,2,1,12
+STU0772,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,45,9,4,3
+STU0773,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,55,8,3,18
+STU0774,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,30,16,4,16
+STU0775,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,13,2,3,5
+STU0776,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,96,2,1,19
+STU0777,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,65,13,4,6
+STU0778,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,89,11,3,21
+STU0779,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,73,14,1,7
+STU0780,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,52,2,4,17
+STU0781,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,34,7,3,23
+STU0782,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,80,18,4,2
+STU0783,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,39,9,3,19
+STU0784,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,"Entry,",Full Stack Python Developer,69,2,2,14
+STU0785,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,44,17,4,13
+STU0786,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,6,6,3,9
+STU0787,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,86,10,1,7
+STU0788,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,16,5,3,15
+STU0789,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,2,2,4,10
+STU0790,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,62,7,1,20
+STU0791,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,79,14,3,8
+STU0792,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,92,2,4,4
+STU0793,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,81,2,3,12
+STU0794,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,37,9,4,3
+STU0795,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,23,8,3,18
+STU0796,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,28,16,4,16
+STU0797,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,11,2,3,5
+STU0798,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,98,2,1,19
+STU0799,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,59,13,4,6
+STU0800,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,7,11,3,21
+STU0801,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,74,14,4,8
+STU0802,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,25,4,1,9
+STU0803,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,50,2,3,17
+STU0804,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,48,7,1,23
+STU0805,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,67,2,3,14
+STU0806,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,40,17,4,13
+STU0807,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,20,5,3,15
+STU0808,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,3,2,4,10
+STU0809,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,63,7,1,20
+STU0810,"Solidity, Web3js, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,94,2,3,4
+STU0811,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,83,2,1,12
+STU0812,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,45,9,4,3
+STU0813,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,55,8,3,18
+STU0814,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,30,16,4,16
+STU0815,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,13,2,3,5
+STU0816,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,96,2,1,19
+STU0817,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,65,13,4,6
+STU0818,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,89,11,3,21
+STU0819,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,73,14,1,7
+STU0820,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,52,2,4,17
+STU0821,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,34,7,3,23
+STU0822,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,80,18,4,2
+STU0823,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,39,9,3,19
+STU0824,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,69,2,1,14
+STU0825,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,44,17,4,13
+STU0826,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,6,6,3,9
+STU0827,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,86,10,1,7
+STU0828,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,16,5,3,15
+STU0829,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,2,2,4,10
+STU0830,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,62,7,1,20
+STU0831,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,79,14,3,8
+STU0832,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,92,2,4,4
+STU0833,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,81,2,3,12
+STU0834,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,37,9,4,3
+STU0835,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,23,8,3,18
+STU0836,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,28,16,4,16
+STU0837,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,11,2,3,5
+STU0838,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,98,2,1,19
+STU0839,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,59,13,4,6
+STU0840,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,7,11,3,21
+STU0841,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,74,14,4,8
+STU0842,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,25,4,1,9
+STU0843,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,50,2,3,17
+STU0844,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,48,7,1,23
+STU0845,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,67,2,3,14
+STU0846,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,40,17,4,13
+STU0847,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,20,5,3,15
+STU0848,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,3,2,4,10
+STU0849,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,63,7,1,20
+STU0850,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,93,2,3,4
+STU0851,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,83,2,1,12
+STU0852,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,45,9,4,3
+STU0853,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,55,8,3,18
+STU0854,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,30,16,4,16
+STU0855,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,13,2,3,5
+STU0856,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,96,2,1,19
+STU0857,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,65,13,4,6
+STU0858,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,89,11,3,21
+STU0859,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,73,14,1,7
+STU0860,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,52,2,4,17
+STU0861,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,34,7,3,23
+STU0862,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,80,18,4,2
+STU0863,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,39,9,3,19
+STU0864,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,69,2,1,14
+STU0865,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,44,17,4,13
+STU0866,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,6,6,3,9
+STU0867,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,86,10,1,7
+STU0868,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,16,5,3,15
+STU0869,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,2,2,4,10
+STU0870,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,62,7,1,20
+STU0871,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,79,14,3,8
+STU0872,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,92,2,4,4
+STU0873,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,81,2,3,12
+STU0874,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,37,9,4,3
+STU0875,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,23,8,3,18
+STU0876,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,28,16,4,16
+STU0877,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,11,2,3,5
+STU0878,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,98,2,1,19
+STU0879,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,59,13,4,6
+STU0880,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,7,11,3,21
+STU0881,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,74,14,4,8
+STU0882,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,25,4,1,9
+STU0883,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,50,2,3,17
+STU0884,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,48,7,1,23
+STU0885,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,67,2,3,14
+STU0886,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,40,17,4,13
+STU0887,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,20,5,3,15
+STU0888,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,3,2,4,10
+STU0889,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,63,7,1,20
+STU0890,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,93,2,3,4
+STU0891,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,83,2,1,12
+STU0892,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,45,9,4,3
+STU0893,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,55,8,3,18
+STU0894,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,30,16,4,16
+STU0895,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,13,2,3,5
+STU0896,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,96,2,1,19
+STU0897,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,65,13,4,6
+STU0898,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,89,11,3,21
+STU0899,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,73,14,1,7
+STU0900,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,52,2,4,17
+STU0901,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,34,7,3,23
+STU0902,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,80,18,4,2
+STU0903,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,39,9,3,19
+STU0904,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,69,2,1,14
+STU0905,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,44,17,4,13
+STU0906,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,6,6,3,9
+STU0907,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,86,10,1,7
+STU0908,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,16,5,3,15
+STU0909,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,2,2,4,10
+STU0910,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,62,7,1,20
+STU0911,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,79,14,3,8
+STU0912,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,92,2,4,4
+STU0913,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,81,2,3,12
+STU0914,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,37,9,4,3
+STU0915,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,23,8,3,18
+STU0916,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,28,16,4,16
+STU0917,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,11,2,3,5
+STU0918,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,98,2,1,19
+STU0919,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,59,13,4,6
+STU0920,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,7,11,3,21
+STU0921,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,74,14,4,8
+STU0922,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,25,4,1,9
+STU0923,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,50,2,3,17
+STU0924,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,48,7,1,23
+STU0925,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,67,2,3,14
+STU0926,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,40,17,4,13
+STU0927,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,20,5,3,15
+STU0928,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,3,2,4,10
+STU0929,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,63,7,1,20
+STU0930,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,93,2,3,4
+STU0931,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,83,2,1,12
+STU0932,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,45,9,4,3
+STU0933,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,55,8,3,18
+STU0934,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,30,16,4,16
+STU0935,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,13,2,3,5
+STU0936,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,96,2,1,19
+STU0937,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,65,13,4,6
+STU0938,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,89,11,3,21
+STU0939,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,73,14,1,7
+STU0940,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,52,2,4,17
+STU0941,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,34,7,3,23
+STU0942,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,80,18,4,2
+STU0943,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,39,9,3,19
+STU0944,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,69,2,1,14
+STU0945,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,44,17,4,13
+STU0946,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,6,6,3,9
+STU0947,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,86,10,1,7
+STU0948,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,16,5,3,15
+STU0949,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,2,2,4,10
+STU0950,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,62,7,1,20
+STU0951,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,79,14,3,8
+STU0952,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,92,2,4,4
+STU0953,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,81,2,3,12
+STU0954,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,37,9,4,3
+STU0955,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,23,8,3,18
+STU0956,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,28,16,4,16
+STU0957,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,11,2,3,5
+STU0958,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,98,2,1,19
+STU0959,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,59,13,4,6
+STU0960,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,7,11,3,21
+STU0961,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,74,14,4,8
+STU0962,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,25,4,1,9
+STU0963,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,50,2,3,17
+STU0964,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,48,7,1,23
+STU0965,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,67,2,3,14
+STU0966,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,40,17,4,13
+STU0967,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,20,5,3,15
+STU0968,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,3,2,4,10
+STU0969,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,63,7,1,20
+STU0970,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,93,2,3,4
+STU0971,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,83,2,1,12
+STU0972,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,45,9,4,3
+STU0973,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,55,8,3,18
+STU0974,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,30,16,4,16
+STU0975,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,13,2,3,5
+STU0976,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,96,2,1,19
+STU0977,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,65,13,4,6
+STU0978,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,89,11,3,21
+STU0979,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,73,14,1,7
+STU0980,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,52,2,4,17
+STU0981,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,34,7,3,23
+STU0982,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,80,18,4,2
+STU0983,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,39,9,3,19
+STU0984,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,69,2,1,14
+STU0985,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,44,17,4,13
+STU0986,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,6,6,3,9
+STU0987,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,86,10,1,7
+STU0988,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,16,5,3,15
+STU0989,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,2,2,4,10
+STU0990,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,62,7,1,20
+STU0991,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,79,14,3,8
+STU0992,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,92,2,4,4
+STU0993,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,81,2,3,12
+STU0994,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,37,9,4,3
+STU0995,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,23,8,3,18
+STU0996,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,28,16,4,16
+STU0997,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,11,2,3,5
+STU0998,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,98,2,1,19
+STU0999,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,59,13,4,6
+STU1000,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,7,11,3,21

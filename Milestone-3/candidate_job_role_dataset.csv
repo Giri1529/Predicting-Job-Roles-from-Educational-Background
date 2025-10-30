@@ -1,0 +1,978 @@
+Student_ID,skills,qualification,experience_level,job_role,,Internships,Certification,SoftSkill,Work Preference,job_role
+STU0001,"Python, SQL, TensorFlow, Machine Learning, Communication",Master's in Data Science,Senior,Data Scientist,,2,Cisco CCNA,Leadership,In-office,Data Scientist
+STU0002,"HTML, CSS, JavaScript, React, Teamwork",Bachelor's in Computer Science,Mid,Frontend Developer,,2,PMP,Teamwork,In-office,Frontend Developer
+STU0003,"Java, Spring, SQL, REST APIs, Problem Solving",Bachelor's in Software Engineering,Senior,Backend Developer,,1,AWS Certified,Teamwork,Hybrid,Backend Developer
+STU0004,"Figma, Adobe XD, UI/UX Design, Creativity",Bachelor's in Design,Entry,Designer,,2,Google Cloud Certified,Teamwork,In-office,Designer
+STU0005,"Python, Django, JavaScript, React, Agile",Master's in Computer Science,Mid,Full Stack Python Developer,,3,None,Adaptability,Remote,Full Stack Python Developer
+STU0006,"Financial Modeling, Excel, Communication, Risk Analysis",Master's in Finance,Senior,Finance,,0,Cisco CCNA,Leadership,Hybrid,Finance
+STU0007,"C++, Unreal Engine, Game Design, Teamwork",Bachelor's in Game Development,Mid,Game Developer,,2,Cisco CCNA,Teamwork,Hybrid,Game Developer
+STU0008,"Kubernetes, Docker, AWS, CI/CD, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,,3,PMP,Teamwork,In-office,DevOps Engineer
+STU0009,"Java, Spring Boot, Hibernate, Microservices",Bachelor's in Software Engineering,Mid,Full Stack Java Developer,,1,Scrum Master,Teamwork,Hybrid,Full Stack Java Developer
+STU0010,"Solidity, Ethereum, JavaScript, Blockchain",Bachelor's in Computer Science,Entry,Blockchain Developer,,3,Scrum Master,Communication,Remote,Blockchain Developer
+STU0011,"Marketing Strategy, SEO, Content Creation, Analytics",Bachelor's in Marketing,Mid,Marketing,,1,Oracle Certified,Adaptability,In-office,Marketing
+STU0012,"Recruitment, HR Policies, Communication, Leadership",Master's in Human Resources,Senior,HR,,1,Cisco CCNA,Communication,In-office,HR
+STU0013,"C#, .NET, SQL, ASP.NET",Bachelor's in Computer Science,Mid,C# Developer,,0,None,Adaptability,Hybrid,C# Developer
+STU0014,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,0,AWS Certified,Teamwork,Hybrid,PHP Developer
+STU0015,"Swift, iOS Development, Objective-C, UI/UX",Bachelor's in Computer Science,Mid,Mobile Developer,,3,Google Cloud Certified,Leadership,Hybrid,Mobile Developer
+STU0016,"Network Security, Penetration Testing, Firewalls",Bachelor's in Cybersecurity,Senior,Cybersecurity Engineer,,0,Cisco CCNA,Critical Thinking,In-office,Cybersecurity Engineer
+STU0017,"Agile, Scrum, Project Management, Leadership",Master's in Business Administration,Senior,Software Project Manager,,0,Azure Fundamentals,Critical Thinking,Hybrid,Software Project Manager
+STU0018,"C++, Unity, Game Design, 3D Modeling",Bachelor's in Game Development,Entry,Video Game Designer,,0,Google Cloud Certified,Teamwork,Remote,Video Game Designer
+STU0019,"Python, Pandas, SQL, Data Visualization",Master's in Data Science,Mid,Data Analyst,,3,Oracle Certified,Communication,Hybrid,Data Analyst
+STU0020,"Kubernetes, Helm, AWS, Terraform",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,,2,Scrum Master,Leadership,Hybrid,Kubernetes Operations Engineer
+STU0021,"HTML, CSS, JavaScript, Node.js, MongoDB",Bachelor's in Computer Science,Mid,Web Developer,,0,None,Adaptability,In-office,Web Developer
+STU0022,"Python, Machine Learning, Deep Learning, NLP",PhD in Artificial Intelligence,Senior,AIML,,0,Cisco CCNA,Teamwork,Hybrid,AIML
+STU0023,"Java, Android Development, Kotlin, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,,3,PMP,Leadership,In-office,Mobile Developer
+STU0024,"Python, Flask, JavaScript, PostgreSQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,,2,Azure Fundamentals,Leadership,Hybrid,Full Stack Python Developer
+STU0025,"Java, Spring, Angular, Microservices",Master's in Software Engineering,Senior,Full Stack Java Developer,,0,Cisco CCNA,Adaptability,Remote,Full Stack Java Developer
+STU0026,"Adobe Illustrator, Photoshop, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,,1,None,Leadership,Remote,Designer
+STU0027,"SQL, Tableau, Data Analysis, Statistics",Bachelor's in Statistics,Entry,Data Analyst,,3,Oracle Certified,Communication,In-office,Data Analyst
+STU0028,"C#, Unity, Game Physics, 3D Modeling",Bachelor's in Game Development,Mid,Game Developer,,0,AWS Certified,Communication,In-office,Game Developer
+STU0029,"AWS, Jenkins, Docker, Ansible",Bachelor's in Computer Science,Senior,DevOps Engineer,,0,Azure Fundamentals,Communication,Hybrid,DevOps Engineer
+STU0030,"PHP, WordPress, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,1,Oracle Certified,Leadership,Hybrid,PHP Developer
+STU0035,"Digital Marketing, Google Analytics, SEO, PPC",Bachelor's in Marketing,Mid,Marketing,,1,Cisco CCNA,Communication,Remote,Marketing
+STU0036,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,,3,AWS Certified,Adaptability,Hybrid,HR
+STU0037,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,,3,Azure Fundamentals,Leadership,Remote,C# Developer
+STU0038,"Swift, iOS, Xcode, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,,1,AWS Certified,Critical Thinking,In-office,Mobile Developer
+STU0039,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,3,AWS Certified,Leadership,Hybrid,Cybersecurity Engineer
+STU0040,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,,1,Azure Fundamentals,Adaptability,In-office,Software Project Manager
+STU0041,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,,0,Azure Fundamentals,Critical Thinking,Hybrid,Data Scientist
+STU0042,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,,1,AWS Certified,Leadership,Remote,Designer
+STU0043,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,,1,Oracle Certified,Communication,In-office,Kubernetes Operations Engineer
+STU0044,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,,2,None,Teamwork,In-office,Web Developer
+STU0046,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,1,Scrum Master,Teamwork,Hybrid,Full Stack Java Developer
+STU0047,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,,1,Azure Fundamentals,Communication,In-office,Game Developer
+STU0048,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,,2,Cisco CCNA,Teamwork,Remote,DevOps Engineer
+STU0053,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,,3,Google Cloud Certified,Teamwork,In-office,Marketing
+STU0054,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,,2,PMP,Communication,In-office,HR
+STU0055,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,,0,AWS Certified,Communication,Hybrid,C# Developer
+STU0056,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,,2,AWS Certified,Leadership,In-office,Mobile Developer
+STU0057,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,0,PMP,Leadership,Hybrid,Cybersecurity Engineer
+STU0058,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,,3,Scrum Master,Communication,Hybrid,Software Project Manager
+STU0059,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,,2,PMP,Adaptability,In-office,Data Analyst
+STU0060,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,,2,Azure Fundamentals,Teamwork,Remote,Kubernetes Operations Engineer
+STU0061,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,,3,PMP,Leadership,Hybrid,Web Developer
+STU0062,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,,0,AWS Certified,Teamwork,In-office,AIML
+STU0063,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,,2,PMP,Critical Thinking,Hybrid,Mobile Developer
+STU0064,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,,0,Google Cloud Certified,Communication,Remote,Full Stack Python Developer
+STU0065,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,2,Cisco CCNA,Adaptability,Remote,Full Stack Java Developer
+STU0066,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,,1,Azure Fundamentals,Critical Thinking,Hybrid,Designer
+STU0074,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,,2,PMP,Critical Thinking,Remote,Backend Developer
+STU0075,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,,3,AWS Certified,Critical Thinking,In-office,Marketing
+STU0076,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,,3,Oracle Certified,Communication,In-office,HR
+STU0077,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,,0,Cisco CCNA,Leadership,Hybrid,C# Developer
+STU0078,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,,2,Azure Fundamentals,Communication,Remote,Mobile Developer
+STU0079,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,0,AWS Certified,Leadership,In-office,Cybersecurity Engineer
+STU0080,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,,0,Scrum Master,Critical Thinking,In-office,Software Project Manager
+STU0081,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,,1,Google Cloud Certified,Critical Thinking,In-office,Data Scientist
+STU0082,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,,1,None,Adaptability,Hybrid,Designer
+STU0083,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,,3,Scrum Master,Leadership,Hybrid,Kubernetes Operations Engineer
+STU0084,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,,0,None,Critical Thinking,In-office,Web Developer
+STU0085,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,,3,Google Cloud Certified,Teamwork,In-office,Full Stack Python Developer
+STU0090,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,,2,PMP,Adaptability,Remote,Blockchain Developer
+STU0091,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,,0,Azure Fundamentals,Communication,Remote,Frontend Developer
+STU0092,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,,0,PMP,Adaptability,Remote,Backend Developer
+STU0093,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,,2,Google Cloud Certified,Teamwork,Hybrid,Marketing
+STU0094,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,,2,Google Cloud Certified,Leadership,In-office,HR
+STU0095,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,,3,Google Cloud Certified,Communication,Hybrid,C# Developer
+STU0098,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,,3,None,Communication,In-office,Software Project Manager
+STU0099,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,,2,Cisco CCNA,Leadership,Remote,Data Analyst
+STU0100,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,,3,AWS Certified,Adaptability,Remote,Kubernetes Operations Engineer
+STU0101,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,,2,Azure Fundamentals,Critical Thinking,Remote,Web Developer
+STU0102,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,,0,PMP,Adaptability,Remote,AIML
+STU0103,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,,0,PMP,Teamwork,In-office,Mobile Developer
+STU0105,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,1,Scrum Master,Critical Thinking,Remote,Full Stack Java Developer
+STU0106,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,,0,None,Adaptability,In-office,Designer
+STU0107,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,,2,Google Cloud Certified,Leadership,In-office,Data Analyst
+STU0108,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,,3,Oracle Certified,Teamwork,Hybrid,Game Developer
+STU0109,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,,1,Google Cloud Certified,Teamwork,Remote,DevOps Engineer
+STU0110,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,3,Google Cloud Certified,Teamwork,Remote,PHP Developer
+STU0111,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,,2,Oracle Certified,Critical Thinking,Hybrid,Data Scientist
+STU0112,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,,0,PMP,Communication,In-office,Blockchain Developer
+STU0113,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,,1,Scrum Master,Critical Thinking,Remote,Frontend Developer
+STU0114,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,,2,AWS Certified,Adaptability,In-office,Backend Developer
+STU0115,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,,1,Oracle Certified,Communication,Hybrid,Marketing
+STU0116,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,,1,None,Adaptability,In-office,HR
+STU0117,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,,0,Cisco CCNA,Communication,Remote,C# Developer
+STU0118,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,,2,Azure Fundamentals,Critical Thinking,In-office,Mobile Developer
+STU0119,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,3,None,Teamwork,In-office,Cybersecurity Engineer
+STU0120,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,,1,Oracle Certified,Leadership,Remote,Software Project Manager
+STU0121,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,,1,AWS Certified,Teamwork,Remote,Data Scientist
+STU0122,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,,3,PMP,Critical Thinking,In-office,Designer
+STU0123,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,,2,Cisco CCNA,Communication,In-office,Kubernetes Operations Engineer
+STU0124,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,,1,Cisco CCNA,Teamwork,Hybrid,Web Developer
+STU0125,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,,1,Cisco CCNA,Critical Thinking,Remote,Full Stack Python Developer
+STU0126,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,1,Google Cloud Certified,Adaptability,In-office,Full Stack Java Developer
+STU0127,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,,2,Azure Fundamentals,Leadership,Remote,Game Developer
+STU0128,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,,2,PMP,Teamwork,Hybrid,DevOps Engineer
+STU0129,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,3,PMP,Communication,In-office,PHP Developer
+STU0130,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,,2,Cisco CCNA,Adaptability,In-office,Blockchain Developer
+STU0131,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,,2,PMP,Critical Thinking,In-office,Frontend Developer
+STU0132,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,,0,Azure Fundamentals,Leadership,Remote,Backend Developer
+STU0133,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,,3,Azure Fundamentals,Communication,Hybrid,Marketing
+STU0134,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,,1,Scrum Master,Critical Thinking,Remote,HR
+STU0135,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,,2,Oracle Certified,Critical Thinking,In-office,C# Developer
+STU0136,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,,1,Oracle Certified,Teamwork,Hybrid,Mobile Developer
+STU0137,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,1,Scrum Master,Teamwork,In-office,Cybersecurity Engineer
+STU0138,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,,0,AWS Certified,Communication,In-office,Software Project Manager
+STU0139,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,,2,Oracle Certified,Critical Thinking,Remote,Data Analyst
+STU0140,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,,3,Azure Fundamentals,Teamwork,In-office,Kubernetes Operations Engineer
+STU0141,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,,2,Azure Fundamentals,Leadership,Hybrid,Web Developer
+STU0142,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,,1,Oracle Certified,Leadership,In-office,AIML
+STU0143,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,,3,Azure Fundamentals,Critical Thinking,In-office,Mobile Developer
+STU0144,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,,2,Scrum Master,Teamwork,Remote,Full Stack Python Developer
+STU0145,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,1,Cisco CCNA,Communication,Hybrid,Full Stack Java Developer
+STU0146,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,,1,Cisco CCNA,Communication,Remote,Designer
+STU0147,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,,0,PMP,Communication,In-office,Data Analyst
+STU0148,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,,0,None,Leadership,Remote,Game Developer
+STU0149,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,,0,None,Teamwork,Remote,DevOps Engineer
+STU0150,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,1,Cisco CCNA,Teamwork,Remote,PHP Developer
+STU0151,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,,2,Google Cloud Certified,Leadership,Remote,Data Scientist
+STU0152,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,,0,Scrum Master,Communication,In-office,Blockchain Developer
+STU0153,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,,2,Azure Fundamentals,Communication,In-office,Frontend Developer
+STU0154,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,,0,Oracle Certified,Critical Thinking,Hybrid,Backend Developer
+STU0155,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,,3,Cisco CCNA,Adaptability,Remote,Marketing
+STU0156,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,,3,Scrum Master,Teamwork,Remote,HR
+STU0157,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,,0,Cisco CCNA,Teamwork,Hybrid,C# Developer
+STU0158,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,,1,AWS Certified,Teamwork,Remote,Mobile Developer
+STU0159,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,0,Azure Fundamentals,Adaptability,Hybrid,Cybersecurity Engineer
+STU0160,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,,0,AWS Certified,Critical Thinking,In-office,Software Project Manager
+STU0161,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,,1,Azure Fundamentals,Adaptability,Hybrid,Data Scientist
+STU0162,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,,3,Scrum Master,Communication,Remote,Designer
+STU0163,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,,2,PMP,Communication,Hybrid,Kubernetes Operations Engineer
+STU0164,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,,0,Cisco CCNA,Teamwork,In-office,Web Developer
+STU0165,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,,1,Cisco CCNA,Leadership,Remote,Full Stack Python Developer
+STU0166,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,0,Google Cloud Certified,Teamwork,In-office,Full Stack Java Developer
+STU0167,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,,1,Oracle Certified,Leadership,In-office,Game Developer
+STU0168,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,,2,AWS Certified,Adaptability,Hybrid,DevOps Engineer
+STU0169,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,2,Cisco CCNA,Communication,In-office,PHP Developer
+STU0170,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,,3,Scrum Master,Leadership,Remote,Blockchain Developer
+STU0171,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,,1,PMP,Adaptability,In-office,Frontend Developer
+STU0172,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,,1,Oracle Certified,Communication,In-office,Backend Developer
+STU0173,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,,3,Scrum Master,Leadership,Hybrid,Marketing
+STU0174,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,,3,AWS Certified,Teamwork,In-office,HR
+STU0175,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,,1,Google Cloud Certified,Teamwork,Hybrid,C# Developer
+STU0176,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,,3,Cisco CCNA,Teamwork,Hybrid,Mobile Developer
+STU0177,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,2,Scrum Master,Adaptability,Remote,Cybersecurity Engineer
+STU0178,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,,0,Oracle Certified,Teamwork,Remote,Software Project Manager
+STU0179,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,,2,Azure Fundamentals,Critical Thinking,Remote,Data Analyst
+STU0180,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,,3,PMP,Communication,Remote,Kubernetes Operations Engineer
+STU0181,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,,1,Oracle Certified,Adaptability,Hybrid,Web Developer
+STU0182,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,,1,Scrum Master,Teamwork,In-office,AIML
+STU0183,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,,2,PMP,Communication,Remote,Mobile Developer
+STU0184,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,,1,Cisco CCNA,Leadership,Remote,Full Stack Python Developer
+STU0185,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,3,Azure Fundamentals,Teamwork,Remote,Full Stack Java Developer
+STU0186,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,,2,Google Cloud Certified,Communication,In-office,Designer
+STU0187,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,,1,Oracle Certified,Critical Thinking,Remote,Data Analyst
+STU0188,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,,0,Google Cloud Certified,Leadership,In-office,Game Developer
+STU0189,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,,0,Azure Fundamentals,Critical Thinking,Hybrid,DevOps Engineer
+STU0190,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,3,PMP,Communication,Hybrid,PHP Developer
+STU0191,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,,1,Cisco CCNA,Critical Thinking,Hybrid,Data Scientist
+STU0192,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,,3,Scrum Master,Communication,In-office,Blockchain Developer
+STU0193,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,,2,Azure Fundamentals,Communication,Remote,Frontend Developer
+STU0194,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,,0,AWS Certified,Critical Thinking,Remote,Backend Developer
+STU0195,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,,2,PMP,Communication,Remote,Marketing
+STU0196,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,,1,Google Cloud Certified,Teamwork,Remote,HR
+STU0197,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,,3,Oracle Certified,Communication,Remote,C# Developer
+STU0198,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,,3,Azure Fundamentals,Adaptability,In-office,Mobile Developer
+STU0199,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,3,Google Cloud Certified,Communication,Hybrid,Cybersecurity Engineer
+STU0200,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,,2,PMP,Adaptability,Remote,Software Project Manager
+STU0201,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,,0,Google Cloud Certified,Communication,Hybrid,Data Scientist
+STU0202,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,,2,Azure Fundamentals,Communication,In-office,Designer
+STU0203,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,,2,PMP,Critical Thinking,In-office,Kubernetes Operations Engineer
+STU0204,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,,1,AWS Certified,Teamwork,Remote,Web Developer
+STU0205,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,,1,Azure Fundamentals,Teamwork,In-office,Full Stack Python Developer
+STU0206,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,1,Scrum Master,Leadership,Hybrid,Full Stack Java Developer
+STU0207,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,,0,None,Critical Thinking,Remote,Game Developer
+STU0208,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,,0,Cisco CCNA,Critical Thinking,Remote,DevOps Engineer
+STU0209,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,1,Azure Fundamentals,Teamwork,Hybrid,PHP Developer
+STU0210,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,,1,PMP,Critical Thinking,Remote,Blockchain Developer
+STU0211,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,,0,Oracle Certified,Teamwork,Remote,Frontend Developer
+STU0212,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,,3,Cisco CCNA,Critical Thinking,Hybrid,Backend Developer
+STU0213,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,,0,Azure Fundamentals,Communication,Remote,Marketing
+STU0214,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,,0,AWS Certified,Teamwork,Remote,HR
+STU0215,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,,0,Oracle Certified,Teamwork,Hybrid,C# Developer
+STU0216,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,,1,AWS Certified,Adaptability,In-office,Mobile Developer
+STU0217,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,3,Scrum Master,Critical Thinking,Hybrid,Cybersecurity Engineer
+STU0218,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,,0,Oracle Certified,Critical Thinking,Remote,Software Project Manager
+STU0219,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,,1,Google Cloud Certified,Teamwork,Hybrid,Data Analyst
+STU0220,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,,2,None,Communication,Remote,Kubernetes Operations Engineer
+STU0221,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,,2,Oracle Certified,Communication,Remote,Web Developer
+STU0222,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,,0,Cisco CCNA,Communication,Hybrid,AIML
+STU0223,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,,2,Oracle Certified,Critical Thinking,Remote,Mobile Developer
+STU0224,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,,3,PMP,Adaptability,In-office,Full Stack Python Developer
+STU0225,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,2,None,Teamwork,Remote,Full Stack Java Developer
+STU0226,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,,2,PMP,Leadership,Hybrid,Designer
+STU0227,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,,3,Google Cloud Certified,Adaptability,In-office,Data Analyst
+STU0228,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,,0,Oracle Certified,Leadership,In-office,Game Developer
+STU0229,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,,0,AWS Certified,Adaptability,Remote,DevOps Engineer
+STU0230,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,3,AWS Certified,Communication,Hybrid,PHP Developer
+STU0231,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,,3,Azure Fundamentals,Critical Thinking,Remote,Data Scientist
+STU0232,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,,3,Scrum Master,Leadership,Remote,Blockchain Developer
+STU0233,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,,2,Cisco CCNA,Adaptability,Hybrid,Frontend Developer
+STU0234,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,,3,None,Critical Thinking,Hybrid,Backend Developer
+STU0235,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,,1,Scrum Master,Leadership,Remote,Marketing
+STU0236,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,,2,Oracle Certified,Teamwork,In-office,HR
+STU0237,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,,0,Scrum Master,Adaptability,Remote,C# Developer
+STU0238,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,,0,Azure Fundamentals,Teamwork,In-office,Mobile Developer
+STU0239,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,0,Scrum Master,Communication,Remote,Cybersecurity Engineer
+STU0240,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,,2,None,Teamwork,Hybrid,Software Project Manager
+STU0241,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,,1,Google Cloud Certified,Teamwork,In-office,Data Scientist
+STU0242,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,,3,Azure Fundamentals,Adaptability,Hybrid,Designer
+STU0243,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,,3,Google Cloud Certified,Communication,Hybrid,Kubernetes Operations Engineer
+STU0244,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,,0,Oracle Certified,Teamwork,Hybrid,Web Developer
+STU0245,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,,0,Azure Fundamentals,Critical Thinking,Hybrid,Full Stack Python Developer
+STU0246,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,2,Oracle Certified,Leadership,Hybrid,Full Stack Java Developer
+STU0247,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,,1,Oracle Certified,Teamwork,Remote,Game Developer
+STU0248,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,,3,Scrum Master,Communication,In-office,DevOps Engineer
+STU0249,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,2,Google Cloud Certified,Teamwork,Remote,PHP Developer
+STU0250,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,,3,Oracle Certified,Leadership,Remote,Blockchain Developer
+STU0251,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,,0,Google Cloud Certified,Communication,Remote,Frontend Developer
+STU0252,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,,3,Google Cloud Certified,Adaptability,Hybrid,Backend Developer
+STU0253,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,,1,Azure Fundamentals,Communication,Remote,Marketing
+STU0254,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,,1,PMP,Adaptability,In-office,HR
+STU0255,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,,0,Scrum Master,Communication,Remote,C# Developer
+STU0256,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,,1,Oracle Certified,Leadership,Hybrid,Mobile Developer
+STU0257,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,1,Google Cloud Certified,Leadership,In-office,Cybersecurity Engineer
+STU0258,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,,2,Cisco CCNA,Communication,In-office,Software Project Manager
+STU0259,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,,3,PMP,Teamwork,In-office,Data Analyst
+STU0260,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,,0,Oracle Certified,Leadership,In-office,Kubernetes Operations Engineer
+STU0261,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,,0,Cisco CCNA,Adaptability,Remote,Web Developer
+STU0262,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,,0,Scrum Master,Adaptability,Hybrid,AIML
+STU0263,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,,0,Scrum Master,Critical Thinking,In-office,Mobile Developer
+STU0264,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,,0,Google Cloud Certified,Adaptability,In-office,Full Stack Python Developer
+STU0265,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,1,Google Cloud Certified,Critical Thinking,Hybrid,Full Stack Java Developer
+STU0266,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,,2,None,Communication,Remote,Designer
+STU0267,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,,0,None,Communication,In-office,Data Analyst
+STU0268,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,,2,Oracle Certified,Communication,Remote,Game Developer
+STU0269,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,,2,Azure Fundamentals,Teamwork,Remote,DevOps Engineer
+STU0270,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,1,PMP,Teamwork,Remote,PHP Developer
+STU0271,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,,0,Oracle Certified,Critical Thinking,Remote,Data Scientist
+STU0272,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,,1,PMP,Adaptability,In-office,Blockchain Developer
+STU0273,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,,0,Google Cloud Certified,Adaptability,In-office,Frontend Developer
+STU0274,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,,1,Scrum Master,Communication,Remote,Backend Developer
+STU0275,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,,2,Google Cloud Certified,Leadership,Remote,Marketing
+STU0276,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,,0,Scrum Master,Teamwork,Hybrid,HR
+STU0277,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,,3,None,Teamwork,Hybrid,C# Developer
+STU0278,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,,2,Oracle Certified,Communication,Hybrid,Mobile Developer
+STU0279,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,3,None,Teamwork,In-office,Cybersecurity Engineer
+STU0280,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,,2,Scrum Master,Communication,Hybrid,Software Project Manager
+STU0281,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,,1,Google Cloud Certified,Critical Thinking,In-office,Data Scientist
+STU0282,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,,0,None,Adaptability,In-office,Designer
+STU0283,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,,2,AWS Certified,Leadership,In-office,Kubernetes Operations Engineer
+STU0284,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,,1,PMP,Adaptability,In-office,Web Developer
+STU0285,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,,0,Cisco CCNA,Adaptability,Hybrid,Full Stack Python Developer
+STU0286,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,0,Scrum Master,Critical Thinking,Remote,Full Stack Java Developer
+STU0287,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,,2,Scrum Master,Teamwork,Remote,Game Developer
+STU0288,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,,0,AWS Certified,Leadership,Remote,DevOps Engineer
+STU0289,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,2,Oracle Certified,Teamwork,Hybrid,PHP Developer
+STU0290,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,,0,Oracle Certified,Adaptability,Remote,Blockchain Developer
+STU0291,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,,3,Oracle Certified,Communication,Hybrid,Frontend Developer
+STU0292,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,,1,Cisco CCNA,Adaptability,Hybrid,Backend Developer
+STU0293,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,,3,Azure Fundamentals,Teamwork,Hybrid,Marketing
+STU0294,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,,2,AWS Certified,Adaptability,Remote,HR
+STU0295,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,,3,Cisco CCNA,Communication,Remote,C# Developer
+STU0296,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,,2,None,Critical Thinking,Remote,Mobile Developer
+STU0297,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,0,AWS Certified,Teamwork,In-office,Cybersecurity Engineer
+STU0298,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,,0,Scrum Master,Adaptability,Hybrid,Software Project Manager
+STU0299,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,,2,PMP,Teamwork,In-office,Data Analyst
+STU0300,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,,3,AWS Certified,Critical Thinking,Hybrid,Kubernetes Operations Engineer
+STU0301,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,,0,Azure Fundamentals,Adaptability,Remote,Web Developer
+STU0302,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,,1,Google Cloud Certified,Adaptability,Hybrid,AIML
+STU0303,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,,0,None,Teamwork,Hybrid,Mobile Developer
+STU0304,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,,1,Cisco CCNA,Teamwork,In-office,Full Stack Python Developer
+STU0305,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,3,None,Communication,Hybrid,Full Stack Java Developer
+STU0306,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,,1,None,Critical Thinking,Remote,Designer
+STU0307,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,,1,AWS Certified,Communication,Hybrid,Data Analyst
+STU0308,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,,1,AWS Certified,Adaptability,Hybrid,Game Developer
+STU0309,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,,1,Azure Fundamentals,Teamwork,Hybrid,DevOps Engineer
+STU0310,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,0,PMP,Adaptability,In-office,PHP Developer
+STU0311,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,,1,AWS Certified,Adaptability,Hybrid,Data Scientist
+STU0312,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,,0,AWS Certified,Leadership,Hybrid,Blockchain Developer
+STU0313,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,,1,PMP,Leadership,In-office,Frontend Developer
+STU0314,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,,2,Azure Fundamentals,Adaptability,In-office,Backend Developer
+STU0315,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,,3,Cisco CCNA,Teamwork,In-office,Marketing
+STU0316,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,,1,None,Adaptability,In-office,HR
+STU0317,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,,2,Cisco CCNA,Leadership,Remote,C# Developer
+STU0318,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,,1,AWS Certified,Teamwork,Remote,Mobile Developer
+STU0319,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,1,PMP,Adaptability,Hybrid,Cybersecurity Engineer
+STU0320,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,,1,AWS Certified,Critical Thinking,Remote,Software Project Manager
+STU0321,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,,2,Oracle Certified,Critical Thinking,Hybrid,Data Scientist
+STU0322,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,,3,Google Cloud Certified,Adaptability,Remote,Designer
+STU0323,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,,2,Cisco CCNA,Teamwork,In-office,Kubernetes Operations Engineer
+STU0324,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,,3,Oracle Certified,Adaptability,In-office,Web Developer
+STU0325,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,,1,Scrum Master,Adaptability,Remote,Full Stack Python Developer
+STU0326,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,0,Google Cloud Certified,Leadership,Remote,Full Stack Java Developer
+STU0327,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,,1,AWS Certified,Critical Thinking,Hybrid,Game Developer
+STU0328,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,,3,Azure Fundamentals,Leadership,Hybrid,DevOps Engineer
+STU0329,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,2,Cisco CCNA,Leadership,Hybrid,PHP Developer
+STU0330,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,,1,Scrum Master,Adaptability,In-office,Blockchain Developer
+STU0331,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,,2,Google Cloud Certified,Leadership,In-office,Frontend Developer
+STU0332,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,,2,Cisco CCNA,Critical Thinking,In-office,Backend Developer
+STU0333,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,,2,PMP,Leadership,In-office,Marketing
+STU0334,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,,1,Azure Fundamentals,Critical Thinking,Hybrid,HR
+STU0335,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,,2,Google Cloud Certified,Leadership,In-office,C# Developer
+STU0336,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,,2,PMP,Critical Thinking,In-office,Mobile Developer
+STU0337,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,1,Oracle Certified,Leadership,In-office,Cybersecurity Engineer
+STU0338,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,,2,AWS Certified,Leadership,In-office,Software Project Manager
+STU0339,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,,1,PMP,Teamwork,Remote,Data Analyst
+STU0340,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,,3,Google Cloud Certified,Critical Thinking,Hybrid,Kubernetes Operations Engineer
+STU0341,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,,3,None,Critical Thinking,Hybrid,Web Developer
+STU0342,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,,3,Google Cloud Certified,Critical Thinking,In-office,AIML
+STU0343,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,,2,None,Communication,Remote,Mobile Developer
+STU0344,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,,0,Oracle Certified,Leadership,Hybrid,Full Stack Python Developer
+STU0345,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,0,AWS Certified,Critical Thinking,Hybrid,Full Stack Java Developer
+STU0346,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,,2,None,Communication,In-office,Designer
+STU0347,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,,0,None,Teamwork,In-office,Data Analyst
+STU0348,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,,1,PMP,Critical Thinking,Hybrid,Game Developer
+STU0349,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,,0,PMP,Critical Thinking,Hybrid,DevOps Engineer
+STU0350,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,2,AWS Certified,Communication,Remote,PHP Developer
+STU0351,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,,2,PMP,Leadership,Hybrid,Data Scientist
+STU0352,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,,1,Cisco CCNA,Teamwork,Hybrid,Blockchain Developer
+STU0353,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,,3,AWS Certified,Critical Thinking,In-office,Frontend Developer
+STU0354,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,,2,Azure Fundamentals,Leadership,Hybrid,Backend Developer
+STU0355,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,,1,None,Teamwork,In-office,Marketing
+STU0356,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,,0,Google Cloud Certified,Adaptability,Hybrid,HR
+STU0357,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,,0,Azure Fundamentals,Adaptability,Hybrid,C# Developer
+STU0358,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,,1,None,Teamwork,Hybrid,Mobile Developer
+STU0359,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,1,Cisco CCNA,Communication,Remote,Cybersecurity Engineer
+STU0360,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,,2,None,Teamwork,In-office,Software Project Manager
+STU0361,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,,0,None,Teamwork,Remote,Data Scientist
+STU0362,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,,1,None,Communication,Hybrid,Designer
+STU0363,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,,0,Oracle Certified,Communication,Remote,Kubernetes Operations Engineer
+STU0364,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,,1,Cisco CCNA,Leadership,In-office,Web Developer
+STU0365,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,,0,Scrum Master,Leadership,Hybrid,Full Stack Python Developer
+STU0366,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,3,Scrum Master,Communication,Remote,Full Stack Java Developer
+STU0367,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,,2,Scrum Master,Adaptability,Remote,Game Developer
+STU0368,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,,0,AWS Certified,Adaptability,In-office,DevOps Engineer
+STU0369,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,3,PMP,Teamwork,Remote,PHP Developer
+STU0370,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,,0,Cisco CCNA,Critical Thinking,In-office,Blockchain Developer
+STU0371,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,,0,Azure Fundamentals,Teamwork,Hybrid,Frontend Developer
+STU0372,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,,3,Oracle Certified,Teamwork,Hybrid,Backend Developer
+STU0373,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,,0,Azure Fundamentals,Critical Thinking,Remote,Marketing
+STU0374,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,,0,Azure Fundamentals,Communication,Hybrid,HR
+STU0375,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,,2,Azure Fundamentals,Adaptability,Hybrid,C# Developer
+STU0376,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,,3,Oracle Certified,Teamwork,Remote,Mobile Developer
+STU0377,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,3,Scrum Master,Critical Thinking,Hybrid,Cybersecurity Engineer
+STU0378,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,,1,Azure Fundamentals,Leadership,Remote,Software Project Manager
+STU0379,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,,0,Oracle Certified,Teamwork,In-office,Data Analyst
+STU0380,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,,2,Oracle Certified,Adaptability,In-office,Kubernetes Operations Engineer
+STU0381,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,,0,PMP,Communication,In-office,Web Developer
+STU0382,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,,0,Oracle Certified,Teamwork,Remote,AIML
+STU0383,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,,1,Scrum Master,Teamwork,Remote,Mobile Developer
+STU0384,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,,0,Azure Fundamentals,Critical Thinking,Hybrid,Full Stack Python Developer
+STU0385,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,2,Oracle Certified,Leadership,Hybrid,Full Stack Java Developer
+STU0386,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,,2,AWS Certified,Leadership,Hybrid,Designer
+STU0387,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,,1,Oracle Certified,Communication,Hybrid,Data Analyst
+STU0388,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,,0,Google Cloud Certified,Adaptability,Hybrid,Game Developer
+STU0389,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,,2,Google Cloud Certified,Communication,Remote,DevOps Engineer
+STU0390,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,0,Google Cloud Certified,Teamwork,Remote,PHP Developer
+STU0391,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,,0,Oracle Certified,Teamwork,In-office,Data Scientist
+STU0392,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,,0,Scrum Master,Leadership,In-office,Blockchain Developer
+STU0393,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,,1,Azure Fundamentals,Adaptability,In-office,Frontend Developer
+STU0394,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,,0,Cisco CCNA,Critical Thinking,In-office,Backend Developer
+STU0395,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,,2,Cisco CCNA,Adaptability,Remote,Marketing
+STU0396,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,,0,Cisco CCNA,Teamwork,Remote,HR
+STU0397,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,,2,Scrum Master,Critical Thinking,Remote,C# Developer
+STU0398,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,,0,PMP,Adaptability,Hybrid,Mobile Developer
+STU0399,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,2,None,Adaptability,Hybrid,Cybersecurity Engineer
+STU0400,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,,2,AWS Certified,Critical Thinking,In-office,Software Project Manager
+STU0401,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,,0,AWS Certified,Teamwork,Hybrid,Data Scientist
+STU0402,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,,0,Google Cloud Certified,Adaptability,Remote,Designer
+STU0403,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,,2,Google Cloud Certified,Critical Thinking,In-office,Kubernetes Operations Engineer
+STU0404,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,,3,Oracle Certified,Teamwork,In-office,Web Developer
+STU0405,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,,1,Cisco CCNA,Critical Thinking,Hybrid,Full Stack Python Developer
+STU0406,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,3,Oracle Certified,Critical Thinking,In-office,Full Stack Java Developer
+STU0407,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,,3,None,Adaptability,Hybrid,Game Developer
+STU0408,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,,0,Cisco CCNA,Teamwork,Hybrid,DevOps Engineer
+STU0409,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,1,Google Cloud Certified,Adaptability,In-office,PHP Developer
+STU0410,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,,3,Azure Fundamentals,Communication,Hybrid,Blockchain Developer
+STU0411,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,,0,PMP,Communication,Hybrid,Frontend Developer
+STU0412,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,,3,Oracle Certified,Teamwork,Hybrid,Backend Developer
+STU0413,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,,3,PMP,Critical Thinking,Hybrid,Marketing
+STU0414,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,,0,PMP,Adaptability,In-office,HR
+STU0415,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,,0,PMP,Adaptability,Remote,C# Developer
+STU0416,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,,0,Google Cloud Certified,Teamwork,Remote,Mobile Developer
+STU0417,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,1,AWS Certified,Teamwork,Hybrid,Cybersecurity Engineer
+STU0418,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,,3,Google Cloud Certified,Communication,Hybrid,Software Project Manager
+STU0419,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,,0,PMP,Leadership,Hybrid,Data Analyst
+STU0420,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,,2,Google Cloud Certified,Teamwork,Remote,Kubernetes Operations Engineer
+STU0421,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,,3,PMP,Leadership,Hybrid,Web Developer
+STU0422,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,,2,Scrum Master,Teamwork,In-office,AIML
+STU0423,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,,1,Cisco CCNA,Critical Thinking,In-office,Mobile Developer
+STU0424,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,,0,AWS Certified,Critical Thinking,In-office,Full Stack Python Developer
+STU0425,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,2,Scrum Master,Communication,Remote,Full Stack Java Developer
+STU0426,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,,1,Azure Fundamentals,Communication,Hybrid,Designer
+STU0427,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,,0,Google Cloud Certified,Leadership,Hybrid,Data Analyst
+STU0428,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,,2,Azure Fundamentals,Teamwork,Hybrid,Game Developer
+STU0429,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,,2,Oracle Certified,Adaptability,Remote,DevOps Engineer
+STU0430,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,1,Google Cloud Certified,Communication,Remote,PHP Developer
+STU0431,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,,0,None,Adaptability,Remote,Data Scientist
+STU0432,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,,0,None,Adaptability,Remote,Blockchain Developer
+STU0433,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,,2,Cisco CCNA,Teamwork,In-office,Frontend Developer
+STU0434,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,,2,Scrum Master,Leadership,Remote,Backend Developer
+STU0435,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,,2,Cisco CCNA,Teamwork,Remote,Marketing
+STU0436,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,,0,Oracle Certified,Communication,Remote,HR
+STU0437,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,,1,PMP,Adaptability,Hybrid,C# Developer
+STU0438,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,,1,Cisco CCNA,Teamwork,Hybrid,Mobile Developer
+STU0439,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,0,Cisco CCNA,Teamwork,Hybrid,Cybersecurity Engineer
+STU0440,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,,3,None,Teamwork,In-office,Software Project Manager
+STU0441,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,,1,PMP,Communication,In-office,Data Scientist
+STU0442,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,,2,None,Leadership,Remote,Designer
+STU0443,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,,3,Google Cloud Certified,Teamwork,Hybrid,Kubernetes Operations Engineer
+STU0444,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,,3,PMP,Communication,In-office,Web Developer
+STU0445,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,,1,Scrum Master,Adaptability,Hybrid,Full Stack Python Developer
+STU0446,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,3,Cisco CCNA,Critical Thinking,In-office,Full Stack Java Developer
+STU0447,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,,3,None,Communication,In-office,Game Developer
+STU0448,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,,1,PMP,Critical Thinking,Remote,DevOps Engineer
+STU0449,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,1,Oracle Certified,Teamwork,Remote,PHP Developer
+STU0450,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,,3,Oracle Certified,Teamwork,In-office,Blockchain Developer
+STU0451,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,,2,Cisco CCNA,Communication,Remote,Frontend Developer
+STU0452,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,,0,Scrum Master,Critical Thinking,In-office,Backend Developer
+STU0453,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,,3,Azure Fundamentals,Teamwork,In-office,Marketing
+STU0454,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,,3,None,Adaptability,Hybrid,HR
+STU0455,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,,2,Scrum Master,Leadership,Remote,C# Developer
+STU0456,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,,3,AWS Certified,Leadership,Remote,Mobile Developer
+STU0457,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,3,AWS Certified,Teamwork,Remote,Cybersecurity Engineer
+STU0458,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,,0,AWS Certified,Critical Thinking,Hybrid,Software Project Manager
+STU0459,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,,0,Cisco CCNA,Teamwork,Hybrid,Data Analyst
+STU0460,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,,0,Oracle Certified,Critical Thinking,Hybrid,Kubernetes Operations Engineer
+STU0461,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,,1,Google Cloud Certified,Adaptability,Remote,Web Developer
+STU0462,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,,1,None,Critical Thinking,Remote,AIML
+STU0463,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,,0,Oracle Certified,Teamwork,Remote,Mobile Developer
+STU0464,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,,0,Google Cloud Certified,Adaptability,Hybrid,Full Stack Python Developer
+STU0465,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,1,Google Cloud Certified,Communication,Hybrid,Full Stack Java Developer
+STU0466,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,,2,Oracle Certified,Leadership,In-office,Designer
+STU0467,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,,3,None,Teamwork,Hybrid,Data Analyst
+STU0468,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,,3,Cisco CCNA,Teamwork,In-office,Game Developer
+STU0469,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,,0,Scrum Master,Teamwork,Remote,DevOps Engineer
+STU0470,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,2,Google Cloud Certified,Adaptability,Hybrid,PHP Developer
+STU0471,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,,1,Azure Fundamentals,Communication,Remote,Data Scientist
+STU0472,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,,0,Oracle Certified,Critical Thinking,Remote,Blockchain Developer
+STU0473,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,,2,Oracle Certified,Communication,Remote,Frontend Developer
+STU0474,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,,2,AWS Certified,Adaptability,Remote,Backend Developer
+STU0475,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,,2,Scrum Master,Teamwork,Hybrid,Marketing
+STU0476,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,,1,AWS Certified,Leadership,Remote,HR
+STU0477,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,,1,Oracle Certified,Teamwork,In-office,C# Developer
+STU0478,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,,3,Oracle Certified,Critical Thinking,Hybrid,Mobile Developer
+STU0479,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,3,Google Cloud Certified,Leadership,Remote,Cybersecurity Engineer
+STU0480,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,,2,Scrum Master,Teamwork,Hybrid,Software Project Manager
+STU0481,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,,2,PMP,Leadership,In-office,Data Scientist
+STU0482,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,,1,Azure Fundamentals,Communication,Remote,Designer
+STU0483,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,,3,None,Adaptability,In-office,Kubernetes Operations Engineer
+STU0484,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,,2,Google Cloud Certified,Teamwork,Remote,Web Developer
+STU0485,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,,3,Oracle Certified,Critical Thinking,In-office,Full Stack Python Developer
+STU0486,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,3,None,Communication,Remote,Full Stack Java Developer
+STU0487,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,,2,Google Cloud Certified,Teamwork,Hybrid,Game Developer
+STU0488,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,,1,Azure Fundamentals,Communication,Remote,DevOps Engineer
+STU0489,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,2,Oracle Certified,Critical Thinking,Hybrid,PHP Developer
+STU0490,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,,2,Azure Fundamentals,Teamwork,Remote,Blockchain Developer
+STU0491,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,,3,None,Critical Thinking,Remote,Frontend Developer
+STU0492,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,,2,PMP,Leadership,In-office,Backend Developer
+STU0493,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,,1,Google Cloud Certified,Critical Thinking,In-office,Marketing
+STU0494,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,,2,Cisco CCNA,Leadership,In-office,HR
+STU0495,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,,1,Google Cloud Certified,Teamwork,Remote,C# Developer
+STU0496,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,,1,AWS Certified,Leadership,Remote,Mobile Developer
+STU0497,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,3,Scrum Master,Teamwork,Remote,Cybersecurity Engineer
+STU0498,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,,0,Scrum Master,Teamwork,Hybrid,Software Project Manager
+STU0499,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,,0,AWS Certified,Adaptability,Hybrid,Data Analyst
+STU0500,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,,3,Oracle Certified,Teamwork,Remote,Kubernetes Operations Engineer
+STU0501,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,,2,Scrum Master,Leadership,In-office,Web Developer
+STU0502,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,,3,Azure Fundamentals,Adaptability,In-office,AIML
+STU0503,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,,1,None,Adaptability,In-office,Mobile Developer
+STU0504,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,,0,None,Teamwork,Remote,Full Stack Python Developer
+STU0505,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,3,Scrum Master,Critical Thinking,In-office,Full Stack Java Developer
+STU0506,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,,2,Scrum Master,Critical Thinking,Remote,Designer
+STU0507,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,,3,AWS Certified,Adaptability,Hybrid,Data Analyst
+STU0508,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,,0,Oracle Certified,Teamwork,In-office,Game Developer
+STU0509,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,,3,PMP,Critical Thinking,Hybrid,DevOps Engineer
+STU0510,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,3,Scrum Master,Teamwork,In-office,PHP Developer
+STU0511,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,,0,Cisco CCNA,Teamwork,Remote,Data Scientist
+STU0512,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,,1,Scrum Master,Adaptability,Remote,Blockchain Developer
+STU0513,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,,1,PMP,Adaptability,Remote,Frontend Developer
+STU0514,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,,0,AWS Certified,Communication,Remote,Backend Developer
+STU0515,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,,3,PMP,Critical Thinking,In-office,Marketing
+STU0516,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,,0,AWS Certified,Critical Thinking,Hybrid,HR
+STU0517,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,,1,Azure Fundamentals,Critical Thinking,Remote,C# Developer
+STU0518,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,,2,AWS Certified,Leadership,In-office,Mobile Developer
+STU0519,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,3,Azure Fundamentals,Teamwork,Hybrid,Cybersecurity Engineer
+STU0520,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,,1,Azure Fundamentals,Adaptability,Remote,Software Project Manager
+STU0521,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,,3,AWS Certified,Critical Thinking,Hybrid,Data Scientist
+STU0522,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,,0,Cisco CCNA,Communication,Remote,Designer
+STU0523,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,,2,Google Cloud Certified,Critical Thinking,Hybrid,Kubernetes Operations Engineer
+STU0524,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,,0,AWS Certified,Teamwork,Hybrid,Web Developer
+STU0525,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,,2,Scrum Master,Teamwork,Remote,Full Stack Python Developer
+STU0526,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,3,Cisco CCNA,Adaptability,In-office,Full Stack Java Developer
+STU0527,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,,3,Cisco CCNA,Leadership,Hybrid,Game Developer
+STU0528,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,,0,Scrum Master,Adaptability,Remote,DevOps Engineer
+STU0529,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,2,Google Cloud Certified,Critical Thinking,Hybrid,PHP Developer
+STU0530,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,,2,Cisco CCNA,Communication,Hybrid,Blockchain Developer
+STU0531,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,,3,Azure Fundamentals,Adaptability,In-office,Frontend Developer
+STU0532,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,,0,None,Leadership,Hybrid,Backend Developer
+STU0533,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,,2,Google Cloud Certified,Adaptability,Hybrid,Marketing
+STU0534,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,,3,Oracle Certified,Teamwork,Remote,HR
+STU0535,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,,1,Scrum Master,Critical Thinking,Remote,C# Developer
+STU0536,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,,0,Google Cloud Certified,Critical Thinking,In-office,Mobile Developer
+STU0537,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,1,AWS Certified,Critical Thinking,Hybrid,Cybersecurity Engineer
+STU0538,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,,0,None,Critical Thinking,Hybrid,Software Project Manager
+STU0539,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,,3,Google Cloud Certified,Critical Thinking,Hybrid,Data Analyst
+STU0540,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,,2,Azure Fundamentals,Critical Thinking,In-office,Kubernetes Operations Engineer
+STU0541,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,,2,None,Communication,Hybrid,Web Developer
+STU0542,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,,2,AWS Certified,Leadership,Remote,AIML
+STU0543,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,,0,PMP,Critical Thinking,In-office,Mobile Developer
+STU0544,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,,3,Scrum Master,Leadership,Remote,Full Stack Python Developer
+STU0545,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,1,None,Critical Thinking,Remote,Full Stack Java Developer
+STU0546,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,,3,Scrum Master,Adaptability,In-office,Designer
+STU0547,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,,1,Google Cloud Certified,Critical Thinking,Remote,Data Analyst
+STU0548,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,,0,Cisco CCNA,Teamwork,Hybrid,Game Developer
+STU0549,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,,0,AWS Certified,Communication,In-office,DevOps Engineer
+STU0550,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,1,PMP,Adaptability,Remote,PHP Developer
+STU0551,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,,1,AWS Certified,Adaptability,Hybrid,Data Scientist
+STU0552,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,,1,Scrum Master,Teamwork,Hybrid,Blockchain Developer
+STU0553,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,,3,AWS Certified,Critical Thinking,Remote,Frontend Developer
+STU0554,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,,1,PMP,Communication,Hybrid,Backend Developer
+STU0555,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,,0,Cisco CCNA,Adaptability,In-office,Marketing
+STU0556,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,,0,Google Cloud Certified,Communication,Remote,HR
+STU0557,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,,2,Azure Fundamentals,Adaptability,Hybrid,C# Developer
+STU0558,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,,1,AWS Certified,Critical Thinking,Hybrid,Mobile Developer
+STU0559,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,3,None,Adaptability,Remote,Cybersecurity Engineer
+STU0560,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,,3,Azure Fundamentals,Adaptability,Remote,Software Project Manager
+STU0561,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,,3,Scrum Master,Leadership,Remote,Data Scientist
+STU0562,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,,2,Google Cloud Certified,Critical Thinking,Remote,Designer
+STU0563,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,,0,Oracle Certified,Teamwork,In-office,Kubernetes Operations Engineer
+STU0564,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,,3,Google Cloud Certified,Teamwork,Remote,Web Developer
+STU0565,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,,0,AWS Certified,Critical Thinking,In-office,Full Stack Python Developer
+STU0566,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,2,None,Teamwork,In-office,Full Stack Java Developer
+STU0567,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,,1,Cisco CCNA,Critical Thinking,Remote,Game Developer
+STU0568,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,,1,Google Cloud Certified,Teamwork,In-office,DevOps Engineer
+STU0569,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,1,AWS Certified,Leadership,Remote,PHP Developer
+STU0570,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,,3,AWS Certified,Teamwork,Remote,Blockchain Developer
+STU0571,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,,1,Azure Fundamentals,Adaptability,Hybrid,Frontend Developer
+STU0572,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,,3,Google Cloud Certified,Critical Thinking,Remote,Backend Developer
+STU0573,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,,2,AWS Certified,Communication,Hybrid,Marketing
+STU0574,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,,2,Azure Fundamentals,Communication,In-office,HR
+STU0575,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,,3,None,Critical Thinking,Hybrid,C# Developer
+STU0576,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,,0,PMP,Leadership,In-office,Mobile Developer
+STU0577,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,1,None,Teamwork,Remote,Cybersecurity Engineer
+STU0578,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,,1,Oracle Certified,Leadership,In-office,Software Project Manager
+STU0579,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,,1,Azure Fundamentals,Communication,In-office,Data Analyst
+STU0580,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,,3,Azure Fundamentals,Critical Thinking,Remote,Kubernetes Operations Engineer
+STU0581,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,,2,AWS Certified,Critical Thinking,In-office,Web Developer
+STU0582,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,,1,Scrum Master,Leadership,Remote,AIML
+STU0583,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,,2,Scrum Master,Leadership,Hybrid,Mobile Developer
+STU0584,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,,1,Cisco CCNA,Teamwork,Remote,Full Stack Python Developer
+STU0585,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,1,Scrum Master,Adaptability,Remote,Full Stack Java Developer
+STU0586,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,,3,Azure Fundamentals,Adaptability,In-office,Designer
+STU0587,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,,0,Cisco CCNA,Teamwork,Hybrid,Data Analyst
+STU0588,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,,3,None,Adaptability,Remote,Game Developer
+STU0589,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,,1,AWS Certified,Communication,Hybrid,DevOps Engineer
+STU0590,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,1,None,Adaptability,Hybrid,PHP Developer
+STU0591,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,,0,Google Cloud Certified,Teamwork,In-office,Data Scientist
+STU0592,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,,2,Oracle Certified,Adaptability,Remote,Blockchain Developer
+STU0593,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,,2,Oracle Certified,Critical Thinking,In-office,Frontend Developer
+STU0594,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,,1,Azure Fundamentals,Leadership,Remote,Backend Developer
+STU0595,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,,2,Azure Fundamentals,Communication,Hybrid,Marketing
+STU0596,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,,1,Cisco CCNA,Critical Thinking,Remote,HR
+STU0597,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,,0,AWS Certified,Critical Thinking,Remote,C# Developer
+STU0598,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,,0,PMP,Teamwork,Hybrid,Mobile Developer
+STU0599,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,1,Azure Fundamentals,Leadership,Hybrid,Cybersecurity Engineer
+STU0600,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,,0,PMP,Leadership,Remote,Software Project Manager
+STU0601,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,,3,None,Communication,In-office,Data Scientist
+STU0602,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,,3,PMP,Teamwork,Remote,Designer
+STU0603,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,,0,Scrum Master,Communication,Hybrid,Kubernetes Operations Engineer
+STU0604,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,,1,AWS Certified,Adaptability,In-office,Web Developer
+STU0605,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,,1,Oracle Certified,Critical Thinking,Hybrid,Full Stack Python Developer
+STU0606,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,0,Oracle Certified,Communication,Hybrid,Full Stack Java Developer
+STU0607,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,,2,PMP,Critical Thinking,In-office,Game Developer
+STU0608,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,,3,Oracle Certified,Teamwork,Hybrid,DevOps Engineer
+STU0609,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,2,None,Adaptability,Hybrid,PHP Developer
+STU0610,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,,1,AWS Certified,Teamwork,Hybrid,Blockchain Developer
+STU0611,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,,1,Scrum Master,Adaptability,Hybrid,Frontend Developer
+STU0612,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,,2,AWS Certified,Adaptability,Hybrid,Backend Developer
+STU0613,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,,0,Azure Fundamentals,Critical Thinking,Hybrid,Marketing
+STU0614,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,,2,PMP,Teamwork,Hybrid,HR
+STU0615,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,,2,AWS Certified,Teamwork,Hybrid,C# Developer
+STU0616,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,,3,None,Communication,Hybrid,Mobile Developer
+STU0617,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,3,Oracle Certified,Teamwork,Remote,Cybersecurity Engineer
+STU0618,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,,2,Google Cloud Certified,Communication,Remote,Software Project Manager
+STU0619,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,,2,AWS Certified,Leadership,Hybrid,Data Analyst
+STU0620,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,,1,PMP,Leadership,Remote,Kubernetes Operations Engineer
+STU0621,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,,3,Scrum Master,Leadership,In-office,Web Developer
+STU0622,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,,3,Oracle Certified,Teamwork,Remote,AIML
+STU0623,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,,1,Scrum Master,Teamwork,Hybrid,Mobile Developer
+STU0624,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,,0,PMP,Communication,Hybrid,Full Stack Python Developer
+STU0625,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,3,Oracle Certified,Adaptability,Remote,Full Stack Java Developer
+STU0626,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,,3,Azure Fundamentals,Communication,Hybrid,Designer
+STU0627,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,,0,Oracle Certified,Leadership,In-office,Data Analyst
+STU0628,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,,3,Azure Fundamentals,Communication,In-office,Game Developer
+STU0629,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,,3,Scrum Master,Adaptability,Hybrid,DevOps Engineer
+STU0630,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,0,Scrum Master,Teamwork,In-office,PHP Developer
+STU0631,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,,0,PMP,Communication,In-office,Data Scientist
+STU0632,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,,2,Azure Fundamentals,Leadership,Remote,Blockchain Developer
+STU0633,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,,1,Scrum Master,Leadership,In-office,Frontend Developer
+STU0634,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,,1,Azure Fundamentals,Teamwork,Remote,Backend Developer
+STU0635,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,,0,Scrum Master,Communication,Hybrid,Marketing
+STU0636,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,,0,Oracle Certified,Adaptability,Remote,HR
+STU0637,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,,3,AWS Certified,Teamwork,Hybrid,C# Developer
+STU0638,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,,2,None,Communication,Hybrid,Mobile Developer
+STU0639,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,2,Google Cloud Certified,Critical Thinking,Hybrid,Cybersecurity Engineer
+STU0640,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,,0,None,Leadership,Hybrid,Software Project Manager
+STU0641,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,,3,Oracle Certified,Adaptability,Hybrid,Data Scientist
+STU0642,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,,3,Cisco CCNA,Adaptability,Remote,Designer
+STU0643,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,,1,None,Adaptability,Hybrid,Kubernetes Operations Engineer
+STU0644,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,,1,AWS Certified,Leadership,In-office,Web Developer
+STU0645,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,,3,Cisco CCNA,Communication,In-office,Full Stack Python Developer
+STU0646,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,1,Scrum Master,Teamwork,Hybrid,Full Stack Java Developer
+STU0647,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,,0,Google Cloud Certified,Communication,In-office,Game Developer
+STU0648,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,,3,Google Cloud Certified,Teamwork,Remote,DevOps Engineer
+STU0649,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,1,Scrum Master,Adaptability,Remote,PHP Developer
+STU0650,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,,2,Scrum Master,Communication,Hybrid,Blockchain Developer
+STU0651,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,,3,Azure Fundamentals,Adaptability,Hybrid,Frontend Developer
+STU0652,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,,3,Scrum Master,Critical Thinking,Hybrid,Backend Developer
+STU0653,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,,2,PMP,Adaptability,In-office,Marketing
+STU0654,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,,0,None,Adaptability,In-office,HR
+STU0655,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,,2,Scrum Master,Teamwork,Remote,C# Developer
+STU0656,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,,3,PMP,Critical Thinking,In-office,Mobile Developer
+STU0657,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,0,Scrum Master,Adaptability,Remote,Cybersecurity Engineer
+STU0658,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,,1,Azure Fundamentals,Adaptability,In-office,Software Project Manager
+STU0659,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,,1,PMP,Critical Thinking,Remote,Data Analyst
+STU0660,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,,1,None,Critical Thinking,Hybrid,Kubernetes Operations Engineer
+STU0661,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,,3,AWS Certified,Communication,In-office,Web Developer
+STU0662,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,,2,PMP,Teamwork,Remote,AIML
+STU0663,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,,0,Oracle Certified,Critical Thinking,In-office,Mobile Developer
+STU0664,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,,1,Azure Fundamentals,Critical Thinking,Hybrid,Full Stack Python Developer
+STU0665,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,0,Cisco CCNA,Leadership,Remote,Full Stack Java Developer
+STU0666,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,,3,None,Critical Thinking,In-office,Designer
+STU0667,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,,1,PMP,Teamwork,In-office,Data Analyst
+STU0668,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,,3,Oracle Certified,Adaptability,Hybrid,Game Developer
+STU0669,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,,2,Oracle Certified,Adaptability,Hybrid,DevOps Engineer
+STU0670,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,3,None,Adaptability,Remote,PHP Developer
+STU0671,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,,3,None,Adaptability,In-office,Data Scientist
+STU0672,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,,2,Oracle Certified,Leadership,In-office,Blockchain Developer
+STU0673,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,,0,Scrum Master,Critical Thinking,Hybrid,Frontend Developer
+STU0674,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,,2,Oracle Certified,Adaptability,Hybrid,Backend Developer
+STU0675,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,,2,Scrum Master,Communication,Remote,Marketing
+STU0676,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,,3,Cisco CCNA,Adaptability,In-office,HR
+STU0677,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,,0,Azure Fundamentals,Critical Thinking,In-office,C# Developer
+STU0678,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,,1,Google Cloud Certified,Adaptability,Remote,Mobile Developer
+STU0679,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,2,Scrum Master,Leadership,Remote,Cybersecurity Engineer
+STU0680,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,,0,Oracle Certified,Teamwork,Hybrid,Software Project Manager
+STU0681,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,,2,Oracle Certified,Teamwork,Hybrid,Data Scientist
+STU0682,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,,2,AWS Certified,Critical Thinking,Remote,Designer
+STU0683,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,,2,Oracle Certified,Teamwork,Remote,Kubernetes Operations Engineer
+STU0684,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,,2,Azure Fundamentals,Teamwork,In-office,Web Developer
+STU0685,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,,3,PMP,Communication,Remote,Full Stack Python Developer
+STU0686,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,0,PMP,Critical Thinking,Remote,Full Stack Java Developer
+STU0687,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,,0,Oracle Certified,Critical Thinking,In-office,Game Developer
+STU0688,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,,0,AWS Certified,Teamwork,Remote,DevOps Engineer
+STU0689,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,2,Scrum Master,Teamwork,Hybrid,PHP Developer
+STU0690,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,,3,Azure Fundamentals,Teamwork,Hybrid,Blockchain Developer
+STU0691,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,,2,AWS Certified,Leadership,In-office,Frontend Developer
+STU0692,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,,2,Scrum Master,Adaptability,Remote,Backend Developer
+STU0693,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,,0,Azure Fundamentals,Leadership,Hybrid,Marketing
+STU0694,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,,2,Oracle Certified,Critical Thinking,Hybrid,HR
+STU0695,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,,1,PMP,Communication,Hybrid,C# Developer
+STU0696,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,,2,Azure Fundamentals,Adaptability,Hybrid,Mobile Developer
+STU0697,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,1,Oracle Certified,Communication,Remote,Cybersecurity Engineer
+STU0698,"Scrum, Agile, Project Management, Leadership",Master's in Business Administration,Mid,Software Project Manager,,2,Cisco CCNA,Critical Thinking,Remote,Software Project Manager
+STU0699,"Python, Pandas, SQL, Data Visualization",Master's in Data Science,Entry,Data Analyst,,3,Google Cloud Certified,Critical Thinking,Remote,Data Analyst
+STU0700,"Kubernetes, Helm, AWS, Docker, CI/CD",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,,3,Azure Fundamentals,Communication,Remote,Kubernetes Operations Engineer
+STU0701,"HTML, CSS, JavaScript, Angular",Bachelor's in Information Technology,Mid,Web Developer,,0,Google Cloud Certified,Communication,Hybrid,Web Developer
+STU0702,"Python, TensorFlow, Deep Learning, NLP",PhD in Artificial Intelligence,Senior,AIML,,2,Azure Fundamentals,Communication,In-office,AIML
+STU0703,"Java, Kotlin, Android Development, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,,1,Google Cloud Certified,Critical Thinking,In-office,Mobile Developer
+STU0704,"Python, Flask, PostgreSQL, JavaScript",Bachelor's in Computer Science,Entry,Full Stack Python Developer,,1,Cisco CCNA,Teamwork,Hybrid,Full Stack Python Developer
+STU0705,"Java, Spring Boot, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,2,PMP,Communication,Hybrid,Full Stack Java Developer
+STU0706,"Adobe XD, Figma, UI/UX Design, Prototyping",Bachelor's in Graphic Design,Mid,Designer,,1,None,Adaptability,In-office,Designer
+STU0707,"SQL, R, Tableau, Statistics",Bachelor's in Statistics,Entry,Data Analyst,,3,Scrum Master,Critical Thinking,In-office,Data Analyst
+STU0708,"C++, Unity, Game Physics, VR Development",Bachelor's in Game Development,Mid,Game Developer,,1,Google Cloud Certified,Leadership,Hybrid,Game Developer
+STU0709,"AWS, Jenkins, Docker, Ansible",Bachelor's in Computer Science,Senior,DevOps Engineer,,0,Cisco CCNA,Leadership,Hybrid,DevOps Engineer
+STU0710,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,3,Google Cloud Certified,Adaptability,Remote,PHP Developer
+STU0711,"Python, TensorFlow, Keras, Machine Learning",Master's in Data Science,Mid,Data Scientist,,3,PMP,Teamwork,Remote,Data Scientist
+STU0712,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,,3,Google Cloud Certified,Communication,In-office,Blockchain Developer
+STU0713,"React, JavaScript, HTML, CSS, TypeScript",Bachelor's in Computer Science,Mid,Frontend Developer,,2,Cisco CCNA,Critical Thinking,Hybrid,Frontend Developer
+STU0714,"Java, Hibernate, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,,2,Oracle Certified,Communication,In-office,Backend Developer
+STU0715,"Digital Marketing, SEO, Content Creation, Analytics",Bachelor's in Marketing,Mid,Marketing,,3,Cisco CCNA,Critical Thinking,Remote,Marketing
+STU0716,"HR Management, Recruitment, Communication",Master's in Human Resources,Senior,HR,,2,None,Leadership,Remote,HR
+STU0717,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,,1,None,Communication,In-office,C# Developer
+STU0718,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,,2,None,Adaptability,Remote,Mobile Developer
+STU0719,"Network Security, Penetration Testing, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,2,AWS Certified,Teamwork,Hybrid,Cybersecurity Engineer
+STU0720,"Agile, JIRA, Stakeholder Management, Scrum",Master's in Business Administration,Mid,Software Project Manager,,3,PMP,Adaptability,In-office,Software Project Manager
+STU0721,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,,0,Oracle Certified,Teamwork,Hybrid,Data Scientist
+STU0722,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,,0,AWS Certified,Communication,Hybrid,Designer
+STU0723,"Kubernetes, Docker, GCP, Terraform",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,,0,PMP,Communication,Remote,Kubernetes Operations Engineer
+STU0724,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,,1,Oracle Certified,Teamwork,Hybrid,Web Developer
+STU0725,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,,2,Google Cloud Certified,Leadership,In-office,Full Stack Python Developer
+STU0726,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,0,Oracle Certified,Critical Thinking,Hybrid,Full Stack Java Developer
+STU0727,"C++, Unreal Engine, Game Design, 3D Modeling",Bachelor's in Game Development,Mid,Game Developer,,3,Cisco CCNA,Adaptability,Hybrid,Game Developer
+STU0728,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,,0,AWS Certified,Adaptability,Hybrid,DevOps Engineer
+STU0729,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,0,Google Cloud Certified,Adaptability,Hybrid,PHP Developer
+STU0730,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,,2,Cisco CCNA,Communication,Hybrid,Blockchain Developer
+STU0731,"React, TypeScript, HTML, CSS, Redux",Bachelor's in Computer Science,Entry,Frontend Developer,,2,PMP,Adaptability,Remote,Frontend Developer
+STU0732,"Java, Spring, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,,2,Oracle Certified,Critical Thinking,In-office,Backend Developer
+STU0733,"Marketing Strategy, SEO, Social Media, PPC",Bachelor's in Marketing,Mid,Marketing,,1,Cisco CCNA,Critical Thinking,Remote,Marketing
+STU0734,"HR Policies, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,,1,Google Cloud Certified,Teamwork,In-office,HR
+STU0735,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,,0,AWS Certified,Communication,In-office,C# Developer
+STU0736,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,,2,AWS Certified,Critical Thinking,In-office,Mobile Developer
+STU0737,"Network Security, Ethical Hacking, Firewalls",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,0,None,Leadership,In-office,Cybersecurity Engineer
+STU0738,"Agile, Scrum, Project Management, Leadership",Master's in Business Administration,Mid,Software Project Manager,,3,Oracle Certified,Communication,In-office,Software Project Manager
+STU0739,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,,3,Cisco CCNA,Communication,Hybrid,Data Analyst
+STU0740,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,,2,None,Critical Thinking,Remote,Kubernetes Operations Engineer
+STU0741,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,,2,Google Cloud Certified,Leadership,Remote,Web Developer
+STU0742,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,,3,None,Teamwork,Hybrid,AIML
+STU0743,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,,2,Azure Fundamentals,Critical Thinking,In-office,Mobile Developer
+STU0744,"Python, Flask, JavaScript, PostgreSQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,,1,PMP,Leadership,Remote,Full Stack Python Developer
+STU0745,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,1,None,Communication,Hybrid,Full Stack Java Developer
+STU0746,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,,2,PMP,Leadership,Hybrid,Designer
+STU0747,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,,3,Google Cloud Certified,Communication,Remote,Data Analyst
+STU0748,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,,0,Azure Fundamentals,Critical Thinking,Remote,Game Developer
+STU0749,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,,2,AWS Certified,Critical Thinking,In-office,DevOps Engineer
+STU0750,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,2,Oracle Certified,Adaptability,In-office,PHP Developer
+STU0751,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,,0,Scrum Master,Adaptability,Remote,Data Scientist
+STU0752,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,,2,Scrum Master,Adaptability,In-office,Blockchain Developer
+STU0753,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,,0,Oracle Certified,Critical Thinking,Hybrid,Frontend Developer
+STU0754,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,,3,Google Cloud Certified,Teamwork,In-office,Backend Developer
+STU0755,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,,1,Azure Fundamentals,Critical Thinking,In-office,Marketing
+STU0756,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,,3,Azure Fundamentals,Leadership,Hybrid,HR
+STU0757,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,,1,PMP,Critical Thinking,In-office,C# Developer
+STU0758,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,,0,AWS Certified,Critical Thinking,Hybrid,Mobile Developer
+STU0759,"Network Security, Penetration Testing, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,1,Cisco CCNA,Communication,In-office,Cybersecurity Engineer
+STU0760,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,,3,None,Communication,Remote,Software Project Manager
+STU0761,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,,1,Azure Fundamentals,Communication,In-office,Data Scientist
+STU0762,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,,0,Oracle Certified,Critical Thinking,Remote,Designer
+STU0763,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,,1,Cisco CCNA,Teamwork,Remote,Kubernetes Operations Engineer
+STU0764,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,,2,Scrum Master,Leadership,Remote,Web Developer
+STU0765,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,,3,Cisco CCNA,Leadership,Remote,Full Stack Python Developer
+STU0766,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,2,AWS Certified,Teamwork,Remote,Full Stack Java Developer
+STU0767,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,,0,Oracle Certified,Teamwork,Hybrid,Game Developer
+STU0768,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,,1,AWS Certified,Leadership,Hybrid,DevOps Engineer
+STU0769,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,2,Cisco CCNA,Adaptability,Hybrid,PHP Developer
+STU0770,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,,2,None,Communication,Remote,Blockchain Developer
+STU0771,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,,1,Google Cloud Certified,Communication,In-office,Frontend Developer
+STU0772,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,,1,Azure Fundamentals,Leadership,Hybrid,Backend Developer
+STU0773,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,,3,Oracle Certified,Teamwork,In-office,Marketing
+STU0774,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,,2,Google Cloud Certified,Adaptability,In-office,HR
+STU0775,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,,2,Cisco CCNA,Leadership,Remote,C# Developer
+STU0776,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,,0,Azure Fundamentals,Communication,Remote,Mobile Developer
+STU0777,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,3,PMP,Critical Thinking,Remote,Cybersecurity Engineer
+STU0778,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,,0,Google Cloud Certified,Teamwork,Hybrid,Software Project Manager
+STU0779,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,,2,Google Cloud Certified,Critical Thinking,Remote,Data Analyst
+STU0780,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,,0,Cisco CCNA,Leadership,Hybrid,Kubernetes Operations Engineer
+STU0781,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,,2,Scrum Master,Communication,Hybrid,Web Developer
+STU0782,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,,2,Cisco CCNA,Adaptability,Hybrid,AIML
+STU0783,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,,0,Google Cloud Certified,Critical Thinking,Hybrid,Mobile Developer
+STU0784,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,"Entry,",Full Stack Python Developer,,0,Azure Fundamentals,Adaptability,Remote,Full Stack Python Developer
+STU0785,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,1,None,Communication,Hybrid,Full Stack Java Developer
+STU0786,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,,1,Scrum Master,Critical Thinking,Remote,Designer
+STU0787,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,,1,Cisco CCNA,Adaptability,Remote,Data Analyst
+STU0788,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,,2,None,Adaptability,Hybrid,Game Developer
+STU0789,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,,0,Oracle Certified,Critical Thinking,Remote,DevOps Engineer
+STU0790,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,3,Cisco CCNA,Communication,In-office,PHP Developer
+STU0791,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,,2,Google Cloud Certified,Adaptability,Remote,Data Scientist
+STU0792,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,,3,None,Leadership,Remote,Blockchain Developer
+STU0793,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,,0,Google Cloud Certified,Critical Thinking,Hybrid,Frontend Developer
+STU0794,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,,2,PMP,Teamwork,Hybrid,Backend Developer
+STU0795,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,,3,None,Teamwork,Remote,Marketing
+STU0796,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,,3,None,Communication,Hybrid,HR
+STU0797,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,,1,Cisco CCNA,Leadership,In-office,C# Developer
+STU0798,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,,1,Google Cloud Certified,Adaptability,In-office,Mobile Developer
+STU0799,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,1,Oracle Certified,Teamwork,Hybrid,Cybersecurity Engineer
+STU0800,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,,2,AWS Certified,Communication,Remote,Software Project Manager
+STU0801,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,,0,Scrum Master,Leadership,In-office,Data Scientist
+STU0802,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,,0,AWS Certified,Leadership,In-office,Designer
+STU0803,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,,1,Scrum Master,Communication,Remote,Kubernetes Operations Engineer
+STU0804,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,,1,Oracle Certified,Communication,Hybrid,Web Developer
+STU0805,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,,1,None,Adaptability,In-office,Full Stack Python Developer
+STU0806,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,3,None,Communication,Remote,Full Stack Java Developer
+STU0807,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,,1,Cisco CCNA,Adaptability,Remote,Game Developer
+STU0808,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,,3,PMP,Adaptability,In-office,DevOps Engineer
+STU0809,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,0,Google Cloud Certified,Critical Thinking,Hybrid,PHP Developer
+STU0810,"Solidity, Web3js, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,,2,Google Cloud Certified,Leadership,In-office,Blockchain Developer
+STU0811,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,,2,Google Cloud Certified,Leadership,Remote,Frontend Developer
+STU0812,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,,2,Cisco CCNA,Leadership,In-office,Backend Developer
+STU0813,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,,2,Scrum Master,Critical Thinking,Hybrid,Marketing
+STU0814,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,,3,None,Adaptability,Remote,HR
+STU0815,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,,3,Oracle Certified,Adaptability,Hybrid,C# Developer
+STU0816,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,,1,Google Cloud Certified,Communication,In-office,Mobile Developer
+STU0817,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,3,AWS Certified,Critical Thinking,In-office,Cybersecurity Engineer
+STU0818,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,,1,Google Cloud Certified,Communication,Hybrid,Software Project Manager
+STU0819,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,,1,None,Critical Thinking,In-office,Data Analyst
+STU0820,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,,2,Cisco CCNA,Communication,Hybrid,Kubernetes Operations Engineer
+STU0821,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,,3,Oracle Certified,Teamwork,In-office,Web Developer
+STU0822,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,,3,PMP,Leadership,Hybrid,AIML
+STU0823,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,,1,Oracle Certified,Leadership,Hybrid,Mobile Developer
+STU0824,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,,1,AWS Certified,Adaptability,Remote,Full Stack Python Developer
+STU0825,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,0,Google Cloud Certified,Teamwork,Remote,Full Stack Java Developer
+STU0826,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,,0,Google Cloud Certified,Leadership,Hybrid,Designer
+STU0827,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,,1,Azure Fundamentals,Adaptability,In-office,Data Analyst
+STU0828,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,,0,Scrum Master,Teamwork,In-office,Game Developer
+STU0829,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,,0,AWS Certified,Leadership,In-office,DevOps Engineer
+STU0830,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,1,Azure Fundamentals,Communication,Hybrid,PHP Developer
+STU0831,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,,1,Oracle Certified,Critical Thinking,Hybrid,Data Scientist
+STU0832,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,,3,PMP,Teamwork,Hybrid,Blockchain Developer
+STU0833,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,,1,Scrum Master,Adaptability,Hybrid,Frontend Developer
+STU0834,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,,1,AWS Certified,Teamwork,Remote,Backend Developer
+STU0835,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,,2,Google Cloud Certified,Adaptability,Hybrid,Marketing
+STU0836,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,,3,Oracle Certified,Teamwork,In-office,HR
+STU0837,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,,3,AWS Certified,Adaptability,Remote,C# Developer
+STU0838,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,,3,Google Cloud Certified,Leadership,In-office,Mobile Developer
+STU0839,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,2,None,Communication,Hybrid,Cybersecurity Engineer
+STU0840,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,,1,Scrum Master,Leadership,Remote,Software Project Manager
+STU0841,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,,3,None,Communication,Hybrid,Data Scientist
+STU0842,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,,3,None,Leadership,Remote,Designer
+STU0843,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,,0,Google Cloud Certified,Leadership,In-office,Kubernetes Operations Engineer
+STU0844,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,,3,PMP,Teamwork,Hybrid,Web Developer
+STU0845,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,,1,Oracle Certified,Critical Thinking,Hybrid,Full Stack Python Developer
+STU0846,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,1,Cisco CCNA,Adaptability,Remote,Full Stack Java Developer
+STU0847,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,,0,Google Cloud Certified,Adaptability,Remote,Game Developer
+STU0848,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,,3,PMP,Adaptability,Hybrid,DevOps Engineer
+STU0849,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,3,Cisco CCNA,Communication,Remote,PHP Developer
+STU0850,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,,3,Oracle Certified,Adaptability,Hybrid,Blockchain Developer
+STU0851,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,,2,None,Adaptability,Remote,Frontend Developer
+STU0852,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,,3,Scrum Master,Teamwork,In-office,Backend Developer
+STU0853,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,,1,Scrum Master,Leadership,Remote,Marketing
+STU0854,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,,1,Oracle Certified,Adaptability,In-office,HR
+STU0855,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,,2,Oracle Certified,Critical Thinking,Remote,C# Developer
+STU0856,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,,2,AWS Certified,Adaptability,Remote,Mobile Developer
+STU0857,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,3,PMP,Communication,Hybrid,Cybersecurity Engineer
+STU0858,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,,0,None,Communication,Remote,Software Project Manager
+STU0859,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,,2,PMP,Communication,Remote,Data Analyst
+STU0860,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,,2,Oracle Certified,Adaptability,In-office,Kubernetes Operations Engineer
+STU0861,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,,3,Azure Fundamentals,Teamwork,Remote,Web Developer
+STU0862,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,,3,Azure Fundamentals,Critical Thinking,Hybrid,AIML
+STU0863,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,,2,Cisco CCNA,Adaptability,In-office,Mobile Developer
+STU0864,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,,0,Cisco CCNA,Teamwork,Hybrid,Full Stack Python Developer
+STU0865,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,2,Azure Fundamentals,Teamwork,Hybrid,Full Stack Java Developer
+STU0866,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,,3,Oracle Certified,Adaptability,Hybrid,Designer
+STU0867,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,,3,Oracle Certified,Adaptability,Hybrid,Data Analyst
+STU0868,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,,2,Cisco CCNA,Teamwork,In-office,Game Developer
+STU0869,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,,0,Google Cloud Certified,Teamwork,Remote,DevOps Engineer
+STU0870,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,2,Oracle Certified,Teamwork,Hybrid,PHP Developer
+STU0871,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,,2,Azure Fundamentals,Adaptability,In-office,Data Scientist
+STU0872,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,,3,PMP,Teamwork,Hybrid,Blockchain Developer
+STU0873,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,,0,Oracle Certified,Communication,Remote,Frontend Developer
+STU0874,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,,1,None,Adaptability,In-office,Backend Developer
+STU0875,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,,0,Oracle Certified,Communication,In-office,Marketing
+STU0876,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,,2,Google Cloud Certified,Leadership,Remote,HR
+STU0877,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,,2,Cisco CCNA,Adaptability,In-office,C# Developer
+STU0878,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,,2,Oracle Certified,Leadership,Remote,Mobile Developer
+STU0879,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,0,Scrum Master,Teamwork,In-office,Cybersecurity Engineer
+STU0880,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,,3,AWS Certified,Teamwork,In-office,Software Project Manager
+STU0881,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,,2,Azure Fundamentals,Critical Thinking,Remote,Data Scientist
+STU0882,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,,2,None,Teamwork,Remote,Designer
+STU0883,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,,0,None,Leadership,In-office,Kubernetes Operations Engineer
+STU0884,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,,1,None,Teamwork,In-office,Web Developer
+STU0885,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,,1,Scrum Master,Adaptability,Remote,Full Stack Python Developer
+STU0886,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,3,None,Teamwork,Remote,Full Stack Java Developer
+STU0887,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,,3,None,Critical Thinking,In-office,Game Developer
+STU0888,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,,2,Cisco CCNA,Teamwork,In-office,DevOps Engineer
+STU0889,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,0,PMP,Leadership,In-office,PHP Developer
+STU0890,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,,2,AWS Certified,Leadership,Remote,Blockchain Developer
+STU0891,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,,3,Scrum Master,Teamwork,In-office,Frontend Developer
+STU0892,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,,0,AWS Certified,Leadership,Hybrid,Backend Developer
+STU0893,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,,0,Azure Fundamentals,Leadership,Remote,Marketing
+STU0894,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,,3,Cisco CCNA,Critical Thinking,In-office,HR
+STU0895,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,,1,Oracle Certified,Adaptability,Remote,C# Developer
+STU0896,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,,1,PMP,Critical Thinking,Hybrid,Mobile Developer
+STU0897,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,0,Cisco CCNA,Communication,Remote,Cybersecurity Engineer
+STU0898,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,,2,AWS Certified,Critical Thinking,In-office,Software Project Manager
+STU0899,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,,1,Scrum Master,Teamwork,Hybrid,Data Analyst
+STU0900,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,,2,Azure Fundamentals,Adaptability,Hybrid,Kubernetes Operations Engineer
+STU0901,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,,1,Azure Fundamentals,Teamwork,In-office,Web Developer
+STU0902,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,,1,Cisco CCNA,Communication,In-office,AIML
+STU0903,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,,2,Oracle Certified,Adaptability,In-office,Mobile Developer
+STU0904,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,,3,Scrum Master,Leadership,Remote,Full Stack Python Developer
+STU0905,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,1,Oracle Certified,Critical Thinking,Remote,Full Stack Java Developer
+STU0906,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,,1,Oracle Certified,Teamwork,Remote,Designer
+STU0907,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,,2,None,Communication,In-office,Data Analyst
+STU0908,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,,3,Scrum Master,Leadership,In-office,Game Developer
+STU0909,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,,1,AWS Certified,Critical Thinking,Remote,DevOps Engineer
+STU0910,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,1,Cisco CCNA,Leadership,Hybrid,PHP Developer
+STU0911,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,,3,Cisco CCNA,Critical Thinking,Remote,Data Scientist
+STU0912,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,,1,None,Adaptability,Hybrid,Blockchain Developer
+STU0913,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,,3,Google Cloud Certified,Leadership,In-office,Frontend Developer
+STU0914,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,,3,Cisco CCNA,Leadership,In-office,Backend Developer
+STU0915,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,,2,Azure Fundamentals,Leadership,Remote,Marketing
+STU0916,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,,0,AWS Certified,Adaptability,Remote,HR
+STU0917,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,,3,Scrum Master,Communication,In-office,C# Developer
+STU0918,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,,2,Cisco CCNA,Critical Thinking,Remote,Mobile Developer
+STU0919,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,0,AWS Certified,Leadership,In-office,Cybersecurity Engineer
+STU0920,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,,1,None,Adaptability,In-office,Software Project Manager
+STU0921,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,,0,Cisco CCNA,Communication,Hybrid,Data Scientist
+STU0922,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,,3,Scrum Master,Critical Thinking,Remote,Designer
+STU0923,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,,3,PMP,Adaptability,In-office,Kubernetes Operations Engineer
+STU0924,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,,3,Scrum Master,Critical Thinking,Remote,Web Developer
+STU0925,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,,3,Scrum Master,Leadership,Hybrid,Full Stack Python Developer
+STU0926,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,3,Scrum Master,Communication,Hybrid,Full Stack Java Developer
+STU0927,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,,2,Cisco CCNA,Adaptability,Remote,Game Developer
+STU0928,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,,3,Google Cloud Certified,Communication,Remote,DevOps Engineer
+STU0929,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,2,Scrum Master,Leadership,In-office,PHP Developer
+STU0930,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,,1,None,Communication,Hybrid,Blockchain Developer
+STU0931,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,,3,Azure Fundamentals,Communication,Hybrid,Frontend Developer
+STU0932,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,,3,Azure Fundamentals,Teamwork,Hybrid,Backend Developer
+STU0933,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,,0,None,Communication,Remote,Marketing
+STU0934,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,,1,AWS Certified,Critical Thinking,In-office,HR
+STU0935,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,,3,Google Cloud Certified,Adaptability,Remote,C# Developer
+STU0936,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,,3,AWS Certified,Teamwork,Remote,Mobile Developer
+STU0937,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,1,None,Adaptability,Remote,Cybersecurity Engineer
+STU0938,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,,2,Azure Fundamentals,Adaptability,In-office,Software Project Manager
+STU0939,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,,3,Oracle Certified,Leadership,Remote,Data Analyst
+STU0940,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,,0,Azure Fundamentals,Leadership,Hybrid,Kubernetes Operations Engineer
+STU0941,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,,3,PMP,Teamwork,Hybrid,Web Developer
+STU0942,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,,0,Scrum Master,Leadership,Hybrid,AIML
+STU0943,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,,0,Oracle Certified,Leadership,In-office,Mobile Developer
+STU0944,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,,3,Azure Fundamentals,Leadership,Remote,Full Stack Python Developer
+STU0945,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,3,Cisco CCNA,Adaptability,In-office,Full Stack Java Developer
+STU0946,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,,0,Cisco CCNA,Teamwork,Remote,Designer
+STU0947,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,,1,AWS Certified,Adaptability,Hybrid,Data Analyst
+STU0948,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,,1,Oracle Certified,Critical Thinking,Remote,Game Developer
+STU0949,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,,3,AWS Certified,Adaptability,Remote,DevOps Engineer
+STU0950,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,2,Scrum Master,Critical Thinking,Remote,PHP Developer
+STU0951,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,,1,Scrum Master,Communication,In-office,Data Scientist
+STU0952,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,,3,PMP,Communication,Remote,Blockchain Developer
+STU0953,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,,1,None,Critical Thinking,Remote,Frontend Developer
+STU0954,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,,2,None,Critical Thinking,Remote,Backend Developer
+STU0955,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,,3,Google Cloud Certified,Adaptability,In-office,Marketing
+STU0956,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,,2,AWS Certified,Critical Thinking,In-office,HR
+STU0957,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,,3,Scrum Master,Teamwork,In-office,C# Developer
+STU0958,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,,2,None,Communication,Remote,Mobile Developer
+STU0959,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,1,AWS Certified,Communication,Hybrid,Cybersecurity Engineer
+STU0960,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,,1,Scrum Master,Critical Thinking,Hybrid,Software Project Manager
+STU0961,"Python, R, SQL, Machine Learning",Master's in Data Science,Senior,Data Scientist,,2,Azure Fundamentals,Leadership,Hybrid,Data Scientist
+STU0962,"Figma, Sketch, UI/UX, Wireframing",Bachelor's in Design,Entry,Designer,,2,AWS Certified,Leadership,Remote,Designer
+STU0963,"Kubernetes, Docker, GCP, CI/CD",Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,,2,Azure Fundamentals,Critical Thinking,Hybrid,Kubernetes Operations Engineer
+STU0964,"JavaScript, Node.js, Express, MongoDB",Bachelor's in Information Technology,Entry,Web Developer,,3,AWS Certified,Teamwork,Hybrid,Web Developer
+STU0965,"Python, Django, PostgreSQL, JavaScript",Bachelor's in Computer Science,Mid,Full Stack Python Developer,,1,Google Cloud Certified,Leadership,Hybrid,Full Stack Python Developer
+STU0966,"Java, Spring Boot, Angular, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,3,PMP,Critical Thinking,Remote,Full Stack Java Developer
+STU0967,"C++, Unreal Engine, VR Development",Bachelor's in Game Development,Mid,Game Developer,,1,Cisco CCNA,Teamwork,Hybrid,Game Developer
+STU0968,"AWS, Terraform, Jenkins, Linux",Bachelor's in Computer Science,Senior,DevOps Engineer,,0,None,Teamwork,Hybrid,DevOps Engineer
+STU0969,"PHP, Symfony, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,3,Cisco CCNA,Adaptability,Remote,PHP Developer
+STU0970,"Solidity, Web3, Ethereum, JavaScript",Bachelor's in Computer Science,Mid,Blockchain Developer,,1,Cisco CCNA,Teamwork,In-office,Blockchain Developer
+STU0971,"React, TypeScript, HTML, CSS",Bachelor's in Computer Science,Entry,Frontend Developer,,1,Azure Fundamentals,Leadership,Hybrid,Frontend Developer
+STU0972,"Java, Spring, SQL, Microservices",Bachelor's in Software Engineering,Senior,Backend Developer,,3,Oracle Certified,Leadership,In-office,Backend Developer
+STU0973,"Marketing Campaigns, Social Media, Analytics",Bachelor's in Marketing,Mid,Marketing,,3,Scrum Master,Critical Thinking,Hybrid,Marketing
+STU0974,"HR Policies, Recruitment, Training",Master's in Human Resources,Senior,HR,,1,Cisco CCNA,Critical Thinking,Remote,HR
+STU0975,"C#, ASP.NET, SQL Server, Azure",Bachelor's in Computer Science,Mid,C# Developer,,3,Google Cloud Certified,Teamwork,In-office,C# Developer
+STU0976,"Swift, iOS Development, UI/UX, Core Data",Bachelor's in Computer Science,Entry,Mobile Developer,,2,Cisco CCNA,Communication,In-office,Mobile Developer
+STU0977,"Penetration Testing, Firewalls, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,3,AWS Certified,Adaptability,In-office,Cybersecurity Engineer
+STU0978,"Scrum, Agile, Project Management",Master's in Business Administration,Mid,Software Project Manager,,3,Azure Fundamentals,Communication,In-office,Software Project Manager
+STU0979,"Python, Pandas, SQL, Tableau",Master's in Data Science,Entry,Data Analyst,,3,Oracle Certified,Teamwork,Hybrid,Data Analyst
+STU0980,"Kubernetes, Helm, AWS, Docker",Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,,1,AWS Certified,Teamwork,Hybrid,Kubernetes Operations Engineer
+STU0981,"HTML, CSS, JavaScript, Vue.js",Bachelor's in Information Technology,Mid,Web Developer,,2,Oracle Certified,Communication,In-office,Web Developer
+STU0982,"Python, TensorFlow, NLP, Deep Learning",PhD in Artificial Intelligence,Senior,AIML,,0,AWS Certified,Adaptability,Hybrid,AIML
+STU0983,"Java, Kotlin, Android SDK, REST APIs",Bachelor's in Software Engineering,Mid,Mobile Developer,,0,AWS Certified,Communication,In-office,Mobile Developer
+STU0984,"Python, Flask, JavaScript, SQL",Bachelor's in Computer Science,Entry,Full Stack Python Developer,,2,None,Critical Thinking,In-office,Full Stack Python Developer
+STU0985,"Java, Spring, React, AWS",Master's in Software Engineering,Senior,Full Stack Java Developer,,2,PMP,Leadership,Remote,Full Stack Java Developer
+STU0986,"Adobe XD, Figma, UI/UX, Prototyping",Bachelor's in Graphic Design,Mid,Designer,,2,PMP,Critical Thinking,In-office,Designer
+STU0987,"SQL, R, Data Visualization, Statistics",Bachelor's in Statistics,Entry,Data Analyst,,1,Scrum Master,Leadership,Hybrid,Data Analyst
+STU0988,"C++, Unity, Game Design, VR",Bachelor's in Game Development,Mid,Game Developer,,0,Azure Fundamentals,Teamwork,In-office,Game Developer
+STU0989,"AWS, Jenkins, Docker, Terraform",Bachelor's in Computer Science,Senior,DevOps Engineer,,2,Google Cloud Certified,Adaptability,Remote,DevOps Engineer
+STU0990,"PHP, Laravel, MySQL, JavaScript",Bachelor's in Information Technology,Entry,PHP Developer,,1,Google Cloud Certified,Communication,Hybrid,PHP Developer
+STU0991,"Python, TensorFlow, Keras, NLP",Master's in Data Science,Mid,Data Scientist,,0,Google Cloud Certified,Adaptability,Remote,Data Scientist
+STU0992,"Solidity, Ethereum, Web3, Blockchain",Bachelor's in Computer Science,Senior,Blockchain Developer,,3,None,Communication,Remote,Blockchain Developer
+STU0993,"React, JavaScript, HTML, CSS, Redux",Bachelor's in Computer Science,Mid,Frontend Developer,,1,AWS Certified,Critical Thinking,In-office,Frontend Developer
+STU0994,"Java, Hibernate, SQL, REST APIs",Bachelor's in Software Engineering,Senior,Backend Developer,,0,PMP,Critical Thinking,Remote,Backend Developer
+STU0995,"Digital Marketing, SEO, PPC, Analytics",Bachelor's in Marketing,Mid,Marketing,,1,Azure Fundamentals,Communication,Remote,Marketing
+STU0996,"HR Management, Recruitment, Employee Relations",Master's in Human Resources,Senior,HR,,0,AWS Certified,Adaptability,Hybrid,HR
+STU0997,"C#, .NET Core, Azure, SQL Server",Bachelor's in Computer Science,Mid,C# Developer,,0,Oracle Certified,Communication,Remote,C# Developer
+STU0998,"Swift, iOS, Xcode, UI/UX",Bachelor's in Computer Science,Entry,Mobile Developer,,3,PMP,Teamwork,In-office,Mobile Developer
+STU0999,"Network Security, Ethical Hacking, SIEM",Master's in Cybersecurity,Senior,Cybersecurity Engineer,,1,PMP,Critical Thinking,In-office,Cybersecurity Engineer
+STU1000,"Agile, JIRA, Stakeholder Management",Master's in Business Administration,Mid,Software Project Manager,,2,Cisco CCNA,Teamwork,In-office,Software Project Manager

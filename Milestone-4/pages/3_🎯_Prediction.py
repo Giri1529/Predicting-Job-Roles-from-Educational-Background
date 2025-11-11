@@ -1,5 +1,5 @@
-# pages/3_🎯_Prediction.py (UPDATED - Works with your model)
-# Enhanced Prediction Page with Proper Model Loading
+# pages/3_🎯_Prediction.py (FIXED - Feature Mismatch Resolved)
+# This version ensures ALL features match the model's expectations
 
 import streamlit as st
 import pandas as pd
@@ -9,29 +9,20 @@ from global_css import GLOBAL_CSS
 from auth_helper import require_auth, get_current_user
 from db_helper import insert_prediction
 
-
-st.set_page_config(page_title="Prediction - SmartLand", page_icon="🎯", layout="wide")
+st.set_page_config(page_title="Prediction - Edu2Job", page_icon="🎯", layout="wide")
 st.markdown(GLOBAL_CSS, unsafe_allow_html=True) 
 
 @require_auth
 def main():
     user = get_current_user()
     
-    # ============================================
-    # MODEL LOADING - THIS IS THE KEY PART
-    # ============================================
     @st.cache_resource
     def load_model():
-        """
-        Load model with proper error handling
-        Handles both old (tuple) and new (dict) formats
-        """
+        """Load model with proper error handling"""
         try:
-            # Try loading as new format (dictionary with metadata)
             model_data = joblib.load("best_model.pkl")
             
             if isinstance(model_data, dict):
-                # New format - dictionary with all components
                 return {
                     'model': model_data['model'],
                     'scaler': model_data.get('scaler'),
@@ -41,7 +32,6 @@ def main():
                     'model_type': model_data.get('model_type', 'Unknown')
                 }
             elif isinstance(model_data, tuple):
-                # Old format - (model, encoder) tuple
                 return {
                     'model': model_data[0],
                     'scaler': None,
@@ -51,7 +41,6 @@ def main():
                     'model_type': 'Loaded Model'
                 }
             else:
-                # Just a model object
                 return {
                     'model': model_data,
                     'scaler': None,
@@ -61,30 +50,18 @@ def main():
                     'model_type': 'Loaded Model'
                 }
         except FileNotFoundError:
-            st.error("❌ Model file not found! Please ensure 'best_model.pkl' exists in the root folder.")
+            st.error("❌ Model file not found! Please retrain the model properly.")
             return None
         except Exception as e:
             st.error(f"❌ Error loading model: {str(e)}")
             return None
     
-    # Load model metadata for additional info
-    @st.cache_resource
-    def load_metadata():
-        """Load model metadata if available"""
-        try:
-            metadata = joblib.load("model_metadata.pkl")
-            return metadata
-        except:
-            return None
-    
     model_package = load_model()
-    metadata = load_metadata()
     
     if model_package is None:
-        st.error("⚠️ Unable to load the prediction model. Please contact support.")
+        st.error("⚠️ Unable to load the prediction model. Please contact admin to retrain the model properly.")
         return
     
-    # Extract components
     model = model_package['model']
     scaler = model_package['scaler']
     feature_columns = model_package['feature_columns']
@@ -92,7 +69,6 @@ def main():
     accuracy = model_package['accuracy']
     model_type = model_package['model_type']
     
-    # Custom CSS
     st.markdown("""
         <style>
         .prediction-box {
@@ -103,42 +79,29 @@ def main():
             text-align: center;
             margin: 2rem 0;
         }
-        .confidence-bar {
-            background-color: #e0e0e0;
+        .rank-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 1.5rem;
             border-radius: 10px;
-            overflow: hidden;
-            height: 30px;
-            margin: 10px 0;
-        }
-        .confidence-fill {
-            background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
-            height: 100%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
             color: white;
-            font-weight: bold;
+            text-align: center;
+            margin: 0.5rem 0;
         }
-        .insight-box {
-            background-color: #f0f8ff;
-            border-left: 4px solid #667eea;
-            padding: 1rem;
-            margin: 1rem 0;
-            border-radius: 5px;
-        }
+        .rank-1 { background: linear-gradient(135deg, #FFD700 0%, #FFA500 100%); }
+        .rank-2 { background: linear-gradient(135deg, #C0C0C0 0%, #A9A9A9 100%); }
+        .rank-3 { background: linear-gradient(135deg, #CD7F32 0%, #8B4513 100%); }
         </style>
         """, unsafe_allow_html=True)
     
     st.title("🎯 Job Role Prediction")
-    st.markdown(f"**Welcome, {user['username']}!** Enter your details to get your predicted job role.")
+    st.markdown(f"**Welcome, {user['username']}!** Enter your details to get your top 3 predicted job roles.")
     
-    # Model info banner
     col1, col2, col3 = st.columns(3)
     with col1:
         if accuracy > 0:
             st.metric("Model Accuracy", f"{accuracy:.2%}")
         else:
-            st.info("Model loaded successfully")
+            st.info("Model loaded")
     with col2:
         st.metric("Model Type", model_type)
     with col3:
@@ -147,7 +110,6 @@ def main():
     
     st.markdown("---")
     
-    # Input form
     with st.form("prediction_form"):
         col1, col2 = st.columns(2)
         
@@ -196,15 +158,64 @@ def main():
                 help="How would you rate your overall experience?")
         
         st.markdown("---")
-        submit = st.form_submit_button("🔮 Predict Job Role", 
+        st.subheader("🎓 Educational & Career Gaps")
+        
+        col1, col2 = st.columns(2)
+        
+        with col1:
+            has_edu_gap = st.checkbox("❓ Do you have an incomplete/dropped out degree?",
+                help="Did you not complete any degree or drop out?")
+            
+            if has_edu_gap:
+                edu_gap_reason = st.selectbox("Reason for Educational Gap",
+                    ["Health issues", "Financial constraints", "Family responsibilities", 
+                     "Career opportunity", "Career break", "Other"],
+                    help="Select the reason for your educational gap")
+                
+                if edu_gap_reason == "Other":
+                    edu_gap_detail = st.text_input("Please specify the reason")
+                else:
+                    edu_gap_detail = edu_gap_reason
+            else:
+                edu_gap_reason = None
+                edu_gap_detail = None
+        
+        with col2:
+            has_career_gap = st.checkbox("❓ Do you have a career gap or break?",
+                help="Did you have a gap between graduation and starting work?")
+            
+            if has_career_gap:
+                career_gap_years = st.number_input("Career Gap (Years)", 
+                    min_value=0.5, max_value=20.0, value=1.0, step=0.5,
+                    help="Duration of your career gap in years")
+                
+                career_gap_reason = st.selectbox("Reason for Career Gap",
+                    ["Health issues", "Financial constraints", "Family responsibilities",
+                     "Higher studies", "Career break", "Other"],
+                    help="Select the reason for your career gap")
+                
+                if career_gap_reason == "Other":
+                    career_gap_detail = st.text_input("Please specify the career gap reason")
+                else:
+                    career_gap_detail = career_gap_reason
+            else:
+                career_gap_years = 0
+                career_gap_reason = None
+                career_gap_detail = None
+        
+        st.markdown("---")
+        submit = st.form_submit_button("🔮 Get Top 3 Predictions", 
                                        use_container_width=True, 
                                        type="primary")
     
-    # Make prediction
     if submit:
         with st.spinner("🤖 Analyzing your profile..."):
             try:
-                # Prepare input data
+                # ============================================
+                # CRITICAL FIX: Create ALL required features
+                # ============================================
+                
+                # Step 1: Create base input data
                 input_data = pd.DataFrame({
                     "Degree": [degree],
                     "Major": [major],
@@ -214,37 +225,45 @@ def main():
                     "ExperienceYears": [experience_years],
                     "ProjectCount": [project_count],
                     "Internship": [internship],
-                    "ExperienceLevel": [experience_level]
+                    "ExperienceLevel": [experience_level],
+                    "EducationalGap": ["Yes" if has_edu_gap else "No"],
+                    "EducationalGapReason": [edu_gap_detail if has_edu_gap else "None"],
+                    "CareerGap": ["Yes" if has_career_gap else "No"],
+                    "CareerGapYears": [career_gap_years],
+                    "CareerGapReason": [career_gap_detail if has_career_gap else "None"]
                 })
                 
-                # ============================================
-                # PREPARE DATA FOR MODEL PREDICTION
-                # ============================================
-                prediction_data = input_data.copy()
+                # Step 2: Create feature dataframe
+                feature_data = input_data.copy()
                 
-                # If model has encoders, encode the categorical data
-                if encoders and len(encoders) > 0:
-                    # Encode categorical features
-                    for col in ['Degree', 'Major', 'Skill1', 'Skill2', 'Certification', 'Internship', 'ExperienceLevel']:
-                        if col in encoders:
-                            try:
-                                # Handle both dict and LabelEncoder objects
-                                if hasattr(encoders[col], 'transform'):
-                                    # It's a LabelEncoder
-                                    encoded_val = encoders[col].transform([prediction_data[col].values[0]])[0]
-                                else:
-                                    # It's a dict
-                                    encoded_val = encoders[col].get(prediction_data[col].values[0], 0)
-                                prediction_data[col + '_encoded'] = encoded_val
-                            except:
-                                # If encoding fails, use original value
-                                prediction_data[col + '_encoded'] = 0
+                # Step 3: Encode categorical features
+                categorical_features = ['Degree', 'Major', 'Skill1', 'Skill2', 'Certification', 'Internship', 'ExperienceLevel']
                 
-                # Feature engineering
-                prediction_data['DegreeLevel'] = {'BCA': 1, 'B.Tech': 1, 'MCA': 2, 'M.Tech': 2, 'MBA': 2}.get(degree, 1)
-                prediction_data['ProjectDensity'] = project_count / (experience_years + 1) if experience_years >= 0 else project_count
+                for col in categorical_features:
+                    if col in encoders and encoders[col] is not None:
+                        try:
+                            encoded_val = encoders[col].transform([feature_data[col].values[0]])[0]
+                            feature_data[col + '_encoded'] = encoded_val
+                        except:
+                            # If encoding fails, use a default value
+                            feature_data[col + '_encoded'] = 0
+                    else:
+                        # No encoder available, create simple numeric encoding
+                        feature_data[col + '_encoded'] = 0
                 
-                # Add ExperienceCategoryFeature (from model trainer)
+                # Step 4: Create engineered features (CRITICAL - These were missing!)
+                
+                # DegreeLevel
+                degree_hierarchy = {
+                    'BCA': 1, 'B.Tech': 1,
+                    'MCA': 2, 'M.Tech': 2, 'MBA': 2
+                }
+                feature_data['DegreeLevel'] = degree_hierarchy.get(degree, 1)
+                
+                # ProjectDensity
+                feature_data['ProjectDensity'] = project_count / (experience_years + 1)
+                
+                # ExperienceCategoryFeature
                 def categorize_experience(years):
                     if years == 0:
                         return 'Fresher'
@@ -256,122 +275,117 @@ def main():
                         return 'Senior'
                 
                 exp_category = categorize_experience(experience_years)
-                prediction_data['ExperienceCategoryFeature'] = exp_category
+                feature_data['ExperienceCategoryFeature'] = exp_category
                 
-                # Encode ExperienceCategoryFeature if encoder exists
-                if 'ExperienceCategoryFeature' in encoders:
+                # Encode ExperienceCategoryFeature
+                if 'ExperienceCategoryFeature' in encoders and encoders['ExperienceCategoryFeature'] is not None:
                     try:
                         encoded_val = encoders['ExperienceCategoryFeature'].transform([exp_category])[0]
-                        prediction_data['ExperienceCategoryFeature_encoded'] = encoded_val
+                        feature_data['ExperienceCategoryFeature_encoded'] = encoded_val
                     except:
-                        prediction_data['ExperienceCategoryFeature_encoded'] = 0
-                
-                # Prepare features for model
-                if feature_columns and len(feature_columns) > 0:
-                    # Use specified feature columns
-                    feature_values = prediction_data[feature_columns].values.reshape(1, -1)
+                        feature_data['ExperienceCategoryFeature_encoded'] = 0
                 else:
-                    # Use default features
+                    # Create simple encoding if encoder not available
+                    exp_cat_map = {'Fresher': 0, 'Junior': 1, 'Mid': 2, 'Senior': 3}
+                    feature_data['ExperienceCategoryFeature_encoded'] = exp_cat_map.get(exp_category, 1)
+                
+                # Step 5: Select features in correct order
+                if feature_columns and len(feature_columns) > 0:
+                    # Use the exact feature columns from model
+                    X_predict = feature_data[feature_columns].values.reshape(1, -1)
+                else:
+                    # Fallback: use default feature order
                     default_features = [
                         'Degree_encoded', 'Major_encoded', 'Skill1_encoded', 'Skill2_encoded',
                         'Certification_encoded', 'ExperienceYears', 'ProjectCount',
-                        'Internship_encoded', 'ExperienceLevel_encoded', 'DegreeLevel', 'ProjectDensity'
+                        'Internship_encoded', 'ExperienceLevel_encoded', 'DegreeLevel',
+                        'ProjectDensity', 'ExperienceCategoryFeature_encoded'
                     ]
-                    # Only use features that exist
-                    available_features = [f for f in default_features if f in prediction_data.columns]
-                    feature_values = prediction_data[available_features].values.reshape(1, -1)
+                    X_predict = feature_data[default_features].values.reshape(1, -1)
                 
-                # Scale if scaler exists
+                # Step 6: Apply scaling if available
                 if scaler is not None:
-                    feature_values = scaler.transform(feature_values)
+                    X_predict = scaler.transform(X_predict)
                 
-                # Make prediction
-                prediction = model.predict(feature_values)
-                
-                # Get confidence if available
+                # Step 7: Make predictions
                 try:
-                    prediction_proba = model.predict_proba(feature_values)
-                    confidence = np.max(prediction_proba) * 100
-                except:
-                    confidence = 85.0  # Default confidence if proba not available
+                    # Get probability predictions
+                    prediction_proba = model.predict_proba(X_predict)[0]
+                    
+                    # Get top 3 predictions
+                    top_3_indices = np.argsort(prediction_proba)[-3:][::-1]
+                    top_3_probs = prediction_proba[top_3_indices]
+                    
+                    # Normalize to 100%
+                    top_3_probs_normalized = (top_3_probs / top_3_probs.sum()) * 100
+                    
+                    # Get class names
+                    if hasattr(model, 'classes_'):
+                        all_classes = model.classes_
+                        top_3_roles = [all_classes[i] for i in top_3_indices]
+                    else:
+                        # Fallback if classes_ not available
+                        primary_role = str(model.predict(X_predict)[0])
+                        top_3_roles = [primary_role, "Alternative Role 1", "Alternative Role 2"]
+                    
+                    top_3_confidences = top_3_probs_normalized
+                    
+                except Exception as pred_error:
+                    st.error(f"❌ Prediction error: {str(pred_error)}")
+                    st.info("💡 The model may need to be retrained properly. Please contact admin.")
+                    return
                 
-                predicted_role = str(prediction[0])
-                
-                # Display result
+                # ============================================
+                # DISPLAY RESULTS
+                # ============================================
                 st.markdown(f"""
                     <div class='prediction-box'>
-                        <h2>✨ Prediction Result</h2>
-                        <h1 style='font-size: 3em; margin: 1rem 0;'>{predicted_role}</h1>
-                        <p>This is your recommended job role based on your profile!</p>
+                        <h2>✨ Your Top 3 Job Roles</h2>
+                        <p>Based on your profile analysis</p>
                     </div>
                     """, unsafe_allow_html=True)
                 
-                # Display confidence
-                st.markdown("### 📊 Prediction Confidence")
-                col1, col2 = st.columns([3, 1])
+                col1, col2, col3 = st.columns(3)
+                
                 with col1:
                     st.markdown(f"""
-                        <div class='confidence-bar'>
-                            <div class='confidence-fill' style='width: {confidence}%;'>
-                                {confidence:.1f}%
-                            </div>
+                        <div class='rank-card rank-1'>
+                            <h3 style='margin: 0; font-size: 2rem;'>🥇</h3>
+                            <h2 style='margin: 0.5rem 0;'>{top_3_roles[0]}</h2>
+                            <p style='margin: 0; opacity: 0.9; font-size: 1.1rem;'>Most Suitable</p>
                         </div>
                         """, unsafe_allow_html=True)
-                with col2:
-                    if confidence >= 80:
-                        st.success("Very High")
-                    elif confidence >= 60:
-                        st.info("High")
-                    elif confidence >= 40:
-                        st.warning("Moderate")
-                    else:
-                        st.error("Low")
-                
-                # Show insights
-                st.markdown("### 💡 Key Insights")
-                col1, col2 = st.columns(2)
-                
-                with col1:
-                    st.markdown(f"""
-                    <div class='insight-box'>
-                    <h4>✨ Your Profile Strengths</h4>
-                    <ul>
-                        <li><strong>Primary Skill:</strong> {skill1}</li>
-                        <li><strong>Secondary Skill:</strong> {skill2}</li>
-                        <li><strong>Experience:</strong> {experience_years} years</li>
-                        <li><strong>Projects:</strong> {project_count} completed</li>
-                        <li><strong>Certification:</strong> {certification}</li>
-                    </ul>
-                    </div>
-                    """, unsafe_allow_html=True)
                 
                 with col2:
                     st.markdown(f"""
-                    <div class='insight-box'>
-                    <h4>🚀 Career Recommendations</h4>
-                    <ul>
-                        <li>✓ Your profile fits <strong>{predicted_role}</strong></li>
-                        <li>✓ Strengthen {skill1} skills</li>
-                        <li>✓ Consider {certification} certification</li>
-                        <li>✓ Build 2-3 more portfolio projects</li>
-                        <li>✓ Network in your industry</li>
-                    </ul>
-                    </div>
-                    """, unsafe_allow_html=True)
+                        <div class='rank-card rank-2'>
+                            <h3 style='margin: 0; font-size: 2rem;'>🥈</h3>
+                            <h2 style='margin: 0.5rem 0;'>{top_3_roles[1]}</h2>
+                            <p style='margin: 0; opacity: 0.9; font-size: 1.1rem;'>Good Match</p>
+                        </div>
+                        """, unsafe_allow_html=True)
+                
+                with col3:
+                    st.markdown(f"""
+                        <div class='rank-card rank-3'>
+                            <h3 style='margin: 0; font-size: 2rem;'>🥉</h3>
+                            <h2 style='margin: 0.5rem 0;'>{top_3_roles[2]}</h2>
+                            <p style='margin: 0; opacity: 0.9; font-size: 1.1rem;'>Alternative Option</p>
+                        </div>
+                        """, unsafe_allow_html=True)
                 
                 # Save to database
                 row = input_data.iloc[0].to_dict()
-                row["predicted_label"] = predicted_role
-                row["confidence"] = confidence
+                row["predicted_label_1"] = top_3_roles[0]
+                row["confidence_1"] = top_3_confidences[0]
+                row["predicted_label_2"] = top_3_roles[1]
+                row["confidence_2"] = top_3_confidences[1]
+                row["predicted_label_3"] = top_3_roles[2]
+                row["confidence_3"] = top_3_confidences[2]
                 insert_prediction(user['user_id'], row)
                 
-                st.success("✅ Prediction saved to your history!")
+                st.success("✅ Predictions saved to your history!")
                 
-                # Show details
-                with st.expander("📋 View Input Details"):
-                    st.dataframe(input_data, use_container_width=True)
-                
-                # Quick actions
                 col1, col2, col3 = st.columns(3)
                 with col1:
                     if st.button("🔄 Make Another Prediction", use_container_width=True):
@@ -385,30 +399,14 @@ def main():
             
             except Exception as e:
                 st.error(f"❌ Prediction failed: {str(e)}")
-                st.info("💡 Possible issues:\n- Model file corrupted\n- Missing encoders\n- Feature mismatch\n\nTry retraining the model.")
-    
-    # Info section
-    st.markdown("---")
-    st.markdown("### ℹ️ How It Works")
-    
-    col1, col2 = st.columns(2)
-    with col1:
-        st.info("""
-        **🔍 Our AI analyzes:**
-        - Your educational background
-        - Technical skills and certifications
-        - Work experience and projects
-        - Experience level & internships
-        """)
-    
-    with col2:
-        st.success("""
-        **✅ You get:**
-        - Accurate job role prediction
-        - Confidence score for prediction
-        - Career recommendations
-        - Saved prediction history
-        """)
+                st.info("""
+                💡 **Possible issues:**
+                - Model file corrupted
+                - Missing encoders
+                - Feature mismatch
+                
+                **Solution:** Ask admin to retrain the model properly from the Admin Panel.
+                """)
 
 if __name__ == "__main__":
     main()

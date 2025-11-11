@@ -1,48 +1,54 @@
-# pages/9_🎓_Skill_Gap.py
+# pages/9_🎓_Skill_Gap.py (FIXED - Gauge Chart + Logout Button)
 # Skill Gap Analysis and Career Development
 
 import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
-from auth_helper import require_auth, get_current_user
+from auth_helper import require_auth, get_current_user, logout
 from db_helper import fetch_history
 from global_css import GLOBAL_CSS
 
-st.set_page_config(page_title="Skill Gap Analysis - SmartLand", page_icon="🎓", layout="wide")
+st.set_page_config(page_title="Skill Gap Analysis - Edu2Job", page_icon="🎓", layout="wide")
 st.markdown(GLOBAL_CSS, unsafe_allow_html=True)
 
 @require_auth
 def main():
     user = get_current_user()
     
+    # LOGOUT BUTTON
+    col1, col2 = st.columns([6, 1])
+    with col2:
+        if st.button("🚪 Logout", type="secondary", use_container_width=True):
+            logout()
+    
     st.title("🎓 Skill Gap Analysis")
     st.markdown("Identify skill gaps and create your personalized development roadmap")
     
-    # Fetch user predictions
     predictions = fetch_history(user['user_id'], limit=100)
     
     if not predictions:
-        st.warning("📭 Make a prediction first to analyze your skill gaps!")
+        st.warning("🔭 Make a prediction first to analyze your skill gaps!")
         if st.button("🎯 Make a Prediction"):
             st.switch_page("pages/3_🎯_Prediction.py")
         st.stop()
     
-    # Convert to DataFrame
     df = pd.DataFrame(predictions, columns=[
         'id', 'user_id', 'timestamp', 'degree', 'major', 'skill1', 'skill2',
         'certification', 'experience_years', 'project_count', 'internship',
-        'experience_level', 'predicted_label', 'confidence'
+        'experience_level', 
+        'predicted_label_1', 'confidence_1',
+        'predicted_label_2', 'confidence_2',
+        'predicted_label_3', 'confidence_3',
+        'educational_gap', 'educational_gap_reason',
+        'career_gap', 'career_gap_years', 'career_gap_reason'
     ])
     
-    # Get latest prediction
     latest = df.iloc[0]
-    predicted_role = latest['predicted_label']
+    predicted_role = latest['predicted_label_1']
     
     st.markdown(f"### 📊 Analysis for: **{predicted_role}**")
     
-    # ============================================
-    # ROLE-SPECIFIC SKILL REQUIREMENTS
-    # ============================================
+    # Role-specific skill requirements
     role_skills = {
         'Data Scientist': {
             'required': ['Python', 'SQL', 'Machine Learning', 'Statistics', 'Data Analysis'],
@@ -88,7 +94,6 @@ def main():
         }
     }
     
-    # Get requirements for predicted role or use default
     if predicted_role in role_skills:
         requirements = role_skills[predicted_role]
     else:
@@ -100,9 +105,6 @@ def main():
             'description': 'Professional in technology'
         }
     
-    # ============================================
-    # DISPLAY ROLE INFO
-    # ============================================
     col1, col2 = st.columns(2)
     
     with col1:
@@ -126,51 +128,42 @@ def main():
     
     st.markdown("---")
     
-    # ============================================
-    # SKILL GAP ANALYSIS
-    # ============================================
     st.markdown("### 🎯 Skill Gap Analysis")
     
     current_skills = [latest['skill1'], latest['skill2']]
     required_skills = requirements['required']
     nice_to_have = requirements['nice_to_have']
     
-    # Create skill matrix
     skill_matrix = []
     for skill in required_skills:
         status = '✅ Have' if skill in current_skills else '❌ Missing'
         skill_matrix.append({'Skill': skill, 'Status': status, 'Priority': 'High'})
     
     for skill in nice_to_have:
-        status = '✅ Have' if skill in current_skills else '⭕ Nice-to-have'
+        status = '✅ Have' if skill in current_skills else '⭐ Nice-to-have'
         skill_matrix.append({'Skill': skill, 'Status': status, 'Priority': 'Medium'})
     
     skill_df = pd.DataFrame(skill_matrix)
     st.dataframe(skill_df, use_container_width=True, hide_index=True)
     
-    # Calculate skill match percentage
     have_required = sum(1 for s in required_skills if s in current_skills)
     skill_match = (have_required / len(required_skills)) * 100
     
     st.markdown("---")
     
-    # ============================================
-    # SKILL MATCH VISUALIZATION
-    # ============================================
+    st.markdown("### 📊 Skill Match Score")
+    
     col1, col2 = st.columns(2)
     
     with col1:
-        st.markdown("### 📊 Skill Match Score")
-        
-        # Create gauge chart
+        # FIXED GAUGE CHART - Correct domain values
         fig_gauge = go.Figure(go.Indicator(
             mode="gauge+number+delta",
             value=skill_match,
-            domain={'x': [0, 100], 'y': [0, 100]},
             title={'text': "Skill Match %"},
             delta={'reference': 80},
             gauge={
-                'axis': {'range': [0, 100]},
+                'axis': {'range': [None, 100]},  # FIXED: Use [None, 100] instead of [0, 100]
                 'bar': {'color': "darkblue"},
                 'steps': [
                     {'range': [0, 40], 'color': "#ffcccc"},
@@ -184,7 +177,7 @@ def main():
                 }
             }
         ))
-        fig_gauge.update_layout(height=400)
+        fig_gauge.update_layout(height=400, margin=dict(l=20, r=20, t=40, b=20))
         st.plotly_chart(fig_gauge, use_container_width=True)
     
     with col2:
@@ -212,21 +205,17 @@ def main():
     
     st.markdown("---")
     
-    # ============================================
-    # DEVELOPMENT ROADMAP
-    # ============================================
     st.markdown("### 🚀 Your Learning Roadmap")
     
     missing_skills = [s for s in required_skills if s not in current_skills]
     
     if missing_skills:
-        st.markdown("#### 🔴 Priority Skills to Learn")
+        st.markdown("#### 📝 Priority Skills to Learn")
         for i, skill in enumerate(missing_skills[:5], 1):
             col1, col2 = st.columns([1, 3])
             with col1:
                 st.markdown(f"**{i}. {skill}**")
             with col2:
-                # Learning resources
                 resources = {
                     'Python': '📚 Udemy, Codecademy, DataCamp',
                     'SQL': '📚 Mode Analytics, W3Schools, Leetcode',
@@ -247,33 +236,26 @@ def main():
     
     st.markdown("---")
     
-    # ============================================
-    # RECOMMENDATIONS
-    # ============================================
     st.markdown("### 💡 Personalized Recommendations")
     
     recommendations = []
     
-    # Experience recommendation
     if latest['experience_years'] < 2:
         recommendations.append("🎯 Build more hands-on projects (target: 10+ projects)")
     else:
         recommendations.append("✅ Your experience level is good")
     
-    # Certification recommendation
     if latest['certification'] == 'None':
         rec_cert = requirements['certifications'][0]
         recommendations.append(f"📜 Get certified: **{rec_cert}** certification")
     else:
         recommendations.append(f"✅ Good! You have: {latest['certification']}")
     
-    # Internship recommendation
     if latest['internship'] == 'No' and latest['experience_years'] < 1:
         recommendations.append("🏢 Consider internship for practical experience")
     else:
         recommendations.append("✅ Good internship/project experience")
     
-    # Skill diversification
     if latest['skill1'] == latest['skill2']:
         recommendations.append("🛠️ Diversify your skills - learn a different technology")
     else:
@@ -284,9 +266,6 @@ def main():
     
     st.markdown("---")
     
-    # ============================================
-    # QUICK ACTIONS
-    # ============================================
     st.markdown("### ⚡ Quick Actions")
     
     col1, col2, col3 = st.columns(3)

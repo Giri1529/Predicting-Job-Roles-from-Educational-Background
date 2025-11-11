@@ -1,17 +1,15 @@
-# pages/2_🔐_Login.py (FIXED - OTP only on signup)
+# pages/2_🔐_Login.py (UPDATED - Edu2Job Branding)
 # Login and Sign Up Page with JWT Authentication + Email OTP Verification on Signup Only
 
 import streamlit as st
 from db_helper import register_user, verify_user
 from auth_helper import create_token, is_authenticated
 import re
-from global_css import GLOBAL_CSS  # ← ADD THIS LINE
-
-
+from global_css import GLOBAL_CSS
 
 st.markdown(GLOBAL_CSS, unsafe_allow_html=True)
 
-st.set_page_config(page_title="Login - SmartLand", page_icon="🔐", layout="centered")
+st.set_page_config(page_title="Login - Edu2Job", page_icon="🔐", layout="centered")
 
 st.markdown(GLOBAL_CSS, unsafe_allow_html=True)
 
@@ -56,7 +54,7 @@ if is_authenticated():
 # Header
 st.markdown("""
     <div class='login-header'>
-        <h1>🔐 Welcome to SmartLand</h1>
+        <h1>🔐 Welcome to Edu2Job</h1>
         <p>Login or Create Your Account</p>
     </div>
     """, unsafe_allow_html=True)
@@ -225,7 +223,7 @@ else:
 st.markdown("---")
 st.markdown("""
     <div style='text-align: center; color: #666;'>
-        <p>🔒 Your data is secure with us | ✉️ Email verified signup</p>
-        <p>© 2024 SmartLand - AI Job Role Prediction System</p>
+        <p>🔐 Your data is secure with us | ✉️ Email verified signup</p>
+        <p>© 2024 Edu2Job - AI Job Role Prediction System</p>
     </div>
     """, unsafe_allow_html=True)

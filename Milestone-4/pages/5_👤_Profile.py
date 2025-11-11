@@ -1,9 +1,11 @@
+# pages/5_👤_Profile.py (UPDATED - Edu2Job Branding)
+
 import streamlit as st
 from auth_helper import require_auth, get_current_user
 from db_helper import get_user_info, update_user_profile, change_password, insert_feedback
 from global_css import GLOBAL_CSS
 
-st.set_page_config(page_title="Profile - SmartLand", page_icon="👤", layout="wide")
+st.set_page_config(page_title="Profile - Edu2Job", page_icon="👤", layout="wide")
 st.markdown(GLOBAL_CSS, unsafe_allow_html=True)
 
 @require_auth
@@ -13,9 +15,8 @@ def main():
     
     st.title("👤 My Profile")
     
-    tab1, tab2, tab3 = st.tabs(["📝 Profile Info", "🔐 Change Password", "⭐ Feedback"])
+    tab1, tab2, tab3 = st.tabs(["📝 Profile Info", "🔑 Change Password", "⭐ Feedback"])
     
-    # Tab 1: Profile Info
     with tab1:
         st.subheader("Profile Information")
         
@@ -33,7 +34,6 @@ def main():
             else:
                 st.error("❌ Update failed")
     
-    # Tab 2: Change Password
     with tab2:
         st.subheader("Change Password")
         
@@ -42,7 +42,7 @@ def main():
             new_pwd = st.text_input("New Password", type="password")
             confirm_pwd = st.text_input("Confirm New Password", type="password")
             
-            if st.form_submit_button("🔒 Change Password"):
+            if st.form_submit_button("🔐 Change Password"):
                 if new_pwd != confirm_pwd:
                     st.error("❌ Passwords don't match")
                 elif change_password(user['user_id'], old_pwd, new_pwd):
@@ -50,7 +50,6 @@ def main():
                 else:
                     st.error("❌ Current password incorrect")
     
-    # Tab 3: Feedback
     with tab3:
         st.subheader("Share Your Feedback")
         
@@ -58,7 +57,7 @@ def main():
             rating = st.slider("Rating", 1, 5, 4)
             comment = st.text_area("Comments")
             
-            if st.form_submit_button("📤 Submit Feedback"):
+            if st.form_submit_button("💬 Submit Feedback"):
                 insert_feedback(user['user_id'], rating, comment)
                 st.success("✅ Thank you for your feedback!")
 

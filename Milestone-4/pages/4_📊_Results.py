@@ -1,40 +1,47 @@
-# pages/4_📊_Results.py (FIXED - 14 columns)
+# pages/4_📊_Results.py (UPDATED - Top 3 Predictions + Logout)
 # Results Page - View Prediction History
 
 import streamlit as st
 import pandas as pd
-from auth_helper import require_auth, get_current_user
+from auth_helper import require_auth, get_current_user, logout
 from db_helper import fetch_history, insert_feedback
 from global_css import GLOBAL_CSS
 
-st.set_page_config(page_title="Results - SmartLand", page_icon="📊", layout="wide")
-
+st.set_page_config(page_title="Results - Edu2Job", page_icon="📊", layout="wide")
 st.markdown(GLOBAL_CSS, unsafe_allow_html=True)
 
 @require_auth
 def main():
     user = get_current_user()
     
+    # LOGOUT BUTTON
+    col1, col2 = st.columns([6, 1])
+    with col2:
+        if st.button("🚪 Logout", type="secondary", use_container_width=True):
+            logout()
+    
     st.title("📊 My Prediction Results")
     st.markdown(f"**View your prediction history, {user['username']}**")
     
-    # Fetch user predictions
     predictions = fetch_history(user['user_id'], limit=500)
     
     if not predictions:
-        st.warning("📭 No predictions yet. Make your first prediction!")
+        st.warning("🔭 No predictions yet. Make your first prediction!")
         if st.button("🎯 Make a Prediction"):
             st.switch_page("pages/3_🎯_Prediction.py")
         st.stop()
     
-    # ✅ FIXED: Added 'confidence' column (14 columns total)
+    # Enhanced DataFrame with TOP 3 predictions
     df = pd.DataFrame(predictions, columns=[
         "ID", "UserID", "Timestamp", "Degree", "Major", "Skill1", "Skill2",
-        "Certification", "Experience", "Projects", "Internship",
-        "Level", "Predicted Role", "Confidence"
+        "Certification", "Experience", "Projects", "Internship", "Level",
+        "Role 1", "Confidence 1",
+        "Role 2", "Confidence 2",
+        "Role 3", "Confidence 3",
+        "Edu Gap", "Edu Gap Reason",
+        "Career Gap", "Career Gap Years", "Career Gap Reason"
     ])
     
-    # Tabs for different views
     tab1, tab2, tab3 = st.tabs(["📋 All Predictions", "📊 Statistics", "⭐ Feedback"])
     
     # ============================================
@@ -43,7 +50,6 @@ def main():
     with tab1:
         st.markdown(f"### Total Predictions: {len(df)}")
         
-        # Filters
         col1, col2, col3 = st.columns(3)
         
         with col1:
@@ -55,8 +61,8 @@ def main():
         
         with col2:
             role_filter = st.multiselect(
-                "Filter by Predicted Role",
-                df['Predicted Role'].unique(),
+                "Filter by Top Predicted Role",
+                df['Role 1'].unique(),
                 default=None
             )
         
@@ -67,33 +73,38 @@ def main():
                 default=None
             )
         
-        # Apply filters
         filtered_df = df.copy()
         
         if degree_filter:
             filtered_df = filtered_df[filtered_df['Degree'].isin(degree_filter)]
         
         if role_filter:
-            filtered_df = filtered_df[filtered_df['Predicted Role'].isin(role_filter)]
+            filtered_df = filtered_df[filtered_df['Role 1'].isin(role_filter)]
         
         if skill_filter:
             filtered_df = filtered_df[filtered_df['Skill1'].isin(skill_filter)]
         
         st.markdown(f"**Showing {len(filtered_df)} of {len(df)} predictions**")
         
-        # Display table with better formatting
+        # Display with TOP 3 predictions
         display_df = filtered_df[[
             "Timestamp", "Degree", "Major", "Skill1", "Skill2",
-            "Certification", "Experience", "Projects", "Predicted Role", "Confidence"
+            "Certification", "Experience", "Projects",
+            "Role 1", "Role 2", "Role 3"
         ]].copy()
-        
-        display_df['Confidence'] = display_df['Confidence'].apply(
-            lambda x: f"{x:.1f}%" if pd.notna(x) else "N/A"
-        )
         
         st.dataframe(display_df, use_container_width=True, hide_index=True)
         
-        # Download options
+        # Expandable detailed view
+        with st.expander("📋 View Detailed Information (with Gaps)"):
+            detailed_df = filtered_df[[
+                "Timestamp", "Degree", "Major", "Experience",
+                "Role 1", "Role 2", "Role 3",
+                "Edu Gap", "Edu Gap Reason",
+                "Career Gap", "Career Gap Years", "Career Gap Reason"
+            ]].copy()
+            st.dataframe(detailed_df, use_container_width=True, hide_index=True)
+        
         col1, col2 = st.columns(2)
         
         with col1:
@@ -122,28 +133,29 @@ def main():
             st.metric("Total Predictions", len(df))
         
         with col2:
-            st.metric("Unique Roles", df['Predicted Role'].nunique())
+            st.metric("Unique Top Roles", df['Role 1'].nunique())
         
         with col3:
-            avg_confidence = df['Confidence'].mean()
-            st.metric("Avg Confidence", f"{avg_confidence:.1f}%" if pd.notna(avg_confidence) else "N/A")
+            avg_exp = df['Experience'].mean()
+            st.metric("Avg Experience", f"{avg_exp:.1f} years")
         
         with col4:
-            most_common = df['Predicted Role'].value_counts().index[0]
-            st.metric("Most Predicted Role", most_common)
+            most_common = df['Role 1'].value_counts().index[0]
+            st.metric("Most Predicted", most_common)
         
         st.markdown("---")
         
         col1, col2 = st.columns(2)
         
         with col1:
-            st.markdown("#### Most Predicted Roles")
-            role_counts = df['Predicted Role'].value_counts().head(10)
+            st.markdown("#### 🎯 Top 5 Predicted Roles (1st Position)")
+            role_counts = df['Role 1'].value_counts().head(5)
             for role, count in role_counts.items():
-                st.write(f"**{role}**: {count} times")
+                percentage = (count / len(df)) * 100
+                st.write(f"**{role}**: {count} times ({percentage:.1f}%)")
         
         with col2:
-            st.markdown("#### Skills Breakdown")
+            st.markdown("#### 🛠️ Skills Breakdown")
             st.write("**Primary Skills:**")
             skill1_counts = df['Skill1'].value_counts().head(5)
             for skill, count in skill1_counts.items():
@@ -156,22 +168,28 @@ def main():
         
         st.markdown("---")
         
-        st.markdown("#### Education & Experience")
+        st.markdown("#### 📈 Gap Analysis")
         col1, col2 = st.columns(2)
         
         with col1:
-            st.write("**Degrees Used:**")
-            degree_counts = df['Degree'].value_counts()
-            for degree, count in degree_counts.items():
-                st.write(f"- {degree}: {count}")
+            edu_gap_count = (df['Edu Gap'] == 'Yes').sum()
+            st.metric("Educational Gaps", edu_gap_count)
+            if edu_gap_count > 0:
+                st.write("**Reasons:**")
+                gap_reasons = df[df['Edu Gap'] == 'Yes']['Edu Gap Reason'].value_counts()
+                for reason, count in gap_reasons.items():
+                    st.write(f"- {reason}: {count}")
         
         with col2:
-            st.write("**Average Experience:** " + 
-                    f"{df['Experience'].mean():.1f} years")
-            st.write("**Average Projects:** " + 
-                    f"{df['Projects'].mean():.1f}")
-            st.write("**With Internship:** " + 
-                    f"{(df['Internship'] == 'Yes').sum()} predictions")
+            career_gap_count = (df['Career Gap'] == 'Yes').sum()
+            st.metric("Career Gaps", career_gap_count)
+            if career_gap_count > 0:
+                avg_gap = df[df['Career Gap'] == 'Yes']['Career Gap Years'].mean()
+                st.write(f"**Avg Duration:** {avg_gap:.1f} years")
+                st.write("**Reasons:**")
+                gap_reasons = df[df['Career Gap'] == 'Yes']['Career Gap Reason'].value_counts()
+                for reason, count in gap_reasons.items():
+                    st.write(f"- {reason}: {count}")
     
     # ============================================
     # TAB 3: Feedback
@@ -187,7 +205,7 @@ def main():
                 height=150
             )
             
-            submit_feedback = st.form_submit_button("📝 Submit Feedback", use_container_width=True, type="primary")
+            submit_feedback = st.form_submit_button("💬 Submit Feedback", use_container_width=True, type="primary")
             
             if submit_feedback:
                 if not comments.strip():
@@ -207,10 +225,9 @@ def main():
         - Add new features
         - Fix any issues
         
-        Thank you for using SmartLand! 🙏
+        Thank you for using Edu2Job! 🙏
         """)
     
-    # Navigation
     st.markdown("---")
     col1, col2, col3 = st.columns(3)
     
@@ -219,7 +236,7 @@ def main():
             st.switch_page("pages/3_🎯_Prediction.py")
     
     with col2:
-        if st.button("📈 View Analytics", use_container_width=True):
+        if st.button("📊 View Analytics", use_container_width=True):
             st.switch_page("pages/8_📊_Analytics.py")
     
     with col3:

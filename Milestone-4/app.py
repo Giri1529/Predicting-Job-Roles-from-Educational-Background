@@ -1,5 +1,5 @@
 # app.py (PREMIUM VERSION WITH DARK/LIGHT MODE & FEATURES)
-# Main Entry Point for SmartLand Job Role Predictor
+# Main Entry Point for Edu2Job AI Job Role Predictor
 
 import streamlit as st
 from db_helper import init_db
@@ -12,7 +12,7 @@ init_db()
 
 # Page configuration
 st.set_page_config(
-    page_title="SmartLand - AI Job Role Predictor",
+    page_title="Edu2Job - AI Job Role Predictor",
     page_icon="🎓",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -321,7 +321,7 @@ with st.sidebar:
     st.markdown("---")
     
     # Advanced Tools
-    st.subheader("🔍 Advanced Tools")
+    st.subheader("📈 Advanced Tools")
     st.page_link("pages/7_📈_Model_Insights.py", label="📈 Model Insights", use_container_width=True)
     st.page_link("pages/8_📊_Analytics.py", label="📊 Analytics", use_container_width=True)
     st.page_link("pages/9_🎓_Skill_Gap.py", label="🎓 Skill Gap", use_container_width=True)
@@ -363,7 +363,7 @@ with st.sidebar:
     # Footer Info
     st.markdown("""
         <div style='font-size: 0.8rem; opacity: 0.6; text-align: center;'>
-            <p>SmartLand v2.0</p>
+            <p>Edu2Job v2.0</p>
             <p>AI Job Role Predictor</p>
         </div>
         """, unsafe_allow_html=True)
@@ -375,7 +375,7 @@ with st.sidebar:
 # Hero Section
 st.markdown("""
     <div class='welcome-banner'>
-        <h1 style='margin: 0; font-size: 3rem;'>🎓 SmartLand</h1>
+        <h1 style='margin: 0; font-size: 3rem;'>🎓Edu2Job Platform : Predicting Job Role From Educational Background</h1>
         <h3 style='margin: 0.5rem 0 0 0; opacity: 0.95;'>AI-Powered Career Intelligence Platform</h3>
     </div>
     """, unsafe_allow_html=True)
@@ -505,12 +505,12 @@ else:
         st.page_link("pages/2_🔐_Login.py", label="🔐 Login", use_container_width=True)
     
     with col2:
-        st.page_link("pages/2_🔐_Login.py", label="📝 Sign Up", use_container_width=True)
+        st.page_link("pages/2_🔐_Login.py", label="🔐 Sign Up", use_container_width=True)
     
     st.markdown("---")
     
     # Features Overview
-    st.markdown("### ✨ Why SmartLand?")
+    st.markdown("### ✨ Why Edu2Job?")
     
     col1, col2 = st.columns(2)
     
@@ -520,6 +520,7 @@ else:
         - Advanced ML algorithms
         - Trained on industry data
         - 85%+ accuracy
+        - Top 3 recommendations
         
         #### 📊 Analytics
         - Prediction history
@@ -537,7 +538,7 @@ else:
         #### 💼 Career Insights
         - Skill analysis
         - Learning roadmap
-        - Recommendations
+        - Gap analysis
         """)
 
 # ============================================
@@ -546,8 +547,8 @@ else:
 
 st.markdown("""
     <div class='footer'>
-        <p><strong>🎓 SmartLand</strong> • AI Job Role Prediction System</p>
+        <p><strong>🎓Edu2Job Platform : Predicting Job Role From Educational Background</strong> – AI Job Role Prediction System</p>
         <p style='font-size: 0.9rem;'>✨ <em>Empowering careers with artificial intelligence</em></p>
-        <p style='font-size: 0.85rem; opacity: 0.6;'>© 2024 SmartLand • v2.0 Premium</p>
+        <p style='font-size: 0.85rem; opacity: 0.6;'>© 2024 Edu2Job – v2.0 Premium</p>
     </div>
     """, unsafe_allow_html=True)

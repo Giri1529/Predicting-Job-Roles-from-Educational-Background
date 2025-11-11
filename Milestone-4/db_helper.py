@@ -1,4 +1,4 @@
-# db_helper.py (UPDATED - New Admin Credentials)
+# db_helper.py (ENHANCED - Top 3 Predictions + Gap Analysis)
 # Enhanced Database Helper with Admin Features
 
 import sqlite3
@@ -33,7 +33,7 @@ def init_db():
         )
     """)
 
-    # PREDICTIONS TABLE
+    # PREDICTIONS TABLE - ENHANCED WITH TOP 3 + GAP ANALYSIS
     c.execute("""
         CREATE TABLE IF NOT EXISTS predictions (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -48,8 +48,17 @@ def init_db():
             project_count INTEGER,
             internship TEXT,
             experience_level TEXT,
-            predicted_label TEXT,
-            confidence FLOAT,
+            predicted_label_1 TEXT,
+            confidence_1 FLOAT,
+            predicted_label_2 TEXT,
+            confidence_2 FLOAT,
+            predicted_label_3 TEXT,
+            confidence_3 FLOAT,
+            educational_gap TEXT,
+            educational_gap_reason TEXT,
+            career_gap TEXT,
+            career_gap_years FLOAT,
+            career_gap_reason TEXT,
             FOREIGN KEY(user_id) REFERENCES users(id)
         )
     """)
@@ -121,9 +130,6 @@ def create_default_admin(conn):
             UPDATE users SET password_hash=? WHERE username='giridhar'
         """, (hash_password('Giridhar@25'),))
         conn.commit()
-        print("✅ Admin credentials updated:")
-        print("   Username: giridhar")
-        print("   Password: Giridhar@25")
 
 # -----------------------------
 # USER FUNCTIONS
@@ -212,16 +218,22 @@ def change_password(user_id, old_password, new_password):
     return False
 
 # -----------------------------
-# PREDICTION FUNCTIONS
+# PREDICTION FUNCTIONS - ENHANCED
 # -----------------------------
 def insert_prediction(user_id, row):
+    """Insert prediction with TOP 3 results + gap analysis"""
     conn = get_db()
     c = conn.cursor()
     c.execute("""
         INSERT INTO predictions (
             user_id, timestamp, degree, major, skill1, skill2, certification,
-            experience_years, project_count, internship, experience_level, predicted_label, confidence
-        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            experience_years, project_count, internship, experience_level,
+            predicted_label_1, confidence_1,
+            predicted_label_2, confidence_2,
+            predicted_label_3, confidence_3,
+            educational_gap, educational_gap_reason,
+            career_gap, career_gap_years, career_gap_reason
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
     """, (
         user_id, datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         row.get("Degree"),
@@ -233,16 +245,39 @@ def insert_prediction(user_id, row):
         row.get("ProjectCount"),
         row.get("Internship"),
         row.get("ExperienceLevel"),
-        row.get("predicted_label"),
-        row.get("confidence", 0)
+        row.get("predicted_label_1"),
+        row.get("confidence_1", 0),
+        row.get("predicted_label_2"),
+        row.get("confidence_2", 0),
+        row.get("predicted_label_3"),
+        row.get("confidence_3", 0),
+        row.get("EducationalGap", "No"),
+        row.get("EducationalGapReason", "None"),
+        row.get("CareerGap", "No"),
+        row.get("CareerGapYears", 0),
+        row.get("CareerGapReason", "None")
     ))
     conn.commit()
     conn.close()
 
 def fetch_history(user_id, limit=100):
+    """Fetch prediction history with TOP 3 results"""
     conn = get_db()
     c = conn.cursor()
-    c.execute("SELECT * FROM predictions WHERE user_id=? ORDER BY id DESC LIMIT ?", (user_id, limit))
+    c.execute("""
+        SELECT id, user_id, timestamp, degree, major, skill1, skill2,
+               certification, experience_years, project_count, internship,
+               experience_level, 
+               predicted_label_1, confidence_1,
+               predicted_label_2, confidence_2,
+               predicted_label_3, confidence_3,
+               educational_gap, educational_gap_reason,
+               career_gap, career_gap_years, career_gap_reason
+        FROM predictions 
+        WHERE user_id=? 
+        ORDER BY id DESC 
+        LIMIT ?
+    """, (user_id, limit))
     rows = c.fetchall()
     conn.close()
     return rows
@@ -255,6 +290,36 @@ def get_user_prediction_count(user_id):
     count = c.fetchone()[0]
     conn.close()
     return count
+
+def get_role_progression(user_id):
+    """Get role progression over time for career trajectory"""
+    conn = get_db()
+    c = conn.cursor()
+    c.execute("""
+        SELECT timestamp, predicted_label_1, experience_years, experience_level
+        FROM predictions
+        WHERE user_id=?
+        ORDER BY timestamp ASC
+    """, (user_id,))
+    rows = c.fetchall()
+    conn.close()
+    return rows
+
+def get_role_trends(user_id):
+    """Get trending roles based on recent predictions"""
+    conn = get_db()
+    c = conn.cursor()
+    c.execute("""
+        SELECT predicted_label_1, COUNT(*) as count
+        FROM predictions
+        WHERE user_id=?
+        GROUP BY predicted_label_1
+        ORDER BY count DESC
+        LIMIT 3
+    """, (user_id,))
+    rows = c.fetchall()
+    conn.close()
+    return rows
 
 # -----------------------------
 # FEEDBACK FUNCTIONS
@@ -337,7 +402,7 @@ def get_all_predictions(limit=1000):
     c = conn.cursor()
     c.execute("""
         SELECT p.id, u.username, p.timestamp, p.degree, p.major, 
-               p.skill1, p.skill2, p.predicted_label
+               p.skill1, p.skill2, p.predicted_label_1
         FROM predictions p
         JOIN users u ON p.user_id = u.id
         ORDER BY p.id DESC LIMIT ?
@@ -425,9 +490,9 @@ def get_dashboard_stats():
     
     # Most predicted role
     c.execute("""
-        SELECT predicted_label, COUNT(*) as count
+        SELECT predicted_label_1, COUNT(*) as count
         FROM predictions
-        GROUP BY predicted_label
+        GROUP BY predicted_label_1
         ORDER BY count DESC
         LIMIT 1
     """)

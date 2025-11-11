@@ -1,4 +1,4 @@
-# pages/7_📈_Model_Insights.py
+# pages/7_📈_Model_Insights.py (UPDATED - Edu2Job Branding)
 # Model Explainability and Feature Importance
 
 import streamlit as st
@@ -8,12 +8,11 @@ import plotly.graph_objects as go
 import plotly.express as px
 from global_css import GLOBAL_CSS
 
-st.set_page_config(page_title="Model Insights - SmartLand", page_icon="📈", layout="wide")
+st.set_page_config(page_title="Model Insights - Edu2Job", page_icon="📈", layout="wide")
 st.markdown(GLOBAL_CSS, unsafe_allow_html=True)
 
 st.title("📈 Model Insights & Explainability")
 
-# Load model package
 @st.cache_resource
 def load_model():
     try:
@@ -27,16 +26,19 @@ if model_package is None:
     st.error("❌ Unable to load model insights")
     st.stop()
 
-# Extract model info
-model = model_package['model']
-accuracy = model_package['accuracy']
-model_type = model_package['model_type']
-feature_importance = model_package['feature_importance']
+if isinstance(model_package, dict):
+    model = model_package['model']
+    accuracy = model_package.get('accuracy', 0)
+    model_type = model_package.get('model_type', 'Unknown')
+    feature_importance = model_package.get('feature_importance', {})
+else:
+    model = model_package
+    accuracy = 0
+    model_type = 'Loaded Model'
+    feature_importance = {}
 
-# Tabs for different insights
-tab1, tab2, tab3, tab4 = st.tabs(["📊 Model Performance", "🔑 Feature Importance", "📈 Distribution", "ℹ️ About Model"])
+tab1, tab2, tab3, tab4 = st.tabs(["📊 Model Performance", "🔍 Feature Importance", "📈 Distribution", "ℹ️ About Model"])
 
-# Tab 1: Model Performance
 with tab1:
     st.markdown("### 🎯 Model Performance Metrics")
     
@@ -49,10 +51,10 @@ with tab1:
         st.metric("Model Type", model_type)
     
     with col3:
-        st.metric("Features Used", len(model_package['feature_columns']))
+        st.metric("Status", "✅ Ready")
     
     with col4:
-        st.metric("Training Status", "✅ Ready")
+        st.metric("Version", "v2.0")
     
     st.markdown("---")
     
@@ -67,58 +69,40 @@ with tab1:
     A higher accuracy indicates the model is more reliable for job role predictions.
     """)
 
-# Tab 2: Feature Importance
 with tab2:
-    st.markdown("### 🔑 Feature Importance Analysis")
+    st.markdown("### 🔍 Feature Importance Analysis")
     st.markdown("*Which factors matter most in predicting your job role?*")
     
-    # Create visualization
-    fig = go.Figure()
-    
-    fig.add_trace(go.Bar(
-        x=feature_importance['Importance'],
-        y=feature_importance['Feature'],
-        orientation='h',
-        marker=dict(
-            color=feature_importance['Importance'],
-            colorscale='Viridis',
-            showscale=True
-        ),
-        hovertemplate='<b>%{y}</b><br>Importance: %{x:.4f}<extra></extra>'
-    ))
-    
-    fig.update_layout(
-        title="Feature Importance in Job Role Prediction",
-        xaxis_title="Importance Score",
-        yaxis_title="Features",
-        height=500,
-        template="plotly_white",
-        showlegend=False,
-        yaxis={'categoryorder': 'total ascending'}
-    )
-    
-    st.plotly_chart(fig, use_container_width=True)
-    
-    st.markdown("---")
-    
-    st.markdown("### 📊 Top Features")
-    col1, col2 = st.columns(2)
-    
-    with col1:
-        st.markdown("**Most Important Features:**")
-        for idx, row in feature_importance.head(5).iterrows():
-            st.markdown(f"- **{row['Feature']}** ({row['Importance']:.4f})")
-    
-    with col2:
-        st.markdown("**Insights:**")
-        st.info("""
-        - Experience years and level are critical factors
-        - Skills directly impact job role prediction
-        - Certifications add value to predictions
-        - Education degree matters for role suitability
-        """)
+    if feature_importance and len(feature_importance) > 0:
+        importance_df = pd.DataFrame(feature_importance)
+        
+        fig = px.bar(importance_df, x='Importance', y='Feature', orientation='h',
+                    title="Feature Importance in Job Role Prediction",
+                    labels={'Importance': 'Importance Score', 'Feature': 'Features'},
+                    color='Importance', color_continuous_scale='Viridis')
+        fig.update_layout(height=500, template="plotly_white")
+        st.plotly_chart(fig, use_container_width=True)
+        
+        st.markdown("---")
+        st.markdown("### 📊 Top Features")
+        col1, col2 = st.columns(2)
+        
+        with col1:
+            st.markdown("**Most Important Features:**")
+            for idx, row in importance_df.head(5).iterrows():
+                st.markdown(f"- **{row['Feature']}** ({row['Importance']:.4f})")
+        
+        with col2:
+            st.markdown("**Key Insights:**")
+            st.info("""
+            - Experience years and level are critical factors
+            - Skills directly impact job role prediction
+            - Certifications add value to predictions
+            - Education degree matters for role suitability
+            """)
+    else:
+        st.info("Feature importance data not available for this model.")
 
-# Tab 3: Feature Distribution
 with tab3:
     st.markdown("### 📈 Feature Distribution Analysis")
     
@@ -158,7 +142,6 @@ with tab3:
     4. **Experience Level + Major** → Predicts job role
     """)
 
-# Tab 4: About Model
 with tab4:
     st.markdown("### ℹ️ About This Model")
     
@@ -188,24 +171,22 @@ with tab4:
     
     st.markdown("---")
     
-    st.markdown("### 🔄 Model Training Details")
+    st.markdown("### 📄 Model Training Details")
     
     training_info = pd.DataFrame({
         'Aspect': [
             'Algorithm',
-            'Features Used',
-            'Training Samples',
+            'Training Status',
             'Test Accuracy',
             'Validation Method',
-            'Hyperparameter Tuning'
+            'Last Updated'
         ],
         'Details': [
             model_type,
-            ', '.join(model_package['feature_columns']),
-            'Multiple Thousands',
+            '✅ Active',
             f'{accuracy:.2%}',
             'Train-Test Split (80-20)',
-            'Optimized Parameters'
+            'Latest'
         ]
     })
     

@@ -1,16 +1,13 @@
-# pages/1_🏠_Home.py
+# pages/1_🏠_Home.py (UPDATED - With Logout Button)
 # Home Page with Features and Information
 
 import streamlit as st
-from auth_helper import get_current_user
+from auth_helper import get_current_user, logout
 from db_helper import get_dashboard_stats
 from global_css import GLOBAL_CSS
 
-st.set_page_config(page_title="Home - SmartLand", page_icon="🏠", layout="wide")
-
+st.set_page_config(page_title="Home - Edu2Job", page_icon="🏠", layout="wide")
 st.markdown(GLOBAL_CSS, unsafe_allow_html=True)
-
-
 
 # Custom CSS
 st.markdown("""
@@ -32,9 +29,15 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-st.title("🏠 Home - SmartLand Platform")
-
+# LOGOUT BUTTON
 user = get_current_user()
+if user:
+    col1, col2 = st.columns([6, 1])
+    with col2:
+        if st.button("🚪 Logout", type="secondary", use_container_width=True):
+            logout()
+
+st.title("🏠 Home - Edu2Job Platform")
 
 if user:
     st.markdown(f"## Welcome back, **{user['username']}**! 👋")
@@ -83,10 +86,10 @@ else:
     st.warning("Please login to view personalized content")
 
 # About Section
-st.markdown("### 📖 About SmartLand")
+st.markdown("### 📖 About Edu2Job")
 st.markdown("""
 <div class='info-box'>
-<p>SmartLand is an AI-powered job role prediction system that helps students and professionals 
+<p>Edu2Job is an AI-powered job role prediction system that helps students and professionals 
 find the most suitable career paths based on their education, skills, and experience.</p>
 
 <p>Our advanced machine learning algorithms analyze your profile and provide accurate 
@@ -107,7 +110,7 @@ with col1:
             <li>Advanced ML algorithms</li>
             <li>Trained on real industry data</li>
             <li>High accuracy rate</li>
-            <li>Multiple job role options</li>
+            <li>Top 3 job role options</li>
         </ul>
     </div>
     """, unsafe_allow_html=True)
@@ -157,7 +160,8 @@ st.markdown("""
 <ol>
     <li><strong>Create Account:</strong> Sign up with your email and create a profile</li>
     <li><strong>Enter Details:</strong> Provide your educational background, skills, and experience</li>
-    <li><strong>Get Prediction:</strong> Our AI analyzes your profile and predicts suitable job roles</li>
+    <li><strong>Analyze Gaps:</strong> Share any educational or career gaps for better insights</li>
+    <li><strong>Get Predictions:</strong> Our AI analyzes your profile and predicts top 3 suitable job roles</li>
     <li><strong>View Results:</strong> See your predictions with confidence scores and recommendations</li>
     <li><strong>Track History:</strong> Access all your past predictions and track your progress</li>
 </ol>
@@ -228,4 +232,4 @@ if user:
             st.switch_page("pages/5_👤_Profile.py")
 
 st.markdown("---")
-st.caption("© 2024 SmartLand - Empowering Career Decisions with AI")
+st.caption("© 2024 Edu2Job - Empowering Career Decisions with AI")

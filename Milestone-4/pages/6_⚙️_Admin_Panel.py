@@ -1,3 +1,7 @@
+# ============================================================================
+# pages/6_⚙️_Admin_Panel.py (UPDATED - Edu2Job Branding)
+# ============================================================================
+
 import streamlit as st
 import pandas as pd
 import joblib
@@ -13,7 +17,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import accuracy_score
 
-st.set_page_config(page_title="Admin Panel - SmartLand", page_icon="⚙️", layout="wide")
+st.set_page_config(page_title="Admin Panel - Edu2Job", page_icon="⚙️", layout="wide")
 st.markdown(GLOBAL_CSS, unsafe_allow_html=True)
 
 @require_admin
@@ -23,7 +27,6 @@ def main():
     st.title("⚙️ Admin Control Panel")
     st.markdown(f"**Admin:** {user['username']}")
     
-    # Dashboard stats
     stats = get_dashboard_stats()
     col1, col2, col3, col4 = st.columns(4)
     col1.metric("Total Users", stats['total_users'])
@@ -33,7 +36,6 @@ def main():
     
     st.markdown("---")
     
-    # Tabs
     tab1, tab2, tab3, tab4 = st.tabs([
         "👥 User Management", 
         "📊 Prediction Logs", 
@@ -41,7 +43,6 @@ def main():
         "🤖 Model Retraining"
     ])
     
-    # TAB 1: User Management
     with tab1:
         st.subheader("👥 User Management")
         
@@ -70,7 +71,6 @@ def main():
                         st.success("✅ Role updated!")
                         st.rerun()
     
-    # TAB 2: Prediction Logs
     with tab2:
         st.subheader("📊 All Prediction Logs")
         
@@ -87,7 +87,6 @@ def main():
         else:
             st.info("No predictions yet")
     
-    # TAB 3: Dataset Upload
     with tab3:
         st.subheader("📁 Dataset Upload & Management")
         
@@ -111,28 +110,23 @@ def main():
             ])
             st.dataframe(df_uploads)
     
-    # TAB 4: Model Retraining
     with tab4:
         st.subheader("🤖 Model Retraining")
         
         if st.button("🔄 Retrain Model", type="primary"):
             with st.spinner("Training model..."):
                 try:
-                    # Load dataset
                     df = pd.read_csv("final_high_accuracy_job_dataset.csv")
                     
-                    # Prepare data (simplified)
                     X = df.drop(['job_role'], axis=1, errors='ignore')
                     y = df['job_role'] if 'job_role' in df.columns else df.iloc[:, -1]
                     
-                    # Encode categorical
                     le = LabelEncoder()
                     for col in X.select_dtypes(include=['object']).columns:
                         X[col] = le.fit_transform(X[col].astype(str))
                     
                     y_encoded = le.fit_transform(y)
                     
-                    # Split and train
                     X_train, X_test, y_train, y_test = train_test_split(
                         X, y_encoded, test_size=0.2, random_state=42
                     )
@@ -140,13 +134,10 @@ def main():
                     model = RandomForestClassifier(n_estimators=100, random_state=42)
                     model.fit(X_train, y_train)
                     
-                    # Evaluate
                     accuracy = accuracy_score(y_test, model.predict(X_test))
                     
-                    # Save model
                     joblib.dump((model, le), "best_model.pkl")
                     
-                    # Log action
                     log_model_action(user['user_id'], "retrain", "RandomForest", 
                                    accuracy, f"Retrained on {len(df)} samples")
                     

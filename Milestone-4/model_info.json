@@ -1,0 +1,82 @@
+{
+  "accuracy": 0.94,
+  "accuracy_percentage": "94.00%",
+  "model_type": "Gradient Boosting",
+  "target_variable": "JobRole",
+  "features_used": [
+    "Degree_encoded",
+    "Major_encoded",
+    "Skill1_encoded",
+    "Skill2_encoded",
+    "Certification_encoded",
+    "ExperienceYears",
+    "ProjectCount",
+    "Internship_encoded",
+    "ExperienceLevel_encoded",
+    "DegreeLevel",
+    "ProjectDensity",
+    "ExperienceCategoryFeature_encoded"
+  ],
+  "num_features": 12,
+  "job_roles": [
+    "AI Engineer",
+    "Business Analyst",
+    "Cloud Engineer",
+    "Data Analyst",
+    "Data Scientist",
+    "ML Engineer",
+    "Security Analyst",
+    "Software Developer"
+  ],
+  "num_classes": 8,
+  "feature_importance": [
+    {
+      "Feature": "Skill2_encoded",
+      "Importance": 0.3735552112673011
+    },
+    {
+      "Feature": "Skill1_encoded",
+      "Importance": 0.3502594951746878
+    },
+    {
+      "Feature": "Major_encoded",
+      "Importance": 0.12592028751075748
+    },
+    {
+      "Feature": "Certification_encoded",
+      "Importance": 0.04219249311611756
+    },
+    {
+      "Feature": "ProjectDensity",
+      "Importance": 0.03446533448657611
+    },
+    {
+      "Feature": "ExperienceYears",
+      "Importance": 0.021604576300251196
+    },
+    {
+      "Feature": "Degree_encoded",
+      "Importance": 0.016671482086985816
+    },
+    {
+      "Feature": "ProjectCount",
+      "Importance": 0.01394160174833094
+    },
+    {
+      "Feature": "ExperienceLevel_encoded",
+      "Importance": 0.010857360936892225
+    },
+    {
+      "Feature": "Internship_encoded",
+      "Importance": 0.006709794243399891
+    },
+    {
+      "Feature": "ExperienceCategoryFeature_encoded",
+      "Importance": 0.0021985047037326017
+    },
+    {
+      "Feature": "DegreeLevel",
+      "Importance": 0.0016238584249671946
+    }
+  ]
+}

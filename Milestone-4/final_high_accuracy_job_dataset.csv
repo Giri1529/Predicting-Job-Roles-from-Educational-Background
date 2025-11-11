@@ -1,0 +1,2001 @@
+Degree,Major,Skill1,Skill2,Certification,ExperienceYears,ProjectCount,Internship,ExperienceLevel,JobRole
+MBA,Computer Science,SQL,Python,AI Specialist,13,3,No,Expert,Data Analyst
+M.Tech,Electronics,Java,Java,Cybersecurity,7,5,Yes,Senior,Security Analyst
+B.Tech,Electronics,Machine Learning,SQL,Data Analytics,8,4,Yes,Senior,ML Engineer
+MCA,Data Science,Java,C++,AI Specialist,9,1,Yes,Senior,Data Analyst
+M.Tech,Electronics,Data Analysis,C++,AI Specialist,10,9,Yes,Senior,Data Analyst
+MBA,Computer Science,Deep Learning,Machine Learning,AI Specialist,12,1,No,Expert,ML Engineer
+BCA,Computer Science,Python,Python,Data Analytics,11,8,No,Expert,Software Developer
+B.Tech,Electronics,Deep Learning,SQL,Data Analytics,2,9,Yes,Junior,ML Engineer
+BCA,Electronics,Machine Learning,Deep Learning,Data Analytics,9,1,No,Senior,ML Engineer
+MCA,AI,SQL,Machine Learning,GCP,14,7,Yes,Expert,ML Engineer
+M.Tech,IT,Java,Data Analysis,AI Specialist,6,7,Yes,Senior,Software Developer
+M.Tech,Data Science,Python,Deep Learning,GCP,6,0,Yes,Senior,Data Scientist
+MBA,Computer Science,Data Analysis,Machine Learning,Azure,0,0,Yes,Fresher,ML Engineer
+M.Tech,Data Science,Deep Learning,Python,Data Analytics,7,3,No,Senior,Data Scientist
+B.Tech,AI,Data Analysis,SQL,None,14,1,Yes,Expert,Data Analyst
+MCA,Computer Science,Machine Learning,Python,Cybersecurity,3,0,Yes,Mid,ML Engineer
+BCA,AI,Deep Learning,C++,AWS,4,8,Yes,Mid,ML Engineer
+MCA,AI,Java,Deep Learning,Azure,13,2,Yes,Expert,ML Engineer
+M.Tech,Business,Java,Java,None,5,0,Yes,Mid,Business Analyst
+BCA,Electronics,Data Analysis,Cloud,AWS,2,1,Yes,Junior,Data Analyst
+MBA,Business,SQL,Data Analysis,AWS,4,7,No,Mid,Data Analyst
+MCA,Data Science,Python,C++,Data Analytics,9,4,No,Senior,Data Scientist
+BCA,Data Science,C++,C++,Cybersecurity,4,6,Yes,Mid,Security Analyst
+BCA,Electronics,Deep Learning,Deep Learning,AWS,0,5,No,Fresher,ML Engineer
+BCA,Business,Java,Data Analysis,AI Specialist,2,0,Yes,Junior,Data Analyst
+B.Tech,Data Science,Machine Learning,Machine Learning,None,2,5,Yes,Junior,ML Engineer
+MCA,Business,Deep Learning,C++,AWS,0,6,Yes,Fresher,ML Engineer
+BCA,Electronics,SQL,Cloud,Azure,12,3,Yes,Expert,Data Analyst
+MCA,Computer Science,SQL,SQL,Cybersecurity,6,7,No,Senior,Data Analyst
+BCA,AI,Java,C++,Cybersecurity,0,7,Yes,Fresher,Security Analyst
+MBA,AI,Java,SQL,AWS,6,6,No,Senior,Data Analyst
+MBA,Business,Data Analysis,Python,Cybersecurity,3,1,Yes,Mid,Data Analyst
+MBA,Data Science,Java,Data Analysis,Azure,8,5,Yes,Senior,Data Analyst
+M.Tech,Business,Data Analysis,Machine Learning,None,6,5,No,Senior,ML Engineer
+BCA,Business,Cloud,SQL,Azure,4,6,Yes,Mid,Data Analyst
+M.Tech,IT,C++,C++,Azure,6,5,Yes,Senior,Software Developer
+MCA,AI,Java,Machine Learning,AI Specialist,8,1,Yes,Senior,ML Engineer
+M.Tech,Electronics,Deep Learning,Cloud,Data Analytics,9,7,Yes,Senior,ML Engineer
+MCA,Business,Deep Learning,Machine Learning,AWS,5,3,No,Mid,ML Engineer
+MCA,IT,Data Analysis,SQL,None,0,8,Yes,Fresher,Data Analyst
+MCA,IT,Cloud,Data Analysis,Cybersecurity,5,7,Yes,Mid,Data Analyst
+M.Tech,AI,Cloud,SQL,Azure,0,2,No,Fresher,Data Analyst
+BCA,AI,Python,Java,AWS,12,2,Yes,Expert,Data Scientist
+M.Tech,AI,Machine Learning,Java,None,11,7,Yes,Expert,ML Engineer
+BCA,Electronics,Java,Machine Learning,None,3,1,Yes,Mid,ML Engineer
+BCA,IT,Data Analysis,Deep Learning,AWS,13,8,Yes,Expert,ML Engineer
+MCA,Data Science,Deep Learning,Data Analysis,Data Analytics,7,3,Yes,Senior,ML Engineer
+M.Tech,Electronics,Cloud,Deep Learning,AI Specialist,4,5,Yes,Mid,ML Engineer
+BCA,Computer Science,Deep Learning,Java,Cybersecurity,14,2,No,Expert,ML Engineer
+MBA,Business,Deep Learning,C++,AI Specialist,4,2,Yes,Mid,ML Engineer
+BCA,AI,Cloud,Python,None,12,2,Yes,Expert,Data Scientist
+MBA,IT,C++,Machine Learning,Cybersecurity,9,9,Yes,Senior,ML Engineer
+M.Tech,Business,Cloud,Python,None,10,1,Yes,Senior,Business Analyst
+M.Tech,Electronics,Cloud,Java,Azure,7,7,No,Senior,Cloud Engineer
+M.Tech,Computer Science,Machine Learning,SQL,Azure,7,8,Yes,Senior,ML Engineer
+BCA,Electronics,Data Analysis,Cloud,AWS,0,7,Yes,Fresher,Data Analyst
+B.Tech,Electronics,Data Analysis,Machine Learning,Cybersecurity,12,9,Yes,Expert,ML Engineer
+BCA,Data Science,Cloud,Java,Cybersecurity,12,2,Yes,Expert,Security Analyst
+BCA,Business,SQL,Data Analysis,None,4,6,Yes,Mid,Data Analyst
+MCA,Data Science,Data Analysis,C++,AI Specialist,11,9,Yes,Expert,Data Analyst
+MCA,Electronics,Data Analysis,Cloud,Azure,4,1,Yes,Mid,Data Analyst
+BCA,Computer Science,Data Analysis,Machine Learning,GCP,7,3,Yes,Senior,ML Engineer
+MBA,IT,Cloud,Machine Learning,AWS,0,5,Yes,Fresher,ML Engineer
+MCA,IT,Deep Learning,Data Analysis,Cybersecurity,6,4,Yes,Senior,ML Engineer
+BCA,Business,Java,Deep Learning,Data Analytics,6,8,Yes,Senior,ML Engineer
+B.Tech,AI,Deep Learning,SQL,Data Analytics,12,9,No,Expert,ML Engineer
+MBA,AI,Machine Learning,Machine Learning,GCP,8,3,Yes,Senior,ML Engineer
+M.Tech,IT,SQL,SQL,Azure,1,4,No,Junior,Data Analyst
+BCA,Electronics,Cloud,Java,Azure,14,3,Yes,Expert,Cloud Engineer
+BCA,Electronics,C++,C++,Azure,2,7,No,Junior,Security Analyst
+MBA,Data Science,Python,Cloud,AI Specialist,3,7,Yes,Mid,Data Scientist
+MCA,Business,Cloud,Cloud,None,0,2,Yes,Fresher,Business Analyst
+MCA,Data Science,Java,C++,Data Analytics,14,0,Yes,Expert,Data Analyst
+MCA,AI,Python,Machine Learning,Azure,6,5,Yes,Senior,Data Scientist
+M.Tech,IT,C++,Machine Learning,Data Analytics,13,1,Yes,Expert,ML Engineer
+MBA,Electronics,Machine Learning,Java,GCP,9,1,Yes,Senior,ML Engineer
+MBA,IT,Machine Learning,Deep Learning,AWS,2,2,Yes,Junior,ML Engineer
+MCA,Computer Science,C++,Deep Learning,None,2,7,Yes,Junior,ML Engineer
+MCA,IT,Deep Learning,Deep Learning,AI Specialist,2,2,Yes,Junior,ML Engineer
+B.Tech,Computer Science,C++,SQL,Cybersecurity,7,6,Yes,Senior,Data Analyst
+B.Tech,Data Science,Data Analysis,Deep Learning,GCP,8,9,Yes,Senior,ML Engineer
+BCA,Data Science,Data Analysis,C++,None,9,9,Yes,Senior,Data Analyst
+BCA,AI,Cloud,Cloud,Data Analytics,12,8,Yes,Expert,Software Developer
+MBA,IT,Java,Cloud,GCP,13,7,Yes,Expert,Software Developer
+MBA,IT,Data Analysis,SQL,Cybersecurity,1,0,Yes,Junior,Data Analyst
+M.Tech,Computer Science,SQL,Java,None,9,6,Yes,Senior,Software Developer
+M.Tech,Data Science,Cloud,C++,AI Specialist,14,6,No,Expert,Data Analyst
+B.Tech,Computer Science,Cloud,Cloud,AWS,9,7,Yes,Senior,Cloud Engineer
+BCA,Data Science,Cloud,C++,Cybersecurity,0,9,No,Fresher,Security Analyst
+B.Tech,Computer Science,Python,Cloud,None,13,4,Yes,Expert,Data Analyst
+B.Tech,Data Science,Python,Python,AI Specialist,8,9,No,Senior,Data Scientist
+BCA,Computer Science,Machine Learning,Java,Data Analytics,5,8,No,Mid,ML Engineer
+M.Tech,Data Science,Cloud,Java,Cybersecurity,13,8,Yes,Expert,Security Analyst
+BCA,Business,Deep Learning,Data Analysis,GCP,14,7,Yes,Expert,ML Engineer
+MCA,Computer Science,Data Analysis,Python,Azure,8,5,Yes,Senior,Data Analyst
+MCA,IT,Machine Learning,SQL,GCP,5,5,Yes,Mid,ML Engineer
+MCA,AI,Java,Cloud,Data Analytics,1,0,No,Junior,Software Developer
+MBA,Business,C++,Data Analysis,None,0,5,No,Fresher,Data Analyst
+M.Tech,Business,Python,Cloud,AWS,13,3,No,Expert,Cloud Engineer
+M.Tech,Computer Science,Cloud,Cloud,Cybersecurity,7,3,No,Senior,Security Analyst
+MBA,AI,Java,Deep Learning,None,2,1,No,Junior,ML Engineer
+B.Tech,IT,Machine Learning,Deep Learning,AWS,0,3,Yes,Fresher,ML Engineer
+MCA,Business,Machine Learning,Deep Learning,Data Analytics,14,4,Yes,Expert,ML Engineer
+MCA,IT,Python,Deep Learning,Cybersecurity,7,4,Yes,Senior,ML Engineer
+B.Tech,Data Science,Machine Learning,Deep Learning,AI Specialist,11,4,Yes,Expert,ML Engineer
+BCA,AI,Deep Learning,Python,AI Specialist,0,3,Yes,Fresher,Data Scientist
+BCA,Electronics,Machine Learning,Java,None,7,0,Yes,Senior,ML Engineer
+M.Tech,Data Science,SQL,SQL,GCP,0,9,Yes,Fresher,Data Analyst
+MBA,AI,Data Analysis,C++,None,8,7,Yes,Senior,Data Analyst
+M.Tech,Computer Science,C++,Deep Learning,GCP,13,2,No,Expert,ML Engineer
+BCA,Computer Science,Machine Learning,Python,Data Analytics,8,1,Yes,Senior,ML Engineer
+B.Tech,IT,Data Analysis,Data Analysis,AI Specialist,11,8,Yes,Expert,Data Analyst
+M.Tech,Business,Data Analysis,Data Analysis,Cybersecurity,12,6,No,Expert,Data Analyst
+MCA,Electronics,SQL,Cloud,AI Specialist,8,8,Yes,Senior,Data Analyst
+MCA,Computer Science,Java,SQL,GCP,2,1,Yes,Junior,Software Developer
+B.Tech,AI,Machine Learning,Data Analysis,None,3,8,Yes,Mid,ML Engineer
+BCA,Business,Deep Learning,SQL,Data Analytics,4,9,Yes,Mid,ML Engineer
+MCA,Business,Java,SQL,AI Specialist,5,8,No,Mid,Data Analyst
+MCA,AI,Data Analysis,Python,Data Analytics,8,8,Yes,Senior,Data Scientist
+MBA,Business,Data Analysis,C++,AI Specialist,12,9,Yes,Expert,Data Analyst
+M.Tech,Computer Science,Cloud,Deep Learning,None,10,9,Yes,Senior,ML Engineer
+BCA,AI,Machine Learning,SQL,AWS,11,3,No,Expert,ML Engineer
+M.Tech,AI,Python,Python,None,3,9,Yes,Mid,Data Scientist
+BCA,IT,SQL,Cloud,AI Specialist,13,2,No,Expert,Data Analyst
+MCA,Electronics,SQL,Java,GCP,13,5,Yes,Expert,Data Analyst
+MBA,IT,Python,Cloud,None,5,2,No,Mid,Data Analyst
+M.Tech,Electronics,C++,Python,Cybersecurity,12,8,No,Expert,Security Analyst
+MCA,AI,Data Analysis,Python,GCP,0,2,No,Fresher,Data Scientist
+BCA,Business,Cloud,Python,GCP,1,1,Yes,Junior,Cloud Engineer
+M.Tech,Electronics,Deep Learning,SQL,GCP,7,7,No,Senior,ML Engineer
+M.Tech,AI,SQL,Python,Data Analytics,3,5,Yes,Mid,Data Scientist
+MCA,AI,Java,Java,Azure,9,7,No,Senior,Data Analyst
+M.Tech,IT,Data Analysis,SQL,Azure,6,6,Yes,Senior,Data Analyst
+MBA,IT,Deep Learning,Cloud,AWS,3,2,Yes,Mid,ML Engineer
+MBA,Business,SQL,Java,GCP,13,7,Yes,Expert,Data Analyst
+MCA,Data Science,Cloud,Data Analysis,Azure,8,9,Yes,Senior,Data Analyst
+BCA,Computer Science,C++,Machine Learning,AWS,8,0,Yes,Senior,ML Engineer
+MCA,Data Science,Cloud,Cloud,Data Analytics,3,0,Yes,Mid,Data Analyst
+MBA,Data Science,Java,Python,GCP,12,9,Yes,Expert,Data Scientist
+B.Tech,Business,Cloud,Deep Learning,Cybersecurity,14,7,No,Expert,ML Engineer
+B.Tech,Electronics,Deep Learning,Deep Learning,Data Analytics,7,8,Yes,Senior,ML Engineer
+M.Tech,Business,Data Analysis,SQL,AWS,5,9,Yes,Mid,Data Analyst
+M.Tech,Business,Java,Deep Learning,Data Analytics,0,5,No,Fresher,ML Engineer
+B.Tech,AI,Data Analysis,Cloud,Cybersecurity,14,4,Yes,Expert,Data Analyst
+MBA,AI,Python,SQL,Data Analytics,6,1,Yes,Senior,Data Scientist
+M.Tech,AI,Machine Learning,Cloud,AWS,0,8,Yes,Fresher,ML Engineer
+MCA,Computer Science,Python,Python,Cybersecurity,2,5,Yes,Junior,Security Analyst
+MCA,Electronics,Deep Learning,C++,Cybersecurity,7,7,Yes,Senior,ML Engineer
+MBA,Electronics,Machine Learning,C++,Data Analytics,14,8,Yes,Expert,ML Engineer
+M.Tech,AI,Python,Java,Cybersecurity,8,8,No,Senior,Data Scientist
+MCA,Data Science,Machine Learning,Python,None,2,7,Yes,Junior,Data Scientist
+M.Tech,Computer Science,SQL,Deep Learning,Data Analytics,0,9,Yes,Fresher,ML Engineer
+M.Tech,Data Science,Cloud,Python,GCP,0,7,No,Fresher,Data Scientist
+MCA,IT,Java,Machine Learning,Cybersecurity,6,2,Yes,Senior,ML Engineer
+B.Tech,Electronics,Machine Learning,C++,Data Analytics,4,2,Yes,Mid,ML Engineer
+MCA,Electronics,SQL,Deep Learning,GCP,12,1,No,Expert,ML Engineer
+MBA,Data Science,Cloud,Cloud,Cybersecurity,13,0,Yes,Expert,Security Analyst
+BCA,Computer Science,Cloud,Cloud,GCP,0,3,No,Fresher,Cloud Engineer
+MCA,Electronics,C++,C++,AI Specialist,5,1,Yes,Mid,Security Analyst
+M.Tech,Data Science,Data Analysis,Python,Cybersecurity,13,1,No,Expert,Data Scientist
+M.Tech,Business,Python,Deep Learning,AI Specialist,5,4,Yes,Mid,ML Engineer
+MCA,Business,C++,Java,AWS,13,3,Yes,Expert,Business Analyst
+BCA,Computer Science,Data Analysis,Cloud,AWS,3,0,Yes,Mid,Data Analyst
+MCA,Data Science,Data Analysis,Python,Data Analytics,6,8,No,Senior,Data Scientist
+BCA,Business,Deep Learning,Java,Azure,6,3,No,Senior,ML Engineer
+BCA,Computer Science,SQL,Data Analysis,AI Specialist,11,4,Yes,Expert,Data Analyst
+MBA,AI,C++,Deep Learning,AI Specialist,8,6,No,Senior,ML Engineer
+M.Tech,Computer Science,C++,C++,AWS,11,1,Yes,Expert,Software Developer
+M.Tech,IT,Data Analysis,Data Analysis,AI Specialist,0,7,Yes,Fresher,Data Analyst
+BCA,AI,Cloud,Machine Learning,Azure,4,1,Yes,Mid,ML Engineer
+M.Tech,Data Science,SQL,Data Analysis,GCP,14,9,No,Expert,Data Analyst
+B.Tech,AI,Cloud,SQL,GCP,9,4,No,Senior,Data Analyst
+BCA,AI,Java,C++,Azure,2,1,Yes,Junior,Data Analyst
+M.Tech,Data Science,Machine Learning,Java,AI Specialist,6,1,No,Senior,ML Engineer
+B.Tech,Data Science,Deep Learning,Python,AI Specialist,3,3,Yes,Mid,Data Scientist
+MBA,Business,Deep Learning,Data Analysis,AI Specialist,3,3,Yes,Mid,ML Engineer
+M.Tech,IT,Python,Cloud,None,12,7,Yes,Expert,Data Analyst
+B.Tech,Data Science,Cloud,Deep Learning,Data Analytics,11,5,No,Expert,ML Engineer
+MCA,Electronics,Machine Learning,Data Analysis,Cybersecurity,0,9,Yes,Fresher,ML Engineer
+MCA,Electronics,Data Analysis,C++,Azure,0,7,Yes,Fresher,Data Analyst
+B.Tech,IT,Python,Cloud,Azure,9,6,Yes,Senior,Cloud Engineer
+BCA,Computer Science,Deep Learning,Cloud,None,1,9,Yes,Junior,ML Engineer
+BCA,Computer Science,Machine Learning,Machine Learning,Azure,14,3,Yes,Expert,ML Engineer
+M.Tech,Electronics,C++,Deep Learning,Azure,1,1,Yes,Junior,ML Engineer
+MCA,Data Science,Java,Data Analysis,None,0,8,No,Fresher,Data Analyst
+BCA,IT,Data Analysis,Java,Azure,7,1,Yes,Senior,Software Developer
+BCA,Computer Science,C++,Deep Learning,AI Specialist,5,0,Yes,Mid,ML Engineer
+MCA,Computer Science,Java,Data Analysis,None,5,7,No,Mid,Software Developer
+MBA,AI,Data Analysis,Deep Learning,Data Analytics,9,9,Yes,Senior,ML Engineer
+BCA,Electronics,Cloud,Python,AWS,9,8,No,Senior,Cloud Engineer
+B.Tech,Data Science,SQL,SQL,AI Specialist,8,0,Yes,Senior,Data Analyst
+M.Tech,IT,Python,Data Analysis,AI Specialist,4,6,Yes,Mid,Data Analyst
+BCA,Computer Science,Python,Cloud,Cybersecurity,14,1,Yes,Expert,Security Analyst
+BCA,AI,SQL,Java,None,3,5,No,Mid,Data Analyst
+MBA,Electronics,Machine Learning,Data Analysis,AWS,14,4,No,Expert,ML Engineer
+B.Tech,Electronics,SQL,Data Analysis,Azure,10,0,Yes,Senior,Data Analyst
+M.Tech,IT,Cloud,Python,AWS,5,1,Yes,Mid,Cloud Engineer
+BCA,Computer Science,Deep Learning,Cloud,Data Analytics,7,1,Yes,Senior,ML Engineer
+M.Tech,IT,SQL,SQL,GCP,13,9,Yes,Expert,Data Analyst
+MCA,IT,Java,Python,AI Specialist,0,9,Yes,Fresher,Software Developer
+BCA,Business,Deep Learning,SQL,None,6,5,Yes,Senior,ML Engineer
+BCA,AI,SQL,SQL,None,7,0,Yes,Senior,Data Analyst
+MCA,Electronics,Python,SQL,AWS,8,3,Yes,Senior,Data Analyst
+MBA,Business,C++,Python,Cybersecurity,10,9,No,Senior,Security Analyst
+BCA,Data Science,Java,Deep Learning,Data Analytics,7,4,Yes,Senior,ML Engineer
+M.Tech,Electronics,Cloud,Data Analysis,GCP,6,1,Yes,Senior,Data Analyst
+B.Tech,Electronics,Java,SQL,Data Analytics,2,1,Yes,Junior,Data Analyst
+M.Tech,AI,Data Analysis,Deep Learning,None,1,6,Yes,Junior,ML Engineer
+MBA,Data Science,Machine Learning,Data Analysis,Azure,14,6,No,Expert,ML Engineer
+B.Tech,Computer Science,C++,Cloud,GCP,2,5,Yes,Junior,Cloud Engineer
+M.Tech,Data Science,Java,Data Analysis,None,3,0,Yes,Mid,Data Analyst
+M.Tech,Computer Science,Data Analysis,Cloud,Cybersecurity,3,2,Yes,Mid,Data Analyst
+MCA,Data Science,SQL,Java,GCP,5,8,No,Mid,Data Analyst
+MBA,IT,Java,Machine Learning,None,11,9,Yes,Expert,ML Engineer
+MCA,Data Science,Java,Deep Learning,Cybersecurity,6,0,Yes,Senior,ML Engineer
+B.Tech,Business,Java,Data Analysis,Azure,11,1,Yes,Expert,Data Analyst
+MCA,Business,Machine Learning,Cloud,Cybersecurity,3,7,Yes,Mid,ML Engineer
+MBA,AI,Java,Machine Learning,Data Analytics,9,6,Yes,Senior,ML Engineer
+BCA,Computer Science,Java,SQL,AWS,5,8,Yes,Mid,Software Developer
+BCA,Electronics,Machine Learning,Machine Learning,Data Analytics,8,9,No,Senior,ML Engineer
+B.Tech,AI,Data Analysis,Machine Learning,None,13,3,No,Expert,ML Engineer
+BCA,Business,Deep Learning,SQL,None,5,3,Yes,Mid,ML Engineer
+MCA,Business,C++,Deep Learning,AI Specialist,13,6,Yes,Expert,ML Engineer
+B.Tech,Computer Science,Data Analysis,Data Analysis,Data Analytics,2,0,Yes,Junior,Data Analyst
+MBA,Business,Cloud,SQL,GCP,0,9,Yes,Fresher,Data Analyst
+B.Tech,Business,Deep Learning,Java,Azure,10,8,Yes,Senior,ML Engineer
+B.Tech,Computer Science,Python,C++,AI Specialist,9,1,Yes,Senior,Software Developer
+M.Tech,Business,Machine Learning,Data Analysis,AI Specialist,9,0,Yes,Senior,ML Engineer
+M.Tech,Electronics,Machine Learning,Python,AI Specialist,12,6,Yes,Expert,ML Engineer
+B.Tech,IT,Java,SQL,None,4,5,Yes,Mid,Software Developer
+BCA,AI,Java,SQL,AWS,9,2,Yes,Senior,Data Analyst
+M.Tech,Electronics,Cloud,Machine Learning,Cybersecurity,9,0,Yes,Senior,ML Engineer
+MBA,Electronics,Python,Java,GCP,2,4,No,Junior,Security Analyst
+MCA,IT,Java,Cloud,None,7,9,Yes,Senior,Software Developer
+M.Tech,AI,SQL,Cloud,Azure,9,3,No,Senior,Data Analyst
+B.Tech,Electronics,Java,Machine Learning,None,14,4,Yes,Expert,ML Engineer
+BCA,Business,Java,Deep Learning,AWS,0,0,No,Fresher,ML Engineer
+MCA,IT,SQL,Data Analysis,None,10,0,Yes,Senior,Data Analyst
+M.Tech,AI,Python,SQL,None,1,4,No,Junior,Data Scientist
+BCA,Data Science,SQL,Data Analysis,Data Analytics,2,5,Yes,Junior,Data Analyst
+BCA,Computer Science,Machine Learning,Data Analysis,Azure,2,4,Yes,Junior,ML Engineer
+BCA,Business,SQL,SQL,AI Specialist,11,1,Yes,Expert,Data Analyst
+B.Tech,IT,C++,Machine Learning,Azure,7,8,Yes,Senior,ML Engineer
+MBA,Computer Science,Machine Learning,Data Analysis,Azure,4,4,Yes,Mid,ML Engineer
+BCA,Data Science,Java,SQL,Data Analytics,7,4,Yes,Senior,Data Analyst
+MCA,Electronics,Cloud,Deep Learning,Cybersecurity,10,9,Yes,Senior,ML Engineer
+M.Tech,Electronics,Machine Learning,Data Analysis,None,13,8,Yes,Expert,ML Engineer
+MCA,AI,Python,C++,GCP,14,2,Yes,Expert,Data Scientist
+B.Tech,IT,Python,Python,AI Specialist,14,4,Yes,Expert,Software Developer
+B.Tech,IT,SQL,Python,Cybersecurity,10,4,Yes,Senior,Data Analyst
+MCA,AI,Machine Learning,Python,AWS,5,1,No,Mid,Data Scientist
+MBA,Computer Science,Java,C++,None,14,3,No,Expert,Software Developer
+B.Tech,Electronics,Python,SQL,AI Specialist,11,1,No,Expert,Data Analyst
+B.Tech,Electronics,Deep Learning,Machine Learning,GCP,1,4,No,Junior,ML Engineer
+MCA,IT,Java,Cloud,None,10,9,Yes,Senior,Software Developer
+B.Tech,IT,Deep Learning,Java,AWS,3,1,No,Mid,ML Engineer
+MBA,AI,C++,SQL,Data Analytics,8,9,Yes,Senior,Data Analyst
+MBA,Data Science,Deep Learning,C++,Cybersecurity,3,8,Yes,Mid,ML Engineer
+MBA,Computer Science,Data Analysis,Data Analysis,None,4,9,No,Mid,Data Analyst
+M.Tech,Business,Python,Deep Learning,AI Specialist,4,5,Yes,Mid,ML Engineer
+MBA,Data Science,SQL,C++,Azure,9,7,Yes,Senior,Data Analyst
+MBA,Data Science,C++,Data Analysis,GCP,7,8,Yes,Senior,Data Analyst
+M.Tech,IT,Machine Learning,Cloud,None,5,7,Yes,Mid,ML Engineer
+BCA,IT,Java,Python,AI Specialist,9,4,Yes,Senior,Software Developer
+B.Tech,IT,Python,SQL,Azure,6,4,Yes,Senior,Data Analyst
+MBA,Data Science,C++,Cloud,AI Specialist,5,5,Yes,Mid,Software Developer
+B.Tech,Computer Science,C++,Python,None,13,0,Yes,Expert,AI Engineer
+MCA,IT,Data Analysis,Java,AWS,13,7,Yes,Expert,Software Developer
+B.Tech,Electronics,Python,Data Analysis,Azure,13,1,Yes,Expert,Data Analyst
+M.Tech,Computer Science,Machine Learning,Data Analysis,Azure,4,5,No,Mid,ML Engineer
+B.Tech,Electronics,Machine Learning,Deep Learning,AI Specialist,14,8,Yes,Expert,ML Engineer
+B.Tech,Computer Science,SQL,Python,Data Analytics,4,2,No,Mid,Data Analyst
+B.Tech,IT,Cloud,Java,None,2,1,Yes,Junior,Software Developer
+BCA,Business,Deep Learning,Data Analysis,Data Analytics,6,9,Yes,Senior,ML Engineer
+BCA,AI,Machine Learning,C++,Cybersecurity,12,4,Yes,Expert,ML Engineer
+MCA,IT,Data Analysis,Python,AWS,9,8,Yes,Senior,Data Analyst
+M.Tech,Data Science,SQL,Python,Data Analytics,4,5,Yes,Mid,Data Scientist
+B.Tech,Business,Deep Learning,Machine Learning,AI Specialist,6,7,Yes,Senior,ML Engineer
+B.Tech,Data Science,C++,Deep Learning,None,14,7,Yes,Expert,ML Engineer
+B.Tech,Computer Science,Python,Deep Learning,Data Analytics,1,6,Yes,Junior,ML Engineer
+B.Tech,Data Science,Machine Learning,Cloud,Cybersecurity,8,4,Yes,Senior,ML Engineer
+BCA,Business,SQL,C++,GCP,7,1,No,Senior,Data Analyst
+MCA,Business,C++,Machine Learning,Cybersecurity,14,9,Yes,Expert,ML Engineer
+MBA,IT,Machine Learning,Cloud,Azure,4,9,No,Mid,ML Engineer
+M.Tech,Electronics,Java,Java,None,1,4,No,Junior,Security Analyst
+B.Tech,IT,Cloud,Cloud,Azure,5,6,Yes,Mid,Cloud Engineer
+MCA,Computer Science,C++,Java,Data Analytics,7,6,No,Senior,Software Developer
+MBA,Data Science,Data Analysis,C++,Data Analytics,6,1,No,Senior,Data Analyst
+MCA,Electronics,Data Analysis,Data Analysis,Cybersecurity,7,6,Yes,Senior,Data Analyst
+BCA,AI,Machine Learning,Deep Learning,Cybersecurity,3,5,Yes,Mid,ML Engineer
+MBA,Business,Data Analysis,Data Analysis,AI Specialist,13,6,Yes,Expert,Data Analyst
+MCA,Electronics,C++,Java,AWS,2,7,Yes,Junior,Security Analyst
+BCA,Electronics,Python,C++,AI Specialist,6,3,Yes,Senior,Security Analyst
+MCA,IT,Python,Data Analysis,Azure,1,0,No,Junior,Data Analyst
+MCA,AI,Cloud,Cloud,AI Specialist,13,7,No,Expert,Software Developer
+MBA,Business,Python,Java,Cybersecurity,4,7,Yes,Mid,Security Analyst
+BCA,Computer Science,Deep Learning,SQL,None,12,2,Yes,Expert,ML Engineer
+B.Tech,Computer Science,Java,Python,AI Specialist,6,2,No,Senior,Software Developer
+M.Tech,Electronics,Python,Cloud,GCP,0,4,Yes,Fresher,Cloud Engineer
+MBA,Electronics,Data Analysis,Deep Learning,AWS,3,2,Yes,Mid,ML Engineer
+BCA,Data Science,Java,Data Analysis,Cybersecurity,14,4,Yes,Expert,Data Analyst
+MCA,AI,Python,Cloud,None,1,7,Yes,Junior,Data Scientist
+BCA,Business,Deep Learning,SQL,Data Analytics,5,0,Yes,Mid,ML Engineer
+M.Tech,Electronics,Data Analysis,C++,AI Specialist,11,1,Yes,Expert,Data Analyst
+M.Tech,Data Science,C++,C++,Cybersecurity,0,1,Yes,Fresher,Security Analyst
+B.Tech,AI,Machine Learning,Cloud,Data Analytics,6,3,Yes,Senior,ML Engineer
+B.Tech,Business,Machine Learning,SQL,Data Analytics,2,8,Yes,Junior,ML Engineer
+M.Tech,Computer Science,Python,Data Analysis,Azure,11,1,Yes,Expert,Data Analyst
+MBA,Data Science,Machine Learning,Cloud,Azure,0,8,No,Fresher,ML Engineer
+MBA,AI,Python,Python,None,14,6,Yes,Expert,Data Scientist
+MCA,Data Science,Python,Python,Cybersecurity,7,9,Yes,Senior,Data Scientist
+B.Tech,Electronics,Data Analysis,Machine Learning,None,6,7,Yes,Senior,ML Engineer
+MCA,IT,Cloud,Java,Cybersecurity,1,0,Yes,Junior,Software Developer
+B.Tech,Computer Science,SQL,Machine Learning,GCP,6,4,No,Senior,ML Engineer
+M.Tech,Electronics,SQL,Data Analysis,AWS,2,8,Yes,Junior,Data Analyst
+MBA,Electronics,Cloud,Python,AWS,14,3,Yes,Expert,Cloud Engineer
+MBA,AI,SQL,SQL,Cybersecurity,12,1,No,Expert,Data Analyst
+M.Tech,Data Science,Java,Java,Azure,8,5,Yes,Senior,Data Analyst
+MCA,Computer Science,SQL,Data Analysis,AI Specialist,7,1,Yes,Senior,Data Analyst
+MCA,Electronics,Python,SQL,None,4,2,Yes,Mid,Data Analyst
+BCA,AI,Deep Learning,Data Analysis,GCP,6,7,No,Senior,ML Engineer
+B.Tech,Computer Science,Deep Learning,Machine Learning,AWS,2,2,Yes,Junior,ML Engineer
+MCA,Data Science,C++,C++,Cybersecurity,0,1,No,Fresher,Security Analyst
+M.Tech,Electronics,Data Analysis,SQL,Azure,0,5,Yes,Fresher,Data Analyst
+MCA,Business,SQL,Machine Learning,Azure,14,2,Yes,Expert,ML Engineer
+MBA,Electronics,Deep Learning,Machine Learning,Azure,10,0,No,Senior,ML Engineer
+B.Tech,Electronics,SQL,Machine Learning,None,1,2,Yes,Junior,ML Engineer
+BCA,Computer Science,Data Analysis,C++,AI Specialist,7,5,No,Senior,Data Analyst
+B.Tech,Computer Science,C++,C++,Data Analytics,0,2,No,Fresher,AI Engineer
+MBA,Computer Science,Deep Learning,Cloud,None,10,8,No,Senior,ML Engineer
+MBA,Computer Science,Python,C++,AI Specialist,11,6,Yes,Expert,Software Developer
+MBA,AI,Java,Java,Azure,4,4,Yes,Mid,Data Analyst
+MBA,IT,Cloud,C++,Cybersecurity,8,1,No,Senior,Security Analyst
+M.Tech,AI,Cloud,C++,GCP,11,8,Yes,Expert,Cloud Engineer
+BCA,Electronics,Cloud,C++,AI Specialist,8,4,Yes,Senior,Security Analyst
+MBA,AI,SQL,Data Analysis,Cybersecurity,1,6,Yes,Junior,Data Analyst
+MBA,Data Science,Deep Learning,SQL,None,6,8,Yes,Senior,ML Engineer
+MCA,Business,Data Analysis,C++,None,10,3,Yes,Senior,Data Analyst
+BCA,Computer Science,Data Analysis,Java,Azure,0,8,Yes,Fresher,Software Developer
+B.Tech,Data Science,Deep Learning,Data Analysis,GCP,2,0,Yes,Junior,ML Engineer
+BCA,Business,C++,Machine Learning,AWS,5,5,Yes,Mid,ML Engineer
+BCA,Data Science,Python,SQL,AWS,8,1,Yes,Senior,Data Scientist
+BCA,Electronics,Machine Learning,Python,None,9,7,No,Senior,ML Engineer
+MBA,Computer Science,Deep Learning,Data Analysis,Cybersecurity,1,4,No,Junior,ML Engineer
+MBA,Data Science,Java,C++,GCP,6,2,Yes,Senior,Data Analyst
+M.Tech,Electronics,C++,Data Analysis,Cybersecurity,14,1,Yes,Expert,Data Analyst
+B.Tech,Computer Science,Deep Learning,Cloud,GCP,3,7,Yes,Mid,ML Engineer
+MCA,IT,Deep Learning,Cloud,GCP,1,6,Yes,Junior,ML Engineer
+BCA,Electronics,C++,Data Analysis,None,2,8,No,Junior,Data Analyst
+B.Tech,AI,C++,Machine Learning,Cybersecurity,5,7,No,Mid,ML Engineer
+B.Tech,Computer Science,SQL,Machine Learning,None,9,3,No,Senior,ML Engineer
+M.Tech,Data Science,Deep Learning,SQL,GCP,8,1,Yes,Senior,ML Engineer
+MCA,Business,Machine Learning,Cloud,AI Specialist,7,1,Yes,Senior,ML Engineer
+BCA,Data Science,Java,Python,Azure,9,1,Yes,Senior,Data Scientist
+MCA,AI,Python,Deep Learning,GCP,13,5,Yes,Expert,Data Scientist
+M.Tech,AI,Python,Cloud,AI Specialist,10,6,Yes,Senior,Data Scientist
+MBA,Data Science,Machine Learning,Data Analysis,GCP,8,5,Yes,Senior,ML Engineer
+B.Tech,Business,Data Analysis,Cloud,AI Specialist,3,1,Yes,Mid,Data Analyst
+BCA,Computer Science,C++,Java,Cybersecurity,11,3,Yes,Expert,Software Developer
+MBA,Electronics,C++,Deep Learning,AWS,3,2,Yes,Mid,ML Engineer
+M.Tech,AI,Data Analysis,Machine Learning,Data Analytics,14,3,Yes,Expert,ML Engineer
+MCA,AI,C++,Deep Learning,GCP,8,4,No,Senior,ML Engineer
+B.Tech,AI,Data Analysis,Cloud,Data Analytics,7,6,Yes,Senior,Data Analyst
+BCA,Business,Deep Learning,Machine Learning,GCP,11,8,Yes,Expert,ML Engineer
+MBA,IT,Data Analysis,Deep Learning,Cybersecurity,14,1,Yes,Expert,ML Engineer
+MBA,Business,C++,Machine Learning,Cybersecurity,1,7,No,Junior,ML Engineer
+B.Tech,Computer Science,C++,Machine Learning,AI Specialist,7,2,Yes,Senior,ML Engineer
+MCA,Computer Science,Deep Learning,SQL,GCP,0,8,No,Fresher,ML Engineer
+M.Tech,Computer Science,Data Analysis,Python,Cybersecurity,8,9,Yes,Senior,Data Analyst
+MCA,Computer Science,Deep Learning,Machine Learning,Cybersecurity,8,3,No,Senior,ML Engineer
+MCA,Computer Science,Machine Learning,Java,GCP,12,2,Yes,Expert,ML Engineer
+MCA,Data Science,SQL,Cloud,AI Specialist,14,9,Yes,Expert,Data Analyst
+B.Tech,AI,Deep Learning,Cloud,AI Specialist,7,5,Yes,Senior,ML Engineer
+B.Tech,Business,Java,Java,AI Specialist,10,9,Yes,Senior,Business Analyst
+M.Tech,Data Science,C++,C++,AI Specialist,4,8,No,Mid,AI Engineer
+MCA,Business,SQL,Machine Learning,AWS,4,6,Yes,Mid,ML Engineer
+B.Tech,IT,Python,Data Analysis,GCP,12,3,Yes,Expert,Data Analyst
+M.Tech,Electronics,Machine Learning,Machine Learning,None,2,2,No,Junior,ML Engineer
+M.Tech,AI,Data Analysis,Machine Learning,AWS,4,9,Yes,Mid,ML Engineer
+MCA,IT,SQL,Data Analysis,Cybersecurity,3,3,No,Mid,Data Analyst
+BCA,Data Science,Deep Learning,Deep Learning,AWS,0,2,Yes,Fresher,ML Engineer
+MCA,Electronics,C++,Machine Learning,None,8,2,No,Senior,ML Engineer
+BCA,IT,C++,Machine Learning,None,14,8,Yes,Expert,ML Engineer
+M.Tech,Business,C++,Java,None,9,3,Yes,Senior,Business Analyst
+B.Tech,Electronics,SQL,Python,AI Specialist,13,8,Yes,Expert,Data Analyst
+MBA,Business,C++,Python,Cybersecurity,3,9,Yes,Mid,Security Analyst
+M.Tech,IT,Deep Learning,C++,AWS,2,4,Yes,Junior,ML Engineer
+B.Tech,Data Science,Data Analysis,Java,AWS,5,6,Yes,Mid,Data Analyst
+M.Tech,Business,SQL,Machine Learning,GCP,0,4,No,Fresher,ML Engineer
+MCA,Electronics,C++,Python,AWS,4,0,No,Mid,Security Analyst
+BCA,IT,Python,SQL,Cybersecurity,14,1,No,Expert,Data Analyst
+M.Tech,Business,Python,SQL,AI Specialist,6,4,No,Senior,Data Analyst
+B.Tech,Data Science,Java,SQL,GCP,1,5,No,Junior,Data Analyst
+MCA,AI,C++,Machine Learning,AWS,9,6,No,Senior,ML Engineer
+MBA,Data Science,C++,Machine Learning,GCP,8,1,No,Senior,ML Engineer
+MCA,Data Science,SQL,Data Analysis,Data Analytics,11,9,Yes,Expert,Data Analyst
+BCA,AI,SQL,C++,GCP,14,8,No,Expert,Data Analyst
+MCA,Data Science,Cloud,Cloud,None,5,5,No,Mid,AI Engineer
+MBA,AI,Data Analysis,C++,AI Specialist,1,1,No,Junior,Data Analyst
+B.Tech,AI,C++,C++,None,7,1,Yes,Senior,Software Developer
+M.Tech,Business,Java,Deep Learning,Data Analytics,7,2,Yes,Senior,ML Engineer
+BCA,Business,Data Analysis,SQL,None,0,0,No,Fresher,Data Analyst
+MBA,AI,C++,Machine Learning,Data Analytics,11,8,No,Expert,ML Engineer
+BCA,IT,Data Analysis,SQL,GCP,0,9,Yes,Fresher,Data Analyst
+MCA,Electronics,Deep Learning,C++,Cybersecurity,0,3,Yes,Fresher,ML Engineer
+BCA,IT,SQL,Machine Learning,AI Specialist,11,4,Yes,Expert,ML Engineer
+MBA,AI,C++,Java,Cybersecurity,3,6,Yes,Mid,Security Analyst
+M.Tech,Electronics,Data Analysis,Data Analysis,AI Specialist,3,0,Yes,Mid,Data Analyst
+M.Tech,Business,SQL,Python,AI Specialist,7,2,Yes,Senior,Data Analyst
+BCA,Electronics,C++,Python,None,0,2,No,Fresher,Security Analyst
+B.Tech,AI,Machine Learning,C++,None,9,1,Yes,Senior,ML Engineer
+BCA,Business,SQL,Cloud,Cybersecurity,2,7,Yes,Junior,Data Analyst
+MCA,Electronics,Data Analysis,SQL,Azure,10,4,No,Senior,Data Analyst
+M.Tech,Electronics,Java,Java,Data Analytics,0,0,Yes,Fresher,Security Analyst
+M.Tech,IT,Machine Learning,Machine Learning,None,8,1,Yes,Senior,ML Engineer
+M.Tech,Electronics,Deep Learning,Cloud,None,9,0,Yes,Senior,ML Engineer
+B.Tech,AI,C++,SQL,None,11,5,Yes,Expert,Data Analyst
+B.Tech,Computer Science,Cloud,C++,GCP,8,8,No,Senior,Cloud Engineer
+MBA,Computer Science,Deep Learning,SQL,Cybersecurity,6,6,No,Senior,ML Engineer
+BCA,Computer Science,SQL,C++,Cybersecurity,12,4,Yes,Expert,Data Analyst
+BCA,AI,Machine Learning,Deep Learning,None,11,2,Yes,Expert,ML Engineer
+MCA,Computer Science,Deep Learning,Python,GCP,14,7,Yes,Expert,ML Engineer
+M.Tech,IT,Java,Cloud,None,7,9,No,Senior,Software Developer
+B.Tech,AI,Cloud,Python,Data Analytics,0,3,No,Fresher,Data Scientist
+MCA,Business,SQL,SQL,GCP,4,8,Yes,Mid,Data Analyst
+MCA,AI,Machine Learning,Java,None,14,4,Yes,Expert,ML Engineer
+B.Tech,AI,Deep Learning,Machine Learning,AI Specialist,13,5,No,Expert,ML Engineer
+BCA,Electronics,Machine Learning,C++,Azure,1,4,No,Junior,ML Engineer
+M.Tech,Electronics,Machine Learning,Machine Learning,AI Specialist,12,9,Yes,Expert,ML Engineer
+BCA,Electronics,Deep Learning,Python,Azure,0,6,No,Fresher,ML Engineer
+MCA,Data Science,Python,Data Analysis,GCP,2,6,Yes,Junior,Data Scientist
+M.Tech,IT,C++,Java,AI Specialist,6,0,Yes,Senior,Software Developer
+MBA,AI,Data Analysis,Java,Data Analytics,0,1,Yes,Fresher,Data Analyst
+MCA,AI,SQL,Machine Learning,AI Specialist,10,6,Yes,Senior,ML Engineer
+BCA,Electronics,SQL,Python,Cybersecurity,1,7,Yes,Junior,Data Analyst
+BCA,AI,Cloud,Data Analysis,Azure,1,3,Yes,Junior,Data Analyst
+BCA,Business,Cloud,Machine Learning,Azure,3,5,Yes,Mid,ML Engineer
+B.Tech,AI,Cloud,SQL,None,14,9,Yes,Expert,Data Analyst
+MCA,Computer Science,SQL,Java,Data Analytics,11,2,Yes,Expert,Software Developer
+M.Tech,Business,Machine Learning,Java,Azure,2,6,Yes,Junior,ML Engineer
+BCA,Business,Cloud,SQL,Azure,2,2,No,Junior,Data Analyst
+BCA,AI,Deep Learning,Python,None,9,6,Yes,Senior,Data Scientist
+B.Tech,Data Science,C++,Java,Data Analytics,4,7,Yes,Mid,Software Developer
+M.Tech,Electronics,Java,Cloud,AI Specialist,2,2,No,Junior,Security Analyst
+MCA,IT,SQL,Data Analysis,GCP,10,1,Yes,Senior,Data Analyst
+MBA,IT,Deep Learning,Deep Learning,AI Specialist,6,5,Yes,Senior,ML Engineer
+B.Tech,Computer Science,C++,Deep Learning,Cybersecurity,4,3,Yes,Mid,ML Engineer
+MCA,IT,C++,Deep Learning,Cybersecurity,3,7,No,Mid,ML Engineer
+MBA,IT,Python,C++,Azure,11,1,No,Expert,Data Analyst
+BCA,Electronics,Data Analysis,Cloud,Cybersecurity,2,3,Yes,Junior,Data Analyst
+BCA,Electronics,Deep Learning,C++,GCP,14,1,Yes,Expert,ML Engineer
+M.Tech,Data Science,SQL,Python,Azure,11,1,Yes,Expert,Data Scientist
+MBA,Computer Science,Cloud,SQL,None,3,1,No,Mid,Data Analyst
+BCA,IT,Machine Learning,Machine Learning,Cybersecurity,13,0,Yes,Expert,ML Engineer
+BCA,Data Science,Cloud,Cloud,None,14,3,No,Expert,Data Analyst
+M.Tech,Computer Science,C++,Data Analysis,AWS,11,1,Yes,Expert,Data Analyst
+MCA,Business,C++,Python,AWS,1,8,Yes,Junior,Business Analyst
+BCA,IT,Java,Machine Learning,AWS,0,8,No,Fresher,ML Engineer
+B.Tech,IT,Cloud,Python,None,2,6,No,Junior,Data Analyst
+B.Tech,Electronics,Data Analysis,C++,AWS,10,5,Yes,Senior,Data Analyst
+MCA,AI,Data Analysis,Deep Learning,AI Specialist,1,2,Yes,Junior,ML Engineer
+MBA,Computer Science,Python,SQL,AWS,0,6,Yes,Fresher,Data Analyst
+M.Tech,IT,Data Analysis,C++,Azure,0,0,Yes,Fresher,Data Analyst
+B.Tech,Computer Science,C++,SQL,Data Analytics,1,8,Yes,Junior,Data Analyst
+B.Tech,Data Science,C++,Cloud,AI Specialist,12,3,Yes,Expert,Software Developer
+MCA,Data Science,Data Analysis,Machine Learning,Data Analytics,12,5,Yes,Expert,ML Engineer
+MBA,AI,Machine Learning,Python,Azure,8,5,Yes,Senior,Data Scientist
+MBA,IT,Machine Learning,Java,Azure,12,2,Yes,Expert,ML Engineer
+MCA,Electronics,Data Analysis,Java,GCP,12,3,Yes,Expert,Data Analyst
+B.Tech,IT,Java,SQL,AI Specialist,4,9,Yes,Mid,Software Developer
+M.Tech,Computer Science,Deep Learning,Deep Learning,Data Analytics,8,2,No,Senior,ML Engineer
+B.Tech,Business,Java,Deep Learning,AWS,7,5,Yes,Senior,ML Engineer
+MBA,Data Science,Java,SQL,Azure,12,0,Yes,Expert,Data Analyst
+B.Tech,Computer Science,Data Analysis,C++,AWS,10,7,Yes,Senior,Data Analyst
+M.Tech,AI,Machine Learning,Java,Data Analytics,5,7,Yes,Mid,ML Engineer
+BCA,Data Science,Cloud,C++,None,0,8,Yes,Fresher,Software Developer
+B.Tech,Electronics,Cloud,Machine Learning,AI Specialist,9,5,Yes,Senior,ML Engineer
+MCA,Data Science,Data Analysis,Java,Cybersecurity,4,0,Yes,Mid,Data Analyst
+BCA,Business,Cloud,Machine Learning,None,11,2,No,Expert,ML Engineer
+MCA,IT,Deep Learning,Python,None,0,0,No,Fresher,ML Engineer
+MCA,Business,Machine Learning,C++,Cybersecurity,6,4,Yes,Senior,ML Engineer
+MCA,Business,Data Analysis,SQL,Azure,9,2,Yes,Senior,Data Analyst
+B.Tech,IT,Python,Java,GCP,13,1,Yes,Expert,Software Developer
+MBA,Data Science,SQL,C++,AWS,10,2,Yes,Senior,Data Analyst
+BCA,AI,SQL,SQL,Azure,7,8,Yes,Senior,Data Analyst
+M.Tech,IT,Data Analysis,Python,GCP,7,7,Yes,Senior,Data Analyst
+MBA,IT,Data Analysis,Java,AWS,6,2,Yes,Senior,Software Developer
+B.Tech,Electronics,Python,Machine Learning,Data Analytics,1,1,No,Junior,ML Engineer
+MCA,Data Science,Cloud,Python,None,4,4,Yes,Mid,Data Scientist
+M.Tech,IT,SQL,Deep Learning,None,3,0,Yes,Mid,ML Engineer
+BCA,AI,Deep Learning,SQL,Cybersecurity,4,3,No,Mid,ML Engineer
+MBA,Computer Science,Data Analysis,Data Analysis,GCP,9,7,Yes,Senior,Data Analyst
+MBA,Data Science,Machine Learning,Java,AWS,8,0,Yes,Senior,ML Engineer
+M.Tech,Electronics,SQL,Java,Azure,14,4,Yes,Expert,Data Analyst
+B.Tech,Business,Deep Learning,Cloud,AWS,3,3,Yes,Mid,ML Engineer
+BCA,IT,Machine Learning,Cloud,Azure,14,5,Yes,Expert,ML Engineer
+M.Tech,AI,Data Analysis,Python,None,14,6,Yes,Expert,Data Scientist
+MCA,Data Science,Deep Learning,Java,Cybersecurity,11,8,Yes,Expert,ML Engineer
+BCA,AI,Python,SQL,Cybersecurity,7,0,Yes,Senior,Data Scientist
+MBA,AI,Data Analysis,Python,AWS,7,9,No,Senior,Data Scientist
+M.Tech,Business,Java,Machine Learning,AWS,1,3,Yes,Junior,ML Engineer
+MBA,Electronics,Python,Python,Azure,13,5,Yes,Expert,Security Analyst
+MBA,Data Science,SQL,Python,Azure,5,9,No,Mid,Data Scientist
+MBA,IT,Machine Learning,Data Analysis,GCP,4,6,Yes,Mid,ML Engineer
+B.Tech,Electronics,Deep Learning,Machine Learning,None,1,6,Yes,Junior,ML Engineer
+MBA,IT,SQL,Deep Learning,GCP,11,7,Yes,Expert,ML Engineer
+MCA,Computer Science,SQL,Cloud,GCP,9,9,Yes,Senior,Data Analyst
+MCA,AI,Data Analysis,SQL,AWS,3,7,Yes,Mid,Data Analyst
+BCA,Computer Science,Java,Deep Learning,AI Specialist,6,7,Yes,Senior,ML Engineer
+MBA,AI,Cloud,Deep Learning,AI Specialist,12,7,No,Expert,ML Engineer
+MBA,Business,SQL,Deep Learning,AI Specialist,0,7,Yes,Fresher,ML Engineer
+M.Tech,Electronics,Java,Cloud,AI Specialist,14,5,Yes,Expert,Security Analyst
+B.Tech,IT,Machine Learning,C++,GCP,8,8,Yes,Senior,ML Engineer
+BCA,Business,Machine Learning,Cloud,AWS,9,2,Yes,Senior,ML Engineer
+MBA,IT,Deep Learning,Deep Learning,AI Specialist,11,5,Yes,Expert,ML Engineer
+M.Tech,Electronics,Cloud,C++,Cybersecurity,0,4,Yes,Fresher,Security Analyst
+B.Tech,Data Science,Java,Machine Learning,Data Analytics,14,7,Yes,Expert,ML Engineer
+BCA,Computer Science,Python,Cloud,Cybersecurity,11,3,Yes,Expert,Security Analyst
+BCA,Computer Science,Machine Learning,SQL,AWS,4,3,No,Mid,ML Engineer
+MBA,IT,Data Analysis,Deep Learning,AWS,6,9,No,Senior,ML Engineer
+BCA,IT,Cloud,Java,Data Analytics,7,9,Yes,Senior,Software Developer
+M.Tech,IT,Deep Learning,Machine Learning,Azure,1,4,No,Junior,ML Engineer
+BCA,Electronics,Python,C++,Azure,3,5,Yes,Mid,Security Analyst
+MCA,Data Science,Machine Learning,Cloud,Azure,1,3,No,Junior,ML Engineer
+M.Tech,Computer Science,Machine Learning,SQL,GCP,3,1,Yes,Mid,ML Engineer
+B.Tech,Business,Deep Learning,Python,Azure,14,1,Yes,Expert,ML Engineer
+B.Tech,AI,Deep Learning,SQL,None,5,2,No,Mid,ML Engineer
+MBA,Electronics,C++,SQL,GCP,5,1,Yes,Mid,Data Analyst
+MBA,Computer Science,Data Analysis,Deep Learning,GCP,11,0,No,Expert,ML Engineer
+MCA,Data Science,SQL,Deep Learning,Azure,12,7,Yes,Expert,ML Engineer
+B.Tech,Electronics,SQL,Cloud,Azure,1,4,Yes,Junior,Data Analyst
+B.Tech,Business,Python,Cloud,Data Analytics,10,9,Yes,Senior,Business Analyst
+B.Tech,Computer Science,SQL,Data Analysis,AI Specialist,3,0,No,Mid,Data Analyst
+B.Tech,Electronics,Python,C++,Data Analytics,3,8,Yes,Mid,Security Analyst
+BCA,Computer Science,Cloud,Data Analysis,GCP,13,7,Yes,Expert,Data Analyst
+M.Tech,Computer Science,Machine Learning,Cloud,Data Analytics,0,3,No,Fresher,ML Engineer
+M.Tech,Data Science,C++,C++,GCP,14,7,No,Expert,AI Engineer
+MCA,AI,C++,Deep Learning,AWS,13,9,No,Expert,ML Engineer
+BCA,Data Science,Data Analysis,Deep Learning,GCP,1,6,Yes,Junior,ML Engineer
+B.Tech,Computer Science,Data Analysis,Java,GCP,13,6,No,Expert,Software Developer
+B.Tech,Electronics,Machine Learning,Java,Data Analytics,2,0,No,Junior,ML Engineer
+MBA,Business,Deep Learning,Machine Learning,AI Specialist,12,5,No,Expert,ML Engineer
+MBA,Data Science,Data Analysis,Deep Learning,AWS,14,3,Yes,Expert,ML Engineer
+MCA,AI,Data Analysis,Python,Cybersecurity,10,9,Yes,Senior,Data Scientist
+B.Tech,Computer Science,Java,Java,Cybersecurity,4,9,Yes,Mid,Software Developer
+MCA,Business,Java,C++,AI Specialist,10,9,Yes,Senior,Business Analyst
+BCA,Data Science,SQL,SQL,Cybersecurity,7,1,Yes,Senior,Data Analyst
+M.Tech,Data Science,Deep Learning,Cloud,AWS,14,9,Yes,Expert,ML Engineer
+B.Tech,Data Science,Python,Cloud,Azure,5,6,Yes,Mid,Data Scientist
+BCA,Data Science,Cloud,Machine Learning,AWS,2,8,Yes,Junior,ML Engineer
+B.Tech,Business,C++,Java,Data Analytics,5,4,Yes,Mid,Business Analyst
+MBA,Electronics,SQL,SQL,None,6,7,Yes,Senior,Data Analyst
+MCA,AI,Data Analysis,SQL,GCP,5,4,No,Mid,Data Analyst
+MBA,AI,Machine Learning,Java,GCP,9,6,Yes,Senior,ML Engineer
+M.Tech,Computer Science,Deep Learning,Python,Data Analytics,5,6,Yes,Mid,ML Engineer
+MBA,IT,Data Analysis,Python,Data Analytics,0,8,Yes,Fresher,Data Analyst
+B.Tech,Electronics,C++,Machine Learning,None,2,2,Yes,Junior,ML Engineer
+MBA,Computer Science,Python,Data Analysis,None,6,0,No,Senior,Data Analyst
+B.Tech,Computer Science,Python,Python,GCP,3,1,Yes,Mid,Data Analyst
+M.Tech,Data Science,Java,Machine Learning,None,11,5,Yes,Expert,ML Engineer
+MBA,IT,SQL,Data Analysis,None,3,9,Yes,Mid,Data Analyst
+MCA,IT,Data Analysis,Data Analysis,None,6,9,No,Senior,Data Analyst
+MCA,Electronics,Machine Learning,C++,AI Specialist,8,8,Yes,Senior,ML Engineer
+MCA,IT,C++,Data Analysis,Azure,13,2,Yes,Expert,Data Analyst
+MBA,Computer Science,Data Analysis,Java,None,10,9,Yes,Senior,Software Developer
+MBA,IT,Cloud,Data Analysis,Azure,12,1,Yes,Expert,Data Analyst
+MBA,IT,Python,SQL,Azure,12,0,Yes,Expert,Data Analyst
+B.Tech,AI,Data Analysis,Machine Learning,Data Analytics,14,1,Yes,Expert,ML Engineer
+M.Tech,Computer Science,C++,Cloud,None,1,2,Yes,Junior,Software Developer
+MCA,Business,Machine Learning,Python,GCP,8,6,Yes,Senior,ML Engineer
+B.Tech,IT,C++,Cloud,AI Specialist,2,1,Yes,Junior,AI Engineer
+MCA,IT,SQL,Machine Learning,GCP,5,4,Yes,Mid,ML Engineer
+B.Tech,Data Science,Java,Deep Learning,None,3,1,Yes,Mid,ML Engineer
+MBA,IT,C++,Machine Learning,GCP,0,6,Yes,Fresher,ML Engineer
+MCA,IT,Deep Learning,Python,None,8,9,Yes,Senior,ML Engineer
+MBA,AI,Data Analysis,Deep Learning,AI Specialist,10,7,No,Senior,ML Engineer
+MCA,Computer Science,Java,Deep Learning,AWS,14,7,Yes,Expert,ML Engineer
+BCA,Electronics,Machine Learning,Data Analysis,AI Specialist,5,7,Yes,Mid,ML Engineer
+B.Tech,Computer Science,Java,Python,AWS,7,9,Yes,Senior,Software Developer
+BCA,Data Science,C++,Deep Learning,Cybersecurity,14,8,Yes,Expert,ML Engineer
+B.Tech,Computer Science,C++,Java,AWS,14,0,Yes,Expert,Software Developer
+M.Tech,IT,Deep Learning,SQL,Azure,1,0,Yes,Junior,ML Engineer
+MCA,Data Science,Python,Cloud,Azure,6,9,Yes,Senior,Data Scientist
+M.Tech,Computer Science,Data Analysis,Java,AI Specialist,5,1,No,Mid,Software Developer
+M.Tech,Data Science,Deep Learning,Java,Azure,1,5,Yes,Junior,ML Engineer
+B.Tech,Electronics,C++,Python,Azure,1,0,Yes,Junior,Security Analyst
+BCA,Computer Science,Cloud,Data Analysis,Cybersecurity,3,4,No,Mid,Data Analyst
+MBA,Business,Java,Python,Azure,3,4,Yes,Mid,Business Analyst
+B.Tech,IT,Deep Learning,Cloud,Data Analytics,2,3,No,Junior,ML Engineer
+MBA,Data Science,Deep Learning,SQL,Data Analytics,7,4,Yes,Senior,ML Engineer
+M.Tech,Business,Data Analysis,Machine Learning,Data Analytics,13,0,Yes,Expert,ML Engineer
+MBA,Business,Cloud,Java,AWS,6,5,Yes,Senior,Cloud Engineer
+BCA,AI,Cloud,Deep Learning,AI Specialist,1,6,No,Junior,ML Engineer
+B.Tech,Data Science,Cloud,SQL,AI Specialist,2,7,No,Junior,Data Analyst
+BCA,Business,Data Analysis,Java,GCP,9,1,Yes,Senior,Data Analyst
+BCA,AI,Python,Machine Learning,Cybersecurity,8,6,Yes,Senior,Data Scientist
+B.Tech,Business,C++,Data Analysis,Data Analytics,12,5,Yes,Expert,Data Analyst
+BCA,IT,C++,Deep Learning,Data Analytics,4,8,Yes,Mid,ML Engineer
+MCA,Electronics,Machine Learning,Java,Azure,1,7,No,Junior,ML Engineer
+MCA,AI,Data Analysis,C++,Data Analytics,2,3,Yes,Junior,Data Analyst
+MCA,Electronics,Python,Cloud,Azure,7,8,Yes,Senior,Cloud Engineer
+MBA,Data Science,Machine Learning,SQL,Azure,3,0,No,Mid,ML Engineer
+BCA,IT,Machine Learning,Cloud,GCP,13,5,No,Expert,ML Engineer
+B.Tech,AI,Machine Learning,Python,AWS,1,7,Yes,Junior,Data Scientist
+B.Tech,Data Science,Data Analysis,Java,Azure,1,3,Yes,Junior,Data Analyst
+MBA,Business,SQL,Deep Learning,Azure,5,1,No,Mid,ML Engineer
+B.Tech,Computer Science,Machine Learning,Deep Learning,AI Specialist,7,1,Yes,Senior,ML Engineer
+MCA,Data Science,Deep Learning,SQL,GCP,6,9,Yes,Senior,ML Engineer
+BCA,Electronics,Java,SQL,Azure,3,0,Yes,Mid,Data Analyst
+B.Tech,IT,Deep Learning,Cloud,Cybersecurity,1,4,No,Junior,ML Engineer
+B.Tech,IT,Deep Learning,Deep Learning,AWS,8,5,Yes,Senior,ML Engineer
+M.Tech,Data Science,C++,Deep Learning,Cybersecurity,3,3,Yes,Mid,ML Engineer
+M.Tech,Business,SQL,Deep Learning,Data Analytics,8,3,Yes,Senior,ML Engineer
+M.Tech,Computer Science,Data Analysis,Java,AWS,4,4,No,Mid,Software Developer
+BCA,Electronics,Machine Learning,Deep Learning,Data Analytics,13,4,No,Expert,ML Engineer
+MCA,Data Science,C++,Python,AI Specialist,11,8,No,Expert,Data Scientist
+MCA,Data Science,Python,Deep Learning,None,14,7,Yes,Expert,Data Scientist
+MCA,IT,Python,Python,None,11,8,No,Expert,AI Engineer
+BCA,Electronics,Data Analysis,Java,None,10,2,No,Senior,Data Analyst
+BCA,Computer Science,C++,SQL,Azure,10,2,No,Senior,Data Analyst
+M.Tech,IT,Java,Data Analysis,GCP,13,0,No,Expert,Software Developer
+B.Tech,Data Science,Data Analysis,Python,Cybersecurity,6,9,Yes,Senior,Data Scientist
+MBA,IT,C++,Java,Data Analytics,11,5,Yes,Expert,Software Developer
+MBA,IT,C++,Data Analysis,Azure,4,3,No,Mid,Data Analyst
+B.Tech,AI,SQL,Data Analysis,None,14,7,No,Expert,Data Analyst
+M.Tech,IT,Data Analysis,Deep Learning,Cybersecurity,1,1,Yes,Junior,ML Engineer
+B.Tech,Business,Python,Java,Cybersecurity,5,1,Yes,Mid,Security Analyst
+B.Tech,IT,Python,Data Analysis,AI Specialist,6,6,Yes,Senior,Data Analyst
+MBA,Business,Machine Learning,Deep Learning,AI Specialist,13,4,Yes,Expert,ML Engineer
+M.Tech,Electronics,Deep Learning,Cloud,None,14,0,Yes,Expert,ML Engineer
+BCA,IT,Data Analysis,Java,Data Analytics,10,6,No,Senior,Software Developer
+MBA,Computer Science,C++,Data Analysis,None,12,6,Yes,Expert,Data Analyst
+BCA,Business,Data Analysis,SQL,None,5,9,Yes,Mid,Data Analyst
+M.Tech,Business,C++,Python,Azure,12,5,Yes,Expert,Business Analyst
+B.Tech,Data Science,Java,Cloud,GCP,13,3,Yes,Expert,Cloud Engineer
+MCA,Electronics,Data Analysis,SQL,None,2,7,Yes,Junior,Data Analyst
+MCA,IT,Cloud,C++,Data Analytics,9,1,Yes,Senior,Software Developer
+M.Tech,Computer Science,Cloud,Deep Learning,Cybersecurity,7,1,Yes,Senior,ML Engineer
+MCA,Data Science,Python,Data Analysis,Cybersecurity,2,1,Yes,Junior,Data Scientist
+BCA,Electronics,Java,Python,AWS,13,2,Yes,Expert,Security Analyst
+MCA,Business,SQL,SQL,None,4,5,Yes,Mid,Data Analyst
+M.Tech,Computer Science,Machine Learning,Python,Azure,8,0,Yes,Senior,ML Engineer
+M.Tech,IT,Java,C++,AWS,10,1,Yes,Senior,Software Developer
+BCA,AI,Python,Machine Learning,AI Specialist,4,9,No,Mid,Data Scientist
+MCA,AI,SQL,Deep Learning,GCP,14,1,Yes,Expert,ML Engineer
+MCA,Electronics,C++,Deep Learning,Data Analytics,6,0,No,Senior,ML Engineer
+B.Tech,Computer Science,SQL,Java,None,10,2,Yes,Senior,Software Developer
+MBA,Data Science,Deep Learning,Data Analysis,Cybersecurity,13,9,No,Expert,ML Engineer
+M.Tech,Computer Science,Data Analysis,Deep Learning,Azure,6,6,Yes,Senior,ML Engineer
+B.Tech,Business,Java,Deep Learning,Cybersecurity,4,0,Yes,Mid,ML Engineer
+M.Tech,AI,Python,SQL,None,1,6,Yes,Junior,Data Scientist
+B.Tech,Electronics,Java,Cloud,AI Specialist,4,4,Yes,Mid,Security Analyst
+MBA,IT,C++,Deep Learning,AWS,6,8,Yes,Senior,ML Engineer
+B.Tech,Computer Science,Cloud,Deep Learning,None,6,1,Yes,Senior,ML Engineer
+M.Tech,AI,C++,Data Analysis,AWS,3,0,No,Mid,Data Analyst
+MCA,Data Science,Python,C++,Data Analytics,0,8,Yes,Fresher,Data Scientist
+M.Tech,Electronics,Deep Learning,Cloud,Azure,5,7,Yes,Mid,ML Engineer
+BCA,IT,Machine Learning,C++,AI Specialist,12,9,Yes,Expert,ML Engineer
+BCA,Computer Science,Data Analysis,Data Analysis,Azure,14,5,No,Expert,Data Analyst
+BCA,Data Science,Data Analysis,Python,Data Analytics,13,4,Yes,Expert,Data Scientist
+BCA,IT,SQL,Python,AI Specialist,2,7,Yes,Junior,Data Analyst
+MBA,Business,SQL,Deep Learning,AI Specialist,10,7,Yes,Senior,ML Engineer
+MCA,AI,C++,Deep Learning,AWS,4,4,Yes,Mid,ML Engineer
+MCA,Business,Java,Java,AWS,3,6,No,Mid,Business Analyst
+M.Tech,AI,Cloud,Python,AWS,14,0,No,Expert,Data Scientist
+B.Tech,Data Science,Java,SQL,Cybersecurity,12,3,Yes,Expert,Data Analyst
+M.Tech,Business,Deep Learning,Deep Learning,GCP,1,1,Yes,Junior,ML Engineer
+M.Tech,AI,Machine Learning,SQL,None,11,9,Yes,Expert,ML Engineer
+M.Tech,Electronics,Data Analysis,Deep Learning,AWS,14,2,Yes,Expert,ML Engineer
+M.Tech,Data Science,Java,Data Analysis,GCP,6,0,Yes,Senior,Data Analyst
+MCA,AI,Data Analysis,SQL,GCP,13,1,Yes,Expert,Data Analyst
+B.Tech,Computer Science,SQL,Machine Learning,Azure,4,0,Yes,Mid,ML Engineer
+M.Tech,AI,Data Analysis,SQL,Data Analytics,14,7,No,Expert,Data Analyst
+MCA,Business,Cloud,Cloud,Cybersecurity,13,3,Yes,Expert,Security Analyst
+M.Tech,Electronics,Data Analysis,Python,GCP,6,2,No,Senior,Data Analyst
+BCA,IT,Java,Deep Learning,None,8,0,No,Senior,ML Engineer
+M.Tech,IT,Cloud,Python,Cybersecurity,3,1,No,Mid,Security Analyst
+M.Tech,AI,Data Analysis,Cloud,Azure,4,2,Yes,Mid,Data Analyst
+MBA,IT,Machine Learning,Cloud,AWS,8,2,No,Senior,ML Engineer
+BCA,AI,SQL,SQL,AI Specialist,12,5,No,Expert,Data Analyst
+B.Tech,Electronics,Data Analysis,C++,GCP,9,9,Yes,Senior,Data Analyst
+M.Tech,IT,Cloud,C++,Data Analytics,10,7,Yes,Senior,Data Analyst
+B.Tech,Business,Java,Cloud,AI Specialist,13,5,Yes,Expert,Business Analyst
+BCA,Business,SQL,C++,Azure,12,1,No,Expert,Data Analyst
+M.Tech,Computer Science,C++,Deep Learning,Cybersecurity,3,1,No,Mid,ML Engineer
+MBA,AI,C++,Java,None,4,6,No,Mid,Software Developer
+MCA,IT,Deep Learning,Machine Learning,AWS,12,0,No,Expert,ML Engineer
+MBA,Business,C++,SQL,Cybersecurity,4,0,Yes,Mid,Data Analyst
+MBA,Electronics,Java,Java,Data Analytics,7,6,Yes,Senior,Security Analyst
+MCA,Electronics,Machine Learning,C++,GCP,14,8,Yes,Expert,ML Engineer
+MCA,Computer Science,SQL,SQL,Data Analytics,12,4,Yes,Expert,Data Analyst
+MCA,Electronics,Cloud,Java,Cybersecurity,14,0,Yes,Expert,Security Analyst
+M.Tech,Electronics,Python,Python,Cybersecurity,3,4,No,Mid,Security Analyst
+B.Tech,IT,C++,C++,AI Specialist,3,0,No,Mid,Software Developer
+B.Tech,AI,C++,Data Analysis,Data Analytics,12,9,Yes,Expert,Data Analyst
+MCA,Data Science,Python,Java,Data Analytics,6,8,Yes,Senior,Data Scientist
+MBA,Electronics,Cloud,Data Analysis,Data Analytics,10,3,Yes,Senior,Data Analyst
+BCA,Electronics,Cloud,Deep Learning,AWS,4,8,Yes,Mid,ML Engineer
+MCA,Data Science,Python,Python,None,5,1,Yes,Mid,Data Scientist
+MBA,Electronics,Cloud,C++,Cybersecurity,5,6,Yes,Mid,Security Analyst
+MBA,IT,Java,Machine Learning,Azure,11,1,No,Expert,ML Engineer
+M.Tech,IT,Cloud,Cloud,AWS,5,3,No,Mid,Cloud Engineer
+M.Tech,Data Science,SQL,C++,AWS,13,5,No,Expert,Data Analyst
+B.Tech,Business,Cloud,Data Analysis,AWS,9,1,Yes,Senior,Data Analyst
+B.Tech,Electronics,Data Analysis,Deep Learning,AI Specialist,4,1,Yes,Mid,ML Engineer
+BCA,Business,Data Analysis,Machine Learning,None,12,1,Yes,Expert,ML Engineer
+BCA,Electronics,C++,Machine Learning,None,12,2,No,Expert,ML Engineer
+BCA,AI,Machine Learning,Machine Learning,Azure,4,4,No,Mid,ML Engineer
+BCA,Electronics,Java,SQL,Data Analytics,8,8,Yes,Senior,Data Analyst
+MBA,IT,Java,SQL,AI Specialist,12,5,No,Expert,Software Developer
+MBA,Computer Science,Cloud,Data Analysis,Cybersecurity,7,8,Yes,Senior,Data Analyst
+B.Tech,Computer Science,Machine Learning,Cloud,GCP,14,9,Yes,Expert,ML Engineer
+M.Tech,Computer Science,Machine Learning,Machine Learning,AI Specialist,3,4,No,Mid,ML Engineer
+M.Tech,Computer Science,Deep Learning,Cloud,GCP,6,5,No,Senior,ML Engineer
+MCA,Business,Machine Learning,Python,Cybersecurity,7,9,Yes,Senior,ML Engineer
+MBA,Business,Cloud,Machine Learning,Azure,11,7,Yes,Expert,ML Engineer
+BCA,Electronics,Cloud,Java,None,8,2,Yes,Senior,Security Analyst
+BCA,Business,Python,Machine Learning,GCP,4,1,Yes,Mid,ML Engineer
+MCA,Electronics,C++,Data Analysis,AWS,2,2,No,Junior,Data Analyst
+M.Tech,AI,Data Analysis,SQL,AI Specialist,14,8,Yes,Expert,Data Analyst
+BCA,Electronics,Deep Learning,SQL,GCP,12,5,Yes,Expert,ML Engineer
+M.Tech,Computer Science,Cloud,Java,Cybersecurity,3,9,Yes,Mid,Software Developer
+MCA,Data Science,Python,Java,None,14,3,No,Expert,Data Scientist
+M.Tech,Data Science,Deep Learning,C++,AWS,9,9,No,Senior,ML Engineer
+M.Tech,IT,C++,Python,GCP,5,2,No,Mid,Data Analyst
+M.Tech,IT,Deep Learning,Python,None,9,1,Yes,Senior,ML Engineer
+BCA,Electronics,Python,Data Analysis,Cybersecurity,10,3,No,Senior,Data Analyst
+B.Tech,Data Science,SQL,Data Analysis,Azure,4,8,Yes,Mid,Data Analyst
+MBA,Computer Science,Data Analysis,Data Analysis,Cybersecurity,8,3,Yes,Senior,Data Analyst
+M.Tech,Business,Cloud,Data Analysis,Azure,12,4,No,Expert,Data Analyst
+M.Tech,Computer Science,Data Analysis,Data Analysis,None,10,7,Yes,Senior,Data Analyst
+M.Tech,Computer Science,C++,Data Analysis,None,10,1,Yes,Senior,Data Analyst
+B.Tech,Electronics,Java,Python,AWS,13,2,Yes,Expert,Security Analyst
+MCA,Electronics,C++,Deep Learning,Cybersecurity,2,5,Yes,Junior,ML Engineer
+BCA,AI,C++,SQL,Data Analytics,1,6,Yes,Junior,Data Analyst
+B.Tech,Computer Science,C++,Python,AI Specialist,5,3,No,Mid,Software Developer
+M.Tech,Computer Science,SQL,Data Analysis,Data Analytics,12,0,Yes,Expert,Data Analyst
+B.Tech,Electronics,Cloud,C++,Data Analytics,6,6,Yes,Senior,Security Analyst
+B.Tech,Electronics,Python,C++,Data Analytics,4,8,No,Mid,Security Analyst
+B.Tech,AI,Cloud,Python,AI Specialist,0,0,No,Fresher,Data Scientist
+MCA,AI,Java,Java,Data Analytics,2,0,Yes,Junior,Data Analyst
+MBA,IT,Python,C++,Azure,2,0,Yes,Junior,Data Analyst
+BCA,Data Science,Deep Learning,Cloud,Cybersecurity,11,9,Yes,Expert,ML Engineer
+MCA,Computer Science,Deep Learning,Java,None,13,6,Yes,Expert,ML Engineer
+MCA,Computer Science,Deep Learning,Cloud,AWS,3,8,Yes,Mid,ML Engineer
+MBA,AI,Python,SQL,Data Analytics,13,2,Yes,Expert,Data Scientist
+MCA,AI,Machine Learning,Deep Learning,None,9,7,Yes,Senior,ML Engineer
+B.Tech,IT,SQL,C++,Data Analytics,5,8,Yes,Mid,Data Analyst
+B.Tech,Data Science,Machine Learning,Java,AWS,4,2,Yes,Mid,ML Engineer
+M.Tech,IT,Cloud,Data Analysis,AWS,0,2,Yes,Fresher,Data Analyst
+MCA,Data Science,Deep Learning,Cloud,Data Analytics,14,0,Yes,Expert,ML Engineer
+M.Tech,Business,SQL,Python,Azure,5,1,Yes,Mid,Data Analyst
+BCA,Computer Science,Python,Cloud,None,13,6,Yes,Expert,AI Engineer
+B.Tech,IT,Deep Learning,Cloud,AWS,13,2,Yes,Expert,ML Engineer
+BCA,AI,Python,SQL,Cybersecurity,8,6,Yes,Senior,Data Scientist
+MBA,IT,SQL,Machine Learning,None,10,4,No,Senior,ML Engineer
+B.Tech,Business,Python,Machine Learning,Cybersecurity,0,9,Yes,Fresher,ML Engineer
+BCA,IT,Python,Python,None,7,7,Yes,Senior,AI Engineer
+MBA,Computer Science,Java,SQL,Azure,7,4,Yes,Senior,Software Developer
+BCA,Business,Cloud,SQL,AI Specialist,2,2,Yes,Junior,Data Analyst
+MBA,AI,Machine Learning,Data Analysis,GCP,14,8,No,Expert,ML Engineer
+MBA,AI,Data Analysis,SQL,Azure,12,6,Yes,Expert,Data Analyst
+B.Tech,Electronics,Machine Learning,SQL,Data Analytics,8,4,Yes,Senior,ML Engineer
+M.Tech,Business,Machine Learning,Machine Learning,GCP,10,6,Yes,Senior,ML Engineer
+MBA,Electronics,C++,Java,Data Analytics,12,9,No,Expert,Security Analyst
+MBA,Electronics,Java,SQL,Cybersecurity,12,8,No,Expert,Data Analyst
+B.Tech,Computer Science,Data Analysis,Java,AWS,10,4,Yes,Senior,Software Developer
+M.Tech,IT,Deep Learning,Cloud,None,7,6,Yes,Senior,ML Engineer
+MCA,AI,Deep Learning,Cloud,Data Analytics,2,8,No,Junior,ML Engineer
+MCA,AI,Deep Learning,SQL,Cybersecurity,9,0,No,Senior,ML Engineer
+M.Tech,IT,Machine Learning,C++,Azure,4,3,Yes,Mid,ML Engineer
+BCA,AI,Cloud,Deep Learning,Data Analytics,2,0,Yes,Junior,ML Engineer
+B.Tech,IT,Machine Learning,C++,Cybersecurity,4,7,Yes,Mid,ML Engineer
+M.Tech,Business,Data Analysis,Cloud,AWS,8,2,Yes,Senior,Data Analyst
+MCA,Computer Science,Cloud,Deep Learning,None,14,1,Yes,Expert,ML Engineer
+MBA,Computer Science,Java,C++,Data Analytics,11,3,Yes,Expert,Software Developer
+MCA,Computer Science,Cloud,SQL,AI Specialist,3,2,No,Mid,Data Analyst
+MBA,IT,Data Analysis,Java,Cybersecurity,5,4,Yes,Mid,Software Developer
+B.Tech,IT,Python,Deep Learning,Data Analytics,2,7,No,Junior,ML Engineer
+MBA,Data Science,Machine Learning,Machine Learning,AWS,2,9,Yes,Junior,ML Engineer
+M.Tech,AI,Deep Learning,Python,None,4,7,No,Mid,Data Scientist
+MBA,AI,Python,Deep Learning,Data Analytics,7,6,Yes,Senior,Data Scientist
+BCA,Data Science,Machine Learning,Deep Learning,Data Analytics,13,7,Yes,Expert,ML Engineer
+M.Tech,Data Science,SQL,Machine Learning,None,7,4,Yes,Senior,ML Engineer
+B.Tech,Computer Science,C++,SQL,AI Specialist,2,9,Yes,Junior,Data Analyst
+M.Tech,Data Science,Machine Learning,C++,Cybersecurity,7,9,No,Senior,ML Engineer
+BCA,IT,SQL,C++,GCP,12,5,Yes,Expert,Data Analyst
+B.Tech,Electronics,Data Analysis,Cloud,None,10,7,Yes,Senior,Data Analyst
+MCA,IT,Java,Java,Data Analytics,12,0,Yes,Expert,Software Developer
+BCA,Data Science,SQL,SQL,GCP,7,5,No,Senior,Data Analyst
+B.Tech,AI,Java,Machine Learning,Azure,2,5,Yes,Junior,ML Engineer
+MBA,IT,Machine Learning,SQL,Data Analytics,9,4,Yes,Senior,ML Engineer
+M.Tech,AI,Java,SQL,GCP,14,3,Yes,Expert,Data Analyst
+B.Tech,IT,SQL,C++,Azure,12,0,Yes,Expert,Data Analyst
+M.Tech,AI,Cloud,Machine Learning,AI Specialist,14,9,No,Expert,ML Engineer
+MBA,Business,C++,Data Analysis,Cybersecurity,9,7,Yes,Senior,Data Analyst
+B.Tech,IT,Python,Python,Data Analytics,1,5,Yes,Junior,Software Developer
+MCA,AI,Python,Deep Learning,Cybersecurity,9,2,Yes,Senior,Data Scientist
+BCA,Electronics,C++,C++,Azure,1,2,Yes,Junior,Security Analyst
+B.Tech,Computer Science,Deep Learning,Machine Learning,Cybersecurity,8,5,Yes,Senior,ML Engineer
+MBA,IT,Python,Java,Cybersecurity,6,6,Yes,Senior,Software Developer
+B.Tech,Electronics,Data Analysis,Deep Learning,None,5,7,Yes,Mid,ML Engineer
+M.Tech,Computer Science,Machine Learning,Deep Learning,AWS,6,4,Yes,Senior,ML Engineer
+B.Tech,IT,Deep Learning,Data Analysis,Azure,7,9,Yes,Senior,ML Engineer
+MCA,Electronics,Machine Learning,Data Analysis,Cybersecurity,11,5,Yes,Expert,ML Engineer
+B.Tech,Electronics,SQL,C++,GCP,0,0,Yes,Fresher,Data Analyst
+BCA,Business,Data Analysis,Cloud,Azure,7,5,No,Senior,Data Analyst
+B.Tech,Electronics,SQL,Java,AWS,2,8,No,Junior,Data Analyst
+M.Tech,Business,Deep Learning,C++,Data Analytics,2,9,Yes,Junior,ML Engineer
+B.Tech,Data Science,Deep Learning,SQL,AI Specialist,5,3,Yes,Mid,ML Engineer
+MCA,AI,Data Analysis,Cloud,Cybersecurity,3,9,Yes,Mid,Data Analyst
+MBA,Computer Science,Data Analysis,Machine Learning,GCP,3,0,No,Mid,ML Engineer
+B.Tech,AI,Deep Learning,Data Analysis,AWS,3,8,No,Mid,ML Engineer
+B.Tech,AI,Deep Learning,Java,Azure,9,3,Yes,Senior,ML Engineer
+BCA,Business,Java,Deep Learning,AI Specialist,8,1,Yes,Senior,ML Engineer
+MCA,AI,Cloud,C++,AI Specialist,7,0,Yes,Senior,AI Engineer
+MBA,Electronics,Deep Learning,Data Analysis,Cybersecurity,2,2,Yes,Junior,ML Engineer
+M.Tech,Business,Data Analysis,Deep Learning,AWS,0,6,No,Fresher,ML Engineer
+B.Tech,AI,Cloud,Java,AWS,0,9,Yes,Fresher,Cloud Engineer
+MBA,Business,Deep Learning,Data Analysis,GCP,0,1,No,Fresher,ML Engineer
+M.Tech,Data Science,SQL,Data Analysis,Data Analytics,3,8,Yes,Mid,Data Analyst
+MCA,Business,Machine Learning,Deep Learning,Data Analytics,13,1,Yes,Expert,ML Engineer
+MCA,IT,Cloud,C++,None,5,4,Yes,Mid,AI Engineer
+MBA,Electronics,SQL,Cloud,Data Analytics,3,7,Yes,Mid,Data Analyst
+M.Tech,Computer Science,Python,C++,None,10,9,No,Senior,AI Engineer
+MCA,IT,Data Analysis,Python,AI Specialist,10,7,Yes,Senior,Data Analyst
+MBA,IT,Java,Data Analysis,AI Specialist,2,2,Yes,Junior,Software Developer
+MCA,IT,Java,Deep Learning,Azure,7,1,Yes,Senior,ML Engineer
+MCA,AI,Machine Learning,Python,AI Specialist,13,8,Yes,Expert,Data Scientist
+MCA,Business,Deep Learning,Cloud,AI Specialist,7,2,Yes,Senior,ML Engineer
+BCA,Business,SQL,Python,AWS,5,7,No,Mid,Data Analyst
+M.Tech,AI,Python,Deep Learning,Azure,8,1,Yes,Senior,Data Scientist
+MBA,Electronics,SQL,Java,AWS,11,2,Yes,Expert,Data Analyst
+MBA,AI,Data Analysis,SQL,GCP,9,0,No,Senior,Data Analyst
+M.Tech,AI,Data Analysis,Cloud,None,0,5,Yes,Fresher,Data Analyst
+M.Tech,AI,Deep Learning,C++,None,12,6,Yes,Expert,ML Engineer
+M.Tech,Electronics,Deep Learning,Machine Learning,GCP,7,3,Yes,Senior,ML Engineer
+M.Tech,Electronics,Data Analysis,Cloud,None,5,0,Yes,Mid,Data Analyst
+B.Tech,Data Science,C++,Python,Azure,0,2,No,Fresher,Data Scientist
+MBA,Data Science,Data Analysis,Java,Azure,3,8,Yes,Mid,Data Analyst
+B.Tech,Data Science,SQL,Deep Learning,AI Specialist,4,4,Yes,Mid,ML Engineer
+MCA,Data Science,Machine Learning,Java,None,6,5,Yes,Senior,ML Engineer
+MCA,Business,SQL,Java,GCP,7,3,Yes,Senior,Data Analyst
+MBA,IT,Java,Deep Learning,Cybersecurity,8,0,Yes,Senior,ML Engineer
+MCA,IT,Python,Machine Learning,Data Analytics,11,4,Yes,Expert,ML Engineer
+M.Tech,Data Science,Cloud,Deep Learning,AI Specialist,11,4,No,Expert,ML Engineer
+B.Tech,Data Science,Machine Learning,Machine Learning,Data Analytics,5,4,Yes,Mid,ML Engineer
+M.Tech,Computer Science,C++,Deep Learning,GCP,9,5,Yes,Senior,ML Engineer
+MCA,IT,Python,Python,None,8,1,Yes,Senior,Data Analyst
+B.Tech,Computer Science,Python,Machine Learning,None,3,0,Yes,Mid,ML Engineer
+M.Tech,Computer Science,Cloud,Python,Data Analytics,7,1,Yes,Senior,AI Engineer
+MBA,AI,Java,Cloud,Cybersecurity,2,9,Yes,Junior,Security Analyst
+M.Tech,Business,Java,Machine Learning,None,3,5,Yes,Mid,ML Engineer
+MCA,Electronics,Java,Machine Learning,Cybersecurity,9,4,Yes,Senior,ML Engineer
+B.Tech,IT,Machine Learning,Deep Learning,AWS,3,4,Yes,Mid,ML Engineer
+MBA,Data Science,SQL,Machine Learning,Azure,5,5,Yes,Mid,ML Engineer
+B.Tech,Data Science,Python,Python,Data Analytics,14,9,Yes,Expert,Data Scientist
+MBA,Electronics,SQL,Data Analysis,None,8,6,No,Senior,Data Analyst
+B.Tech,IT,SQL,Cloud,Cybersecurity,5,8,Yes,Mid,Data Analyst
+MCA,Data Science,Java,Data Analysis,None,0,6,No,Fresher,Data Analyst
+MBA,Data Science,SQL,Deep Learning,Azure,4,1,Yes,Mid,ML Engineer
+BCA,AI,Python,C++,Azure,8,5,No,Senior,Data Scientist
+B.Tech,Computer Science,Python,Cloud,AWS,4,8,Yes,Mid,Cloud Engineer
+B.Tech,Data Science,Deep Learning,Data Analysis,Azure,5,6,Yes,Mid,ML Engineer
+M.Tech,Business,C++,Cloud,Azure,2,1,No,Junior,Cloud Engineer
+MBA,IT,Machine Learning,Data Analysis,AI Specialist,7,2,Yes,Senior,ML Engineer
+BCA,Business,SQL,Python,GCP,9,7,Yes,Senior,Data Analyst
+MCA,Electronics,Machine Learning,Data Analysis,None,10,8,No,Senior,ML Engineer
+M.Tech,AI,Machine Learning,Cloud,AWS,12,3,Yes,Expert,ML Engineer
+BCA,IT,Machine Learning,C++,AWS,3,8,Yes,Mid,ML Engineer
+MBA,AI,Cloud,Java,Data Analytics,3,1,Yes,Mid,Software Developer
+BCA,Computer Science,Data Analysis,Deep Learning,Azure,10,4,Yes,Senior,ML Engineer
+B.Tech,Data Science,Deep Learning,Java,Data Analytics,11,1,Yes,Expert,ML Engineer
+B.Tech,IT,Machine Learning,Deep Learning,AI Specialist,4,0,No,Mid,ML Engineer
+M.Tech,Electronics,Data Analysis,Cloud,Cybersecurity,13,4,Yes,Expert,Data Analyst
+MBA,Computer Science,Data Analysis,Deep Learning,Azure,9,1,No,Senior,ML Engineer
+MBA,Computer Science,Deep Learning,Data Analysis,Cybersecurity,14,6,Yes,Expert,ML Engineer
+BCA,AI,Python,Python,GCP,8,7,No,Senior,Data Scientist
+M.Tech,Computer Science,Cloud,C++,AI Specialist,12,1,Yes,Expert,AI Engineer
+MBA,IT,SQL,Deep Learning,Azure,7,6,No,Senior,ML Engineer
+B.Tech,AI,Deep Learning,C++,Data Analytics,6,3,Yes,Senior,ML Engineer
+BCA,Computer Science,C++,Deep Learning,Data Analytics,4,0,No,Mid,ML Engineer
+MCA,Electronics,Data Analysis,C++,Azure,8,2,Yes,Senior,Data Analyst
+B.Tech,Business,Machine Learning,Java,None,8,0,Yes,Senior,ML Engineer
+M.Tech,IT,Data Analysis,Python,Data Analytics,9,4,Yes,Senior,Data Analyst
+MBA,Electronics,Cloud,Deep Learning,None,9,7,Yes,Senior,ML Engineer
+B.Tech,Electronics,C++,SQL,Azure,1,0,Yes,Junior,Data Analyst
+MCA,AI,Python,C++,AWS,3,8,Yes,Mid,Data Scientist
+MCA,Data Science,Python,C++,Data Analytics,7,2,Yes,Senior,Data Scientist
+M.Tech,AI,Java,Data Analysis,None,12,4,Yes,Expert,Data Analyst
+B.Tech,IT,Machine Learning,SQL,Azure,13,8,Yes,Expert,ML Engineer
+BCA,IT,Java,Python,Azure,0,4,Yes,Fresher,Software Developer
+B.Tech,AI,Cloud,C++,None,12,8,No,Expert,AI Engineer
+MCA,Data Science,C++,Python,Data Analytics,14,9,No,Expert,Data Scientist
+M.Tech,AI,Data Analysis,C++,AWS,4,7,Yes,Mid,Data Analyst
+M.Tech,IT,SQL,Cloud,Data Analytics,7,6,Yes,Senior,Data Analyst
+BCA,Data Science,Java,Machine Learning,Azure,1,0,Yes,Junior,ML Engineer
+M.Tech,IT,Python,Cloud,AWS,1,3,No,Junior,Cloud Engineer
+M.Tech,Data Science,Machine Learning,C++,Cybersecurity,12,8,Yes,Expert,ML Engineer
+M.Tech,Data Science,Data Analysis,Machine Learning,GCP,7,9,Yes,Senior,ML Engineer
+M.Tech,AI,C++,Deep Learning,Data Analytics,9,7,Yes,Senior,ML Engineer
+M.Tech,AI,Deep Learning,Python,AI Specialist,11,3,No,Expert,Data Scientist
+MCA,AI,Cloud,C++,Azure,8,0,Yes,Senior,Cloud Engineer
+B.Tech,Data Science,Cloud,Data Analysis,AWS,6,9,Yes,Senior,Data Analyst
+MBA,Data Science,Python,Java,None,7,3,Yes,Senior,Data Scientist
+M.Tech,IT,Deep Learning,Data Analysis,None,4,2,Yes,Mid,ML Engineer
+MBA,Electronics,Cloud,Java,None,0,5,Yes,Fresher,Security Analyst
+MBA,AI,SQL,SQL,AWS,3,4,Yes,Mid,Data Analyst
+MCA,Business,Data Analysis,Java,Cybersecurity,14,4,No,Expert,Data Analyst
+M.Tech,IT,Machine Learning,Machine Learning,Data Analytics,1,1,Yes,Junior,ML Engineer
+MBA,IT,Data Analysis,Java,AI Specialist,2,2,No,Junior,Software Developer
+M.Tech,Computer Science,SQL,Java,None,11,5,Yes,Expert,Software Developer
+BCA,AI,Cloud,Java,AWS,2,1,Yes,Junior,Cloud Engineer
+BCA,IT,SQL,C++,None,8,3,No,Senior,Data Analyst
+BCA,Computer Science,Data Analysis,SQL,Cybersecurity,12,1,Yes,Expert,Data Analyst
+MBA,Business,Cloud,Python,Azure,14,8,Yes,Expert,Cloud Engineer
+BCA,Business,Machine Learning,SQL,None,9,2,No,Senior,ML Engineer
+MCA,AI,Machine Learning,Data Analysis,Cybersecurity,14,9,Yes,Expert,ML Engineer
+MCA,Data Science,Deep Learning,Machine Learning,Data Analytics,3,9,Yes,Mid,ML Engineer
+MBA,Computer Science,SQL,C++,None,1,5,No,Junior,Data Analyst
+M.Tech,Data Science,C++,Deep Learning,Cybersecurity,2,0,Yes,Junior,ML Engineer
+B.Tech,Business,Deep Learning,C++,AWS,2,9,Yes,Junior,ML Engineer
+M.Tech,Business,Machine Learning,Cloud,AWS,13,2,No,Expert,ML Engineer
+M.Tech,Electronics,Python,Java,GCP,6,7,Yes,Senior,Security Analyst
+M.Tech,Electronics,Cloud,Data Analysis,Cybersecurity,7,4,Yes,Senior,Data Analyst
+M.Tech,Electronics,Deep Learning,Java,Azure,12,7,No,Expert,ML Engineer
+B.Tech,Electronics,Java,Machine Learning,None,10,1,Yes,Senior,ML Engineer
+BCA,IT,C++,Deep Learning,AI Specialist,12,6,No,Expert,ML Engineer
+M.Tech,Electronics,Cloud,Data Analysis,AI Specialist,5,8,No,Mid,Data Analyst
+MCA,IT,Deep Learning,Cloud,Data Analytics,3,6,Yes,Mid,ML Engineer
+MBA,IT,Machine Learning,C++,GCP,5,2,Yes,Mid,ML Engineer
+MBA,AI,Data Analysis,Deep Learning,Cybersecurity,12,6,Yes,Expert,ML Engineer
+MCA,IT,Machine Learning,Python,Azure,10,7,Yes,Senior,ML Engineer
+M.Tech,IT,C++,SQL,GCP,0,0,No,Fresher,Data Analyst
+B.Tech,Electronics,Java,C++,AWS,12,2,Yes,Expert,Security Analyst
+BCA,IT,Deep Learning,Deep Learning,Data Analytics,9,4,Yes,Senior,ML Engineer
+MBA,Data Science,Data Analysis,Python,None,7,5,Yes,Senior,Data Scientist
+BCA,Electronics,Deep Learning,Python,None,0,2,No,Fresher,ML Engineer
+B.Tech,Computer Science,SQL,Cloud,None,14,3,Yes,Expert,Data Analyst
+MBA,Electronics,Python,Cloud,Cybersecurity,4,4,No,Mid,Security Analyst
+BCA,IT,Machine Learning,SQL,AI Specialist,1,2,Yes,Junior,ML Engineer
+B.Tech,Data Science,Deep Learning,Python,Azure,14,3,No,Expert,Data Scientist
+BCA,Electronics,Deep Learning,Data Analysis,None,5,4,Yes,Mid,ML Engineer
+M.Tech,Data Science,Cloud,Machine Learning,None,8,1,Yes,Senior,ML Engineer
+B.Tech,Computer Science,Cloud,Python,AWS,4,9,No,Mid,Cloud Engineer
+BCA,Business,Deep Learning,Deep Learning,GCP,3,8,Yes,Mid,ML Engineer
+M.Tech,Computer Science,Java,Cloud,None,13,9,Yes,Expert,Software Developer
+M.Tech,Business,Python,Machine Learning,Data Analytics,1,7,No,Junior,ML Engineer
+B.Tech,AI,Deep Learning,Data Analysis,GCP,11,5,Yes,Expert,ML Engineer
+MCA,Business,C++,Cloud,AI Specialist,2,9,Yes,Junior,Business Analyst
+MBA,AI,Machine Learning,Data Analysis,GCP,5,2,Yes,Mid,ML Engineer
+B.Tech,Electronics,SQL,Cloud,Azure,7,1,No,Senior,Data Analyst
+M.Tech,AI,Cloud,Cloud,AWS,13,6,Yes,Expert,Cloud Engineer
+M.Tech,Data Science,C++,Python,Cybersecurity,7,7,Yes,Senior,Data Scientist
+B.Tech,AI,Machine Learning,Java,Azure,4,9,Yes,Mid,ML Engineer
+MCA,Data Science,Data Analysis,Python,AI Specialist,4,0,Yes,Mid,Data Scientist
+MBA,Business,Cloud,Cloud,Data Analytics,9,5,No,Senior,Business Analyst
+BCA,Business,Java,Machine Learning,AI Specialist,13,6,Yes,Expert,ML Engineer
+B.Tech,Business,Cloud,Python,AI Specialist,12,8,Yes,Expert,Business Analyst
+MBA,AI,Python,Cloud,GCP,2,2,Yes,Junior,Data Scientist
+MBA,Business,Python,Cloud,Data Analytics,14,1,Yes,Expert,Business Analyst
+M.Tech,AI,Machine Learning,Python,Azure,6,4,No,Senior,Data Scientist
+BCA,AI,C++,Python,AI Specialist,14,9,Yes,Expert,Data Scientist
+B.Tech,IT,SQL,Machine Learning,Azure,12,0,Yes,Expert,ML Engineer
+M.Tech,IT,Java,Data Analysis,None,5,5,Yes,Mid,Software Developer
+M.Tech,AI,Machine Learning,Python,None,14,8,No,Expert,Data Scientist
+MCA,Data Science,Data Analysis,SQL,None,0,9,Yes,Fresher,Data Analyst
+MBA,Electronics,Java,Deep Learning,Cybersecurity,3,8,Yes,Mid,ML Engineer
+B.Tech,Computer Science,Python,SQL,GCP,5,6,No,Mid,Data Analyst
+B.Tech,IT,Deep Learning,Machine Learning,Azure,10,6,No,Senior,ML Engineer
+B.Tech,AI,Deep Learning,Java,None,5,7,No,Mid,ML Engineer
+M.Tech,Computer Science,SQL,SQL,None,10,9,Yes,Senior,Data Analyst
+MCA,IT,Java,Data Analysis,Data Analytics,13,1,No,Expert,Software Developer
+BCA,Electronics,Machine Learning,Cloud,AI Specialist,14,5,Yes,Expert,ML Engineer
+M.Tech,Data Science,SQL,Deep Learning,None,11,4,Yes,Expert,ML Engineer
+BCA,AI,Cloud,C++,Cybersecurity,11,4,Yes,Expert,Security Analyst
+MCA,Electronics,Cloud,Deep Learning,Data Analytics,2,2,Yes,Junior,ML Engineer
+MBA,IT,Data Analysis,SQL,GCP,5,2,No,Mid,Data Analyst
+B.Tech,AI,C++,C++,Cybersecurity,11,5,Yes,Expert,Security Analyst
+BCA,Computer Science,Deep Learning,Machine Learning,Cybersecurity,9,9,No,Senior,ML Engineer
+M.Tech,Business,Machine Learning,Data Analysis,Cybersecurity,5,9,No,Mid,ML Engineer
+BCA,Data Science,Java,Deep Learning,AI Specialist,11,6,Yes,Expert,ML Engineer
+MBA,IT,SQL,Java,None,8,0,No,Senior,Software Developer
+B.Tech,Data Science,Machine Learning,C++,AWS,8,2,Yes,Senior,ML Engineer
+BCA,AI,SQL,C++,Cybersecurity,1,0,Yes,Junior,Data Analyst
+MBA,Business,SQL,Deep Learning,Data Analytics,3,9,No,Mid,ML Engineer
+M.Tech,Electronics,SQL,SQL,Data Analytics,8,2,Yes,Senior,Data Analyst
+MCA,Data Science,Java,C++,GCP,14,4,Yes,Expert,Software Developer
+M.Tech,Computer Science,Machine Learning,Machine Learning,Azure,13,8,Yes,Expert,ML Engineer
+B.Tech,IT,Python,Deep Learning,Azure,12,2,No,Expert,ML Engineer
+M.Tech,Computer Science,Python,Machine Learning,AWS,3,9,Yes,Mid,ML Engineer
+M.Tech,Data Science,Java,Deep Learning,AI Specialist,7,9,Yes,Senior,ML Engineer
+M.Tech,Business,Cloud,Machine Learning,None,9,8,Yes,Senior,ML Engineer
+M.Tech,Electronics,Java,SQL,AI Specialist,11,0,No,Expert,Data Analyst
+B.Tech,Electronics,Deep Learning,Deep Learning,None,2,5,Yes,Junior,ML Engineer
+MBA,Computer Science,SQL,Data Analysis,Cybersecurity,2,8,Yes,Junior,Data Analyst
+BCA,AI,Machine Learning,Cloud,None,8,4,Yes,Senior,ML Engineer
+MCA,AI,Machine Learning,Java,AWS,10,9,Yes,Senior,ML Engineer
+BCA,Business,C++,SQL,GCP,9,1,Yes,Senior,Data Analyst
+BCA,Electronics,C++,Machine Learning,GCP,7,4,Yes,Senior,ML Engineer
+MCA,Computer Science,Data Analysis,Data Analysis,Azure,0,0,Yes,Fresher,Data Analyst
+B.Tech,Computer Science,Python,Deep Learning,GCP,9,8,Yes,Senior,ML Engineer
+MCA,Computer Science,C++,SQL,Cybersecurity,13,9,Yes,Expert,Data Analyst
+B.Tech,Data Science,C++,Machine Learning,Data Analytics,1,9,Yes,Junior,ML Engineer
+BCA,Business,Python,Python,GCP,2,8,Yes,Junior,Business Analyst
+B.Tech,AI,Deep Learning,Python,AWS,13,5,Yes,Expert,Data Scientist
+MBA,AI,Cloud,C++,Cybersecurity,10,8,Yes,Senior,Security Analyst
+MCA,Data Science,Python,Java,GCP,1,2,Yes,Junior,Data Scientist
+MBA,IT,Cloud,Python,AI Specialist,2,3,Yes,Junior,Data Analyst
+BCA,Data Science,Data Analysis,Cloud,None,7,5,Yes,Senior,Data Analyst
+MCA,Business,C++,Machine Learning,GCP,10,3,Yes,Senior,ML Engineer
+BCA,Computer Science,Machine Learning,SQL,AI Specialist,10,0,Yes,Senior,ML Engineer
+MBA,Data Science,C++,Deep Learning,Cybersecurity,11,6,No,Expert,ML Engineer
+BCA,Computer Science,SQL,SQL,GCP,13,4,Yes,Expert,Data Analyst
+MCA,Business,Data Analysis,C++,AI Specialist,5,7,No,Mid,Data Analyst
+MCA,Business,Cloud,Data Analysis,Data Analytics,14,8,Yes,Expert,Data Analyst
+BCA,Electronics,Cloud,SQL,Azure,13,4,Yes,Expert,Data Analyst
+MCA,Computer Science,SQL,Python,Cybersecurity,6,7,No,Senior,Data Analyst
+MCA,AI,SQL,SQL,AI Specialist,9,0,Yes,Senior,Data Analyst
+BCA,Data Science,Deep Learning,Python,AWS,14,0,Yes,Expert,Data Scientist
+MBA,Business,Java,Python,GCP,14,6,No,Expert,Business Analyst
+MCA,Computer Science,SQL,Java,AI Specialist,12,5,Yes,Expert,Software Developer
+MCA,IT,Cloud,C++,None,9,4,Yes,Senior,Software Developer
+MCA,Electronics,Machine Learning,Cloud,AI Specialist,5,4,Yes,Mid,ML Engineer
+MCA,IT,Cloud,Cloud,AI Specialist,0,8,No,Fresher,Data Analyst
+BCA,Business,Cloud,Machine Learning,None,10,0,No,Senior,ML Engineer
+MBA,IT,Deep Learning,Cloud,Azure,2,7,Yes,Junior,ML Engineer
+MBA,IT,Java,Python,None,12,1,Yes,Expert,Software Developer
+B.Tech,Electronics,Java,Deep Learning,None,0,6,No,Fresher,ML Engineer
+MCA,Electronics,SQL,C++,AWS,11,5,Yes,Expert,Data Analyst
+MCA,Electronics,Data Analysis,Machine Learning,None,14,9,Yes,Expert,ML Engineer
+B.Tech,Electronics,C++,Cloud,AWS,9,1,Yes,Senior,Cloud Engineer
+MBA,IT,Cloud,Cloud,Data Analytics,11,2,Yes,Expert,Data Analyst
+M.Tech,AI,Python,Deep Learning,None,8,3,Yes,Senior,Data Scientist
+M.Tech,AI,C++,SQL,Azure,12,6,No,Expert,Data Analyst
+MBA,Electronics,C++,C++,None,8,7,No,Senior,Security Analyst
+MCA,Data Science,Java,Deep Learning,AI Specialist,4,1,Yes,Mid,ML Engineer
+M.Tech,Computer Science,Java,Cloud,Cybersecurity,3,7,Yes,Mid,Software Developer
+BCA,Business,Deep Learning,C++,Azure,11,8,Yes,Expert,ML Engineer
+BCA,Data Science,Deep Learning,C++,None,8,6,Yes,Senior,ML Engineer
+B.Tech,Business,Java,Cloud,Azure,8,0,Yes,Senior,Cloud Engineer
+MBA,Data Science,Machine Learning,SQL,AWS,14,5,Yes,Expert,ML Engineer
+MBA,Data Science,Machine Learning,SQL,Data Analytics,2,7,Yes,Junior,ML Engineer
+M.Tech,AI,Python,Cloud,Data Analytics,4,4,Yes,Mid,Data Scientist
+MCA,Computer Science,Java,C++,Azure,2,1,Yes,Junior,Software Developer
+MBA,Data Science,SQL,Deep Learning,Azure,9,4,Yes,Senior,ML Engineer
+M.Tech,Electronics,Deep Learning,Java,None,1,7,Yes,Junior,ML Engineer
+M.Tech,Business,Java,Python,GCP,0,1,Yes,Fresher,Business Analyst
+MBA,AI,Machine Learning,SQL,AI Specialist,11,0,No,Expert,ML Engineer
+M.Tech,Business,Java,Cloud,AWS,9,3,No,Senior,Cloud Engineer
+B.Tech,Electronics,Machine Learning,Data Analysis,AI Specialist,1,3,Yes,Junior,ML Engineer
+B.Tech,Electronics,Java,Java,Cybersecurity,7,8,Yes,Senior,Security Analyst
+MBA,Data Science,Cloud,SQL,Cybersecurity,10,2,Yes,Senior,Data Analyst
+MCA,Electronics,SQL,Data Analysis,Data Analytics,7,3,Yes,Senior,Data Analyst
+B.Tech,Computer Science,Data Analysis,C++,AWS,2,2,Yes,Junior,Data Analyst
+B.Tech,Electronics,Python,Cloud,AI Specialist,6,1,No,Senior,Security Analyst
+MBA,Data Science,Cloud,Java,Data Analytics,6,3,Yes,Senior,Software Developer
+BCA,Business,SQL,Cloud,Cybersecurity,1,7,Yes,Junior,Data Analyst
+M.Tech,Electronics,Machine Learning,Deep Learning,Azure,8,0,Yes,Senior,ML Engineer
+B.Tech,AI,Deep Learning,Deep Learning,AWS,2,7,Yes,Junior,ML Engineer
+BCA,AI,Deep Learning,Machine Learning,AWS,1,7,Yes,Junior,ML Engineer
+MCA,AI,C++,Python,AI Specialist,11,2,Yes,Expert,Data Scientist
+BCA,Business,SQL,Python,None,2,9,Yes,Junior,Data Analyst
+MBA,IT,Java,SQL,GCP,1,9,Yes,Junior,Software Developer
+MCA,AI,Python,Python,AI Specialist,14,5,No,Expert,Data Scientist
+MCA,AI,Java,Cloud,Azure,7,3,Yes,Senior,Cloud Engineer
+BCA,IT,Java,Cloud,None,4,0,Yes,Mid,Software Developer
+MBA,Business,SQL,Machine Learning,None,2,0,Yes,Junior,ML Engineer
+B.Tech,AI,Data Analysis,Data Analysis,None,4,4,Yes,Mid,Data Analyst
+BCA,Data Science,Python,Deep Learning,Azure,10,7,Yes,Senior,Data Scientist
+B.Tech,Business,C++,Data Analysis,Data Analytics,10,0,Yes,Senior,Data Analyst
+BCA,AI,Cloud,Data Analysis,AWS,7,1,Yes,Senior,Data Analyst
+B.Tech,AI,Java,Java,Data Analytics,6,6,Yes,Senior,Software Developer
+BCA,IT,Python,Java,Azure,5,7,Yes,Mid,Software Developer
+MCA,Data Science,C++,Deep Learning,GCP,13,2,Yes,Expert,ML Engineer
+M.Tech,Business,Cloud,C++,AWS,12,7,Yes,Expert,Cloud Engineer
+MCA,Electronics,Java,Deep Learning,Azure,0,0,Yes,Fresher,ML Engineer
+B.Tech,Computer Science,Python,Java,GCP,9,8,Yes,Senior,Software Developer
+MBA,Data Science,Cloud,Data Analysis,AI Specialist,0,1,Yes,Fresher,Data Analyst
+MCA,Electronics,SQL,SQL,Cybersecurity,0,1,Yes,Fresher,Data Analyst
+M.Tech,Data Science,Data Analysis,Machine Learning,None,13,3,Yes,Expert,ML Engineer
+B.Tech,Electronics,Deep Learning,Data Analysis,Azure,9,9,No,Senior,ML Engineer
+MCA,Electronics,Deep Learning,Deep Learning,Cybersecurity,13,2,Yes,Expert,ML Engineer
+BCA,Data Science,Java,C++,Data Analytics,7,3,No,Senior,AI Engineer
+MBA,IT,Java,Data Analysis,Cybersecurity,7,5,Yes,Senior,Software Developer
+B.Tech,Data Science,Cloud,SQL,Azure,13,6,Yes,Expert,Data Analyst
+MCA,Data Science,Python,Deep Learning,Cybersecurity,6,4,Yes,Senior,Data Scientist
+B.Tech,Electronics,Deep Learning,SQL,None,5,1,Yes,Mid,ML Engineer
+BCA,Computer Science,Java,Data Analysis,AWS,3,2,Yes,Mid,Software Developer
+M.Tech,Electronics,C++,Deep Learning,Azure,0,9,Yes,Fresher,ML Engineer
+MCA,AI,Java,SQL,GCP,14,2,No,Expert,Data Analyst
+B.Tech,Data Science,Deep Learning,Cloud,Cybersecurity,14,4,Yes,Expert,ML Engineer
+B.Tech,Business,Machine Learning,Python,AWS,8,4,Yes,Senior,ML Engineer
+B.Tech,Data Science,Data Analysis,SQL,None,14,3,No,Expert,Data Analyst
+M.Tech,IT,Deep Learning,Cloud,Data Analytics,0,7,No,Fresher,ML Engineer
+B.Tech,Business,C++,Data Analysis,Data Analytics,3,5,Yes,Mid,Data Analyst
+MBA,Electronics,Python,Python,None,2,5,Yes,Junior,Security Analyst
+MBA,IT,C++,Java,Cybersecurity,6,0,Yes,Senior,Software Developer
+B.Tech,Data Science,Machine Learning,Python,Data Analytics,4,5,Yes,Mid,Data Scientist
+MBA,Electronics,Machine Learning,SQL,GCP,4,2,Yes,Mid,ML Engineer
+MCA,Electronics,Java,Machine Learning,Azure,3,5,Yes,Mid,ML Engineer
+MBA,AI,Java,Machine Learning,AWS,0,9,Yes,Fresher,ML Engineer
+B.Tech,AI,Deep Learning,Java,AI Specialist,4,5,No,Mid,ML Engineer
+BCA,Computer Science,SQL,SQL,Cybersecurity,3,1,No,Mid,Data Analyst
+MCA,AI,Data Analysis,Python,Data Analytics,13,0,Yes,Expert,Data Scientist
+M.Tech,Business,C++,Machine Learning,Azure,9,2,Yes,Senior,ML Engineer
+B.Tech,Electronics,Deep Learning,Deep Learning,AI Specialist,12,4,Yes,Expert,ML Engineer
+M.Tech,AI,SQL,C++,GCP,7,3,Yes,Senior,Data Analyst
+BCA,Computer Science,Deep Learning,SQL,Data Analytics,1,6,Yes,Junior,ML Engineer
+M.Tech,Data Science,Data Analysis,Cloud,Data Analytics,7,3,No,Senior,Data Analyst
+B.Tech,Business,Data Analysis,Cloud,AWS,0,7,Yes,Fresher,Data Analyst
+B.Tech,AI,Machine Learning,Deep Learning,GCP,12,6,Yes,Expert,ML Engineer
+BCA,Electronics,Java,Deep Learning,GCP,3,9,Yes,Mid,ML Engineer
+B.Tech,Data Science,Java,SQL,Cybersecurity,2,8,No,Junior,Data Analyst
+BCA,Electronics,Data Analysis,C++,AI Specialist,4,0,No,Mid,Data Analyst
+BCA,Data Science,Deep Learning,Machine Learning,AWS,12,4,No,Expert,ML Engineer
+B.Tech,Business,Data Analysis,C++,Cybersecurity,4,3,Yes,Mid,Data Analyst
+MBA,Electronics,Java,Java,AWS,4,5,Yes,Mid,Security Analyst
+BCA,AI,Python,Python,GCP,11,0,Yes,Expert,Data Scientist
+B.Tech,AI,Deep Learning,Python,AWS,3,5,Yes,Mid,Data Scientist
+MBA,Computer Science,Machine Learning,Deep Learning,AWS,7,0,No,Senior,ML Engineer
+BCA,Data Science,Cloud,Machine Learning,AWS,2,0,Yes,Junior,ML Engineer
+MBA,Computer Science,Deep Learning,C++,Azure,11,7,Yes,Expert,ML Engineer
+MCA,IT,Deep Learning,Deep Learning,Azure,3,1,Yes,Mid,ML Engineer
+MCA,AI,Java,SQL,AI Specialist,0,9,Yes,Fresher,Data Analyst
+MBA,Data Science,Machine Learning,Deep Learning,AI Specialist,6,5,Yes,Senior,ML Engineer
+BCA,Business,Deep Learning,SQL,None,0,5,Yes,Fresher,ML Engineer
+B.Tech,Computer Science,Java,SQL,GCP,14,5,Yes,Expert,Software Developer
+M.Tech,Business,Data Analysis,Java,AWS,1,7,Yes,Junior,Data Analyst
+B.Tech,Business,C++,Java,GCP,10,3,No,Senior,Business Analyst
+M.Tech,Business,Machine Learning,SQL,Azure,6,2,Yes,Senior,ML Engineer
+M.Tech,Computer Science,SQL,Data Analysis,AWS,0,5,Yes,Fresher,Data Analyst
+BCA,IT,Python,Machine Learning,Cybersecurity,10,3,Yes,Senior,ML Engineer
+MBA,Computer Science,SQL,Java,Azure,2,1,Yes,Junior,Software Developer
+B.Tech,Electronics,Cloud,Java,Azure,12,5,No,Expert,Cloud Engineer
+MBA,AI,Data Analysis,Python,Azure,5,9,Yes,Mid,Data Scientist
+MCA,Computer Science,Machine Learning,Deep Learning,None,5,4,Yes,Mid,ML Engineer
+BCA,Computer Science,Deep Learning,Python,AWS,5,8,No,Mid,ML Engineer
+BCA,IT,Java,Machine Learning,AI Specialist,10,5,No,Senior,ML Engineer
+MCA,Electronics,Cloud,Java,Data Analytics,12,2,Yes,Expert,Security Analyst
+B.Tech,Computer Science,Machine Learning,Cloud,Cybersecurity,1,4,Yes,Junior,ML Engineer
+MCA,AI,Python,Data Analysis,Cybersecurity,1,9,Yes,Junior,Data Scientist
+B.Tech,AI,Machine Learning,Java,GCP,5,7,No,Mid,ML Engineer
+M.Tech,Computer Science,Cloud,C++,AWS,9,8,Yes,Senior,Cloud Engineer
+BCA,Business,Java,Machine Learning,AI Specialist,4,7,Yes,Mid,ML Engineer
+B.Tech,Business,SQL,Cloud,Azure,13,2,Yes,Expert,Data Analyst
+MBA,Electronics,C++,Deep Learning,Data Analytics,6,8,Yes,Senior,ML Engineer
+MBA,AI,SQL,Deep Learning,AWS,6,2,No,Senior,ML Engineer
+BCA,Business,Java,Cloud,AWS,4,7,No,Mid,Cloud Engineer
+MCA,AI,Cloud,Deep Learning,None,7,9,Yes,Senior,ML Engineer
+MCA,Electronics,Java,Data Analysis,AI Specialist,9,8,Yes,Senior,Data Analyst
+B.Tech,Electronics,Data Analysis,Cloud,Data Analytics,5,6,Yes,Mid,Data Analyst
+MCA,Business,Python,Machine Learning,Azure,14,3,No,Expert,ML Engineer
+BCA,Computer Science,Machine Learning,Cloud,AWS,4,9,No,Mid,ML Engineer
+B.Tech,Data Science,Data Analysis,Cloud,Cybersecurity,3,8,No,Mid,Data Analyst
+M.Tech,IT,Machine Learning,C++,Cybersecurity,6,2,No,Senior,ML Engineer
+MCA,Data Science,SQL,C++,Data Analytics,3,2,Yes,Mid,Data Analyst
+MCA,Data Science,Cloud,Python,Azure,4,1,No,Mid,Data Scientist
+B.Tech,AI,C++,Machine Learning,Data Analytics,4,9,Yes,Mid,ML Engineer
+MBA,Electronics,C++,Machine Learning,AWS,0,2,Yes,Fresher,ML Engineer
+MCA,AI,Python,C++,None,14,0,Yes,Expert,Data Scientist
+BCA,Business,Java,SQL,None,0,3,Yes,Fresher,Data Analyst
+MCA,IT,Python,SQL,Cybersecurity,2,7,No,Junior,Data Analyst
+M.Tech,Business,Machine Learning,Python,None,14,4,Yes,Expert,ML Engineer
+MCA,Computer Science,Deep Learning,Data Analysis,GCP,13,1,No,Expert,ML Engineer
+MBA,IT,Deep Learning,SQL,Data Analytics,10,2,Yes,Senior,ML Engineer
+MCA,AI,Deep Learning,SQL,None,2,0,Yes,Junior,ML Engineer
+B.Tech,AI,Java,SQL,GCP,1,1,Yes,Junior,Data Analyst
+MCA,Business,Python,Data Analysis,GCP,11,0,Yes,Expert,Data Analyst
+MBA,AI,Data Analysis,Java,AI Specialist,1,1,Yes,Junior,Data Analyst
+B.Tech,AI,Cloud,Python,Cybersecurity,5,2,Yes,Mid,Data Scientist
+BCA,Data Science,SQL,C++,Data Analytics,12,0,No,Expert,Data Analyst
+B.Tech,Computer Science,Machine Learning,SQL,GCP,0,8,Yes,Fresher,ML Engineer
+M.Tech,Data Science,Deep Learning,Deep Learning,AWS,5,9,Yes,Mid,ML Engineer
+B.Tech,AI,Cloud,Cloud,None,4,4,No,Mid,AI Engineer
+BCA,Electronics,C++,Java,AI Specialist,5,7,Yes,Mid,Security Analyst
+MCA,Data Science,Data Analysis,Data Analysis,Azure,4,4,Yes,Mid,Data Analyst
+B.Tech,AI,Python,Data Analysis,None,6,7,Yes,Senior,Data Scientist
+B.Tech,AI,Machine Learning,Data Analysis,None,0,6,Yes,Fresher,ML Engineer
+B.Tech,Computer Science,Machine Learning,SQL,None,12,3,Yes,Expert,ML Engineer
+B.Tech,Business,C++,Cloud,AI Specialist,2,6,Yes,Junior,Business Analyst
+BCA,IT,Data Analysis,Cloud,Azure,5,5,Yes,Mid,Data Analyst
+MBA,Data Science,C++,Java,Cybersecurity,0,2,Yes,Fresher,Security Analyst
+MBA,Data Science,C++,Python,Data Analytics,12,8,Yes,Expert,Data Scientist
+B.Tech,Data Science,Deep Learning,Data Analysis,Data Analytics,10,9,Yes,Senior,ML Engineer
+BCA,AI,Data Analysis,Deep Learning,Azure,10,8,No,Senior,ML Engineer
+BCA,Computer Science,Deep Learning,Deep Learning,None,6,4,Yes,Senior,ML Engineer
+B.Tech,AI,Python,Deep Learning,AWS,3,7,Yes,Mid,Data Scientist
+M.Tech,AI,C++,Data Analysis,Azure,2,6,No,Junior,Data Analyst
+B.Tech,Business,SQL,SQL,Azure,9,8,No,Senior,Data Analyst
+M.Tech,Electronics,Machine Learning,Java,Data Analytics,8,6,No,Senior,ML Engineer
+B.Tech,Computer Science,Data Analysis,Data Analysis,GCP,0,3,No,Fresher,Data Analyst
+M.Tech,Data Science,C++,Deep Learning,AWS,7,3,Yes,Senior,ML Engineer
+M.Tech,IT,Data Analysis,Cloud,Data Analytics,0,7,Yes,Fresher,Data Analyst
+B.Tech,Data Science,Machine Learning,Data Analysis,AI Specialist,12,5,Yes,Expert,ML Engineer
+M.Tech,AI,Java,Cloud,Azure,13,8,Yes,Expert,Cloud Engineer
+MCA,Computer Science,Cloud,Machine Learning,GCP,4,9,Yes,Mid,ML Engineer
+MBA,Computer Science,Java,Data Analysis,AWS,9,6,Yes,Senior,Software Developer
+BCA,Computer Science,C++,Machine Learning,Cybersecurity,7,6,No,Senior,ML Engineer
+M.Tech,Electronics,Machine Learning,Java,AWS,5,3,Yes,Mid,ML Engineer
+M.Tech,Data Science,Cloud,Data Analysis,AWS,6,2,Yes,Senior,Data Analyst
+BCA,Electronics,Java,SQL,None,10,7,Yes,Senior,Data Analyst
+M.Tech,Business,C++,SQL,Azure,7,6,Yes,Senior,Data Analyst
+BCA,IT,Machine Learning,Python,Azure,12,3,No,Expert,ML Engineer
+B.Tech,Business,C++,Python,Cybersecurity,5,3,No,Mid,Security Analyst
+MCA,AI,Deep Learning,Deep Learning,Cybersecurity,10,0,No,Senior,ML Engineer
+MCA,Electronics,Machine Learning,C++,Cybersecurity,5,6,Yes,Mid,ML Engineer
+MBA,Electronics,Java,Cloud,Data Analytics,10,0,No,Senior,Security Analyst
+M.Tech,Business,C++,Python,Data Analytics,5,9,Yes,Mid,Business Analyst
+MBA,AI,Data Analysis,SQL,Azure,4,9,No,Mid,Data Analyst
+B.Tech,Computer Science,Java,Cloud,Azure,7,3,Yes,Senior,Software Developer
+MCA,AI,C++,C++,Cybersecurity,12,2,Yes,Expert,Security Analyst
+B.Tech,Data Science,Data Analysis,Python,Data Analytics,1,2,No,Junior,Data Scientist
+B.Tech,Business,Data Analysis,Java,GCP,6,0,Yes,Senior,Data Analyst
+M.Tech,AI,Python,Machine Learning,Data Analytics,14,3,No,Expert,Data Scientist
+B.Tech,Computer Science,Data Analysis,Python,Azure,3,0,Yes,Mid,Data Analyst
+MCA,AI,Java,Data Analysis,Data Analytics,0,7,No,Fresher,Data Analyst
+MBA,Electronics,Java,Python,Azure,12,0,No,Expert,Security Analyst
+MCA,IT,SQL,Data Analysis,Cybersecurity,4,5,Yes,Mid,Data Analyst
+M.Tech,Electronics,Cloud,Java,None,2,6,Yes,Junior,Security Analyst
+MCA,IT,Deep Learning,SQL,Cybersecurity,3,9,Yes,Mid,ML Engineer
+BCA,AI,Java,Deep Learning,Cybersecurity,6,1,No,Senior,ML Engineer
+MBA,Data Science,Machine Learning,Java,GCP,4,3,Yes,Mid,ML Engineer
+BCA,AI,Cloud,Deep Learning,None,13,2,Yes,Expert,ML Engineer
+BCA,Computer Science,Data Analysis,Python,GCP,14,8,Yes,Expert,Data Analyst
+M.Tech,AI,C++,SQL,Azure,3,6,Yes,Mid,Data Analyst
+B.Tech,IT,Python,C++,AWS,0,1,Yes,Fresher,AI Engineer
+BCA,Electronics,Machine Learning,Python,AI Specialist,5,5,Yes,Mid,ML Engineer
+MCA,Data Science,Cloud,Java,GCP,10,8,No,Senior,Cloud Engineer
+B.Tech,AI,Machine Learning,C++,Azure,9,2,Yes,Senior,ML Engineer
+MCA,AI,Machine Learning,Machine Learning,None,5,5,Yes,Mid,ML Engineer
+MCA,Electronics,Machine Learning,C++,Data Analytics,6,2,Yes,Senior,ML Engineer
+B.Tech,Data Science,Cloud,Java,None,0,2,Yes,Fresher,Data Analyst
+B.Tech,Business,Python,Cloud,Cybersecurity,13,3,No,Expert,Security Analyst
+MCA,AI,Data Analysis,C++,Cybersecurity,3,8,Yes,Mid,Data Analyst
+M.Tech,AI,SQL,Java,Cybersecurity,11,7,Yes,Expert,Data Analyst
+MBA,Business,Deep Learning,Cloud,Azure,8,0,Yes,Senior,ML Engineer
+MBA,IT,Data Analysis,Python,Cybersecurity,14,0,No,Expert,Data Analyst
+M.Tech,IT,Java,Cloud,GCP,11,6,No,Expert,Software Developer
+B.Tech,Computer Science,Cloud,SQL,Data Analytics,13,2,Yes,Expert,Data Analyst
+MCA,Electronics,Machine Learning,Machine Learning,Cybersecurity,9,6,Yes,Senior,ML Engineer
+MBA,Data Science,Data Analysis,Cloud,Azure,5,8,Yes,Mid,Data Analyst
+MCA,AI,Java,SQL,Data Analytics,1,2,No,Junior,Data Analyst
+M.Tech,AI,Cloud,SQL,Cybersecurity,3,2,Yes,Mid,Data Analyst
+MCA,Computer Science,Java,SQL,AWS,5,1,No,Mid,Software Developer
+M.Tech,AI,Machine Learning,Cloud,Cybersecurity,3,9,No,Mid,ML Engineer
+B.Tech,Electronics,SQL,Java,AI Specialist,14,0,No,Expert,Data Analyst
+M.Tech,Computer Science,Cloud,Data Analysis,None,9,8,Yes,Senior,Data Analyst
+M.Tech,Electronics,Java,Java,GCP,6,5,Yes,Senior,Security Analyst
+MBA,Computer Science,C++,Machine Learning,Data Analytics,11,5,No,Expert,ML Engineer
+MCA,AI,Java,Java,GCP,12,7,Yes,Expert,Data Analyst
+MBA,Computer Science,Deep Learning,Deep Learning,AWS,2,4,Yes,Junior,ML Engineer
+BCA,IT,Machine Learning,Java,AWS,5,8,Yes,Mid,ML Engineer
+M.Tech,Data Science,Python,Java,AI Specialist,12,4,Yes,Expert,Data Scientist
+BCA,AI,Java,Java,GCP,14,1,Yes,Expert,Software Developer
+MBA,Business,SQL,Python,Data Analytics,11,5,Yes,Expert,Data Analyst
+MCA,Data Science,C++,Machine Learning,AWS,3,8,Yes,Mid,ML Engineer
+MBA,AI,C++,Deep Learning,AWS,2,2,Yes,Junior,ML Engineer
+MCA,Data Science,Python,Java,Cybersecurity,11,9,Yes,Expert,Data Scientist
+MCA,IT,Data Analysis,Data Analysis,AI Specialist,2,3,Yes,Junior,Data Analyst
+B.Tech,Data Science,Deep Learning,Machine Learning,None,13,9,Yes,Expert,ML Engineer
+M.Tech,Computer Science,Python,C++,Azure,1,7,No,Junior,Software Developer
+MBA,Data Science,Deep Learning,Python,None,10,5,No,Senior,Data Scientist
+MCA,AI,Java,Cloud,None,2,6,No,Junior,Data Analyst
+MBA,Business,Machine Learning,Data Analysis,AWS,12,6,No,Expert,ML Engineer
+MBA,Business,SQL,Java,Data Analytics,11,3,Yes,Expert,Data Analyst
+MCA,Electronics,C++,Data Analysis,Data Analytics,13,5,Yes,Expert,Data Analyst
+BCA,Data Science,Python,Deep Learning,Cybersecurity,9,8,Yes,Senior,Data Scientist
+M.Tech,Business,SQL,Python,Data Analytics,0,2,Yes,Fresher,Data Analyst
+M.Tech,Data Science,Deep Learning,Deep Learning,Cybersecurity,14,7,Yes,Expert,ML Engineer
+B.Tech,Business,Machine Learning,Cloud,AWS,2,6,Yes,Junior,ML Engineer
+B.Tech,Data Science,C++,Cloud,AWS,8,3,No,Senior,Cloud Engineer
+B.Tech,AI,C++,Data Analysis,None,3,9,Yes,Mid,Data Analyst
+M.Tech,Data Science,Deep Learning,Python,AWS,14,2,Yes,Expert,Data Scientist
+BCA,AI,Machine Learning,C++,AWS,2,6,No,Junior,ML Engineer
+M.Tech,AI,C++,Data Analysis,Azure,7,9,No,Senior,Data Analyst
+M.Tech,Electronics,Machine Learning,Machine Learning,AI Specialist,0,8,Yes,Fresher,ML Engineer
+M.Tech,Business,C++,Python,None,4,9,No,Mid,Business Analyst
+M.Tech,Computer Science,Java,SQL,None,0,2,Yes,Fresher,Software Developer
+BCA,AI,Deep Learning,Cloud,AI Specialist,6,9,No,Senior,ML Engineer
+B.Tech,Business,Machine Learning,C++,Azure,4,8,Yes,Mid,ML Engineer
+MBA,IT,SQL,Data Analysis,AWS,14,7,Yes,Expert,Data Analyst
+B.Tech,Data Science,Data Analysis,Cloud,Data Analytics,1,2,No,Junior,Data Analyst
+B.Tech,IT,Java,SQL,Cybersecurity,11,7,Yes,Expert,Software Developer
+MBA,Data Science,Cloud,C++,None,13,3,Yes,Expert,AI Engineer
+M.Tech,Electronics,SQL,Cloud,AI Specialist,0,5,Yes,Fresher,Data Analyst
+BCA,AI,Deep Learning,SQL,GCP,10,9,Yes,Senior,ML Engineer
+BCA,Computer Science,C++,SQL,Cybersecurity,14,1,No,Expert,Data Analyst
+B.Tech,AI,Cloud,Cloud,GCP,6,7,Yes,Senior,Cloud Engineer
+MBA,Data Science,SQL,Data Analysis,GCP,11,8,Yes,Expert,Data Analyst
+MCA,Computer Science,Java,Cloud,None,0,6,Yes,Fresher,Software Developer
+M.Tech,AI,Cloud,Deep Learning,AWS,2,7,Yes,Junior,ML Engineer
+B.Tech,Computer Science,Cloud,Python,GCP,10,6,Yes,Senior,Cloud Engineer
+BCA,Data Science,Machine Learning,Python,AWS,14,9,Yes,Expert,Data Scientist
+MBA,Electronics,Python,C++,Azure,5,3,No,Mid,Security Analyst
+MBA,Electronics,SQL,Machine Learning,Data Analytics,14,0,Yes,Expert,ML Engineer
+B.Tech,AI,Python,Cloud,GCP,5,2,Yes,Mid,Data Scientist
+MCA,IT,Deep Learning,Data Analysis,None,14,6,Yes,Expert,ML Engineer
+BCA,Data Science,SQL,Deep Learning,Data Analytics,6,6,Yes,Senior,ML Engineer
+B.Tech,AI,SQL,Python,AWS,10,2,Yes,Senior,Data Scientist
+MCA,AI,Machine Learning,Python,GCP,13,0,No,Expert,Data Scientist
+MBA,Electronics,C++,Data Analysis,Cybersecurity,10,9,No,Senior,Data Analyst
+M.Tech,Computer Science,Java,Deep Learning,None,0,8,Yes,Fresher,ML Engineer
+BCA,Data Science,Java,Java,Azure,6,5,Yes,Senior,Data Analyst
+BCA,Computer Science,Java,Deep Learning,AI Specialist,1,6,No,Junior,ML Engineer
+MCA,Business,Data Analysis,Data Analysis,Azure,5,0,Yes,Mid,Data Analyst
+B.Tech,Business,Deep Learning,Python,GCP,12,0,Yes,Expert,ML Engineer
+MBA,Data Science,Cloud,Machine Learning,None,7,3,No,Senior,ML Engineer
+MCA,IT,C++,Java,Azure,12,6,No,Expert,Software Developer
+M.Tech,Business,Python,Data Analysis,AI Specialist,4,7,Yes,Mid,Data Analyst
+M.Tech,Electronics,Java,Data Analysis,Cybersecurity,9,9,Yes,Senior,Data Analyst
+M.Tech,IT,Data Analysis,SQL,Data Analytics,2,8,Yes,Junior,Data Analyst
+MCA,AI,Python,Deep Learning,Cybersecurity,10,0,Yes,Senior,Data Scientist
+MBA,Business,C++,SQL,Azure,7,3,No,Senior,Data Analyst
+BCA,Electronics,Deep Learning,Java,AI Specialist,7,3,Yes,Senior,ML Engineer
+B.Tech,AI,C++,Java,Data Analytics,3,2,Yes,Mid,Data Analyst
+BCA,IT,Machine Learning,Java,None,7,6,Yes,Senior,ML Engineer
+MBA,Data Science,Cloud,C++,AI Specialist,4,0,Yes,Mid,Software Developer
+BCA,AI,Java,Deep Learning,Cybersecurity,12,8,Yes,Expert,ML Engineer
+MCA,Computer Science,Deep Learning,Data Analysis,AWS,10,7,No,Senior,ML Engineer
+M.Tech,Data Science,Machine Learning,Cloud,AWS,4,1,Yes,Mid,ML Engineer
+MBA,Data Science,Java,Machine Learning,Data Analytics,2,1,Yes,Junior,ML Engineer
+MBA,IT,C++,Machine Learning,Data Analytics,14,7,Yes,Expert,ML Engineer
+BCA,IT,C++,Data Analysis,Data Analytics,6,0,No,Senior,Data Analyst
+MCA,Electronics,Data Analysis,SQL,AWS,10,6,Yes,Senior,Data Analyst
+BCA,Electronics,SQL,Data Analysis,Cybersecurity,13,8,Yes,Expert,Data Analyst
+BCA,Computer Science,SQL,SQL,Data Analytics,10,2,Yes,Senior,Data Analyst
+MBA,Data Science,C++,Cloud,AWS,8,6,Yes,Senior,Cloud Engineer
+BCA,Computer Science,C++,SQL,Data Analytics,8,5,No,Senior,Data Analyst
+M.Tech,Computer Science,Python,Deep Learning,Data Analytics,0,6,Yes,Fresher,ML Engineer
+BCA,IT,Data Analysis,Python,AI Specialist,0,6,No,Fresher,Data Analyst
+M.Tech,Computer Science,Cloud,SQL,Data Analytics,9,9,No,Senior,Data Analyst
+MBA,Computer Science,Python,Java,AWS,11,0,No,Expert,Software Developer
+MCA,AI,Cloud,SQL,Cybersecurity,11,2,Yes,Expert,Data Analyst
+M.Tech,Electronics,Machine Learning,Java,AWS,10,9,Yes,Senior,ML Engineer
+MCA,Electronics,SQL,C++,AWS,14,0,Yes,Expert,Data Analyst
+MCA,Data Science,SQL,Python,Data Analytics,4,4,Yes,Mid,Data Scientist
+M.Tech,Electronics,Data Analysis,Python,AI Specialist,0,2,No,Fresher,Data Analyst
+MBA,Business,C++,Cloud,GCP,3,0,No,Mid,Cloud Engineer
+B.Tech,Data Science,C++,Deep Learning,None,11,1,Yes,Expert,ML Engineer
+MCA,AI,Machine Learning,Data Analysis,GCP,0,9,Yes,Fresher,ML Engineer
+MCA,Electronics,Deep Learning,Deep Learning,GCP,14,4,Yes,Expert,ML Engineer
+MBA,AI,Deep Learning,Machine Learning,AWS,1,2,Yes,Junior,ML Engineer
+MBA,Electronics,Data Analysis,C++,Data Analytics,1,5,No,Junior,Data Analyst
+BCA,Electronics,Deep Learning,Cloud,None,3,8,Yes,Mid,ML Engineer
+MBA,AI,SQL,Deep Learning,GCP,7,5,Yes,Senior,ML Engineer
+MCA,Computer Science,Python,Java,Azure,1,1,Yes,Junior,Software Developer
+M.Tech,Computer Science,Deep Learning,C++,Azure,13,1,No,Expert,ML Engineer
+B.Tech,Computer Science,Java,Python,Azure,8,7,Yes,Senior,Software Developer
+BCA,Business,Data Analysis,Data Analysis,Cybersecurity,14,7,No,Expert,Data Analyst
+M.Tech,Computer Science,Machine Learning,Data Analysis,Data Analytics,11,5,No,Expert,ML Engineer
+B.Tech,Electronics,Deep Learning,Java,AWS,8,9,Yes,Senior,ML Engineer
+B.Tech,IT,Java,Cloud,AWS,1,6,Yes,Junior,Software Developer
+B.Tech,AI,Deep Learning,Cloud,Data Analytics,0,0,Yes,Fresher,ML Engineer
+M.Tech,IT,Python,C++,AI Specialist,9,8,Yes,Senior,Data Analyst
+BCA,Business,Python,Python,None,14,4,No,Expert,Business Analyst
+BCA,IT,Deep Learning,Deep Learning,AI Specialist,9,8,Yes,Senior,ML Engineer
+B.Tech,Data Science,Data Analysis,Java,Cybersecurity,8,1,Yes,Senior,Data Analyst
+M.Tech,Computer Science,Data Analysis,Java,Data Analytics,14,7,Yes,Expert,Software Developer
+B.Tech,Business,Java,Python,AI Specialist,1,6,Yes,Junior,Business Analyst
+MBA,Electronics,Machine Learning,Java,None,7,3,Yes,Senior,ML Engineer
+BCA,Computer Science,Java,Data Analysis,Cybersecurity,13,2,Yes,Expert,Software Developer
+MCA,Computer Science,Machine Learning,Deep Learning,GCP,2,3,Yes,Junior,ML Engineer
+B.Tech,IT,Deep Learning,Deep Learning,GCP,0,3,Yes,Fresher,ML Engineer
+MBA,Data Science,Machine Learning,Deep Learning,Cybersecurity,10,9,Yes,Senior,ML Engineer
+BCA,Computer Science,C++,Python,Data Analytics,0,9,Yes,Fresher,AI Engineer
+M.Tech,AI,SQL,SQL,GCP,9,7,Yes,Senior,Data Analyst
+BCA,AI,Cloud,SQL,Data Analytics,1,3,No,Junior,Data Analyst
+M.Tech,Computer Science,SQL,Cloud,AI Specialist,6,4,Yes,Senior,Data Analyst
+M.Tech,IT,Python,Cloud,GCP,11,1,Yes,Expert,Cloud Engineer
+B.Tech,IT,C++,Data Analysis,None,5,3,Yes,Mid,Data Analyst
+B.Tech,Electronics,SQL,Java,None,11,6,Yes,Expert,Data Analyst
+BCA,Business,Deep Learning,Deep Learning,AI Specialist,10,2,Yes,Senior,ML Engineer
+MBA,Business,Machine Learning,Java,None,1,0,No,Junior,ML Engineer
+BCA,Business,Machine Learning,Python,Data Analytics,3,7,Yes,Mid,ML Engineer
+MCA,Data Science,Java,Java,Data Analytics,1,7,Yes,Junior,AI Engineer
+M.Tech,IT,Java,Machine Learning,None,0,5,Yes,Fresher,ML Engineer
+M.Tech,Electronics,Data Analysis,SQL,Azure,11,6,Yes,Expert,Data Analyst
+B.Tech,AI,Machine Learning,Java,Cybersecurity,2,9,Yes,Junior,ML Engineer
+MBA,Business,Data Analysis,Java,AWS,14,1,Yes,Expert,Data Analyst
+B.Tech,AI,Deep Learning,C++,Cybersecurity,3,4,No,Mid,ML Engineer
+MCA,AI,Machine Learning,Data Analysis,None,9,6,Yes,Senior,ML Engineer
+BCA,Computer Science,Java,Java,Data Analytics,4,8,Yes,Mid,Software Developer
+BCA,Data Science,SQL,Machine Learning,Data Analytics,4,0,No,Mid,ML Engineer
+MBA,Electronics,Data Analysis,SQL,Cybersecurity,14,2,No,Expert,Data Analyst
+B.Tech,Data Science,Data Analysis,C++,Data Analytics,6,5,No,Senior,Data Analyst
+B.Tech,Computer Science,Python,Data Analysis,AI Specialist,13,6,Yes,Expert,Data Analyst
+MCA,Electronics,Java,Python,GCP,14,5,Yes,Expert,Security Analyst
+BCA,Electronics,Deep Learning,Cloud,Data Analytics,9,0,No,Senior,ML Engineer
+B.Tech,IT,Data Analysis,Python,None,7,3,Yes,Senior,Data Analyst
+MBA,Data Science,SQL,SQL,None,8,5,Yes,Senior,Data Analyst
+BCA,Data Science,SQL,Cloud,Cybersecurity,11,7,No,Expert,Data Analyst
+MCA,IT,SQL,Python,Cybersecurity,6,9,Yes,Senior,Data Analyst
+MBA,AI,C++,Data Analysis,Cybersecurity,4,3,No,Mid,Data Analyst
+M.Tech,Computer Science,C++,Machine Learning,None,8,6,No,Senior,ML Engineer
+MCA,Data Science,Cloud,Java,Azure,7,2,No,Senior,Cloud Engineer
+MBA,IT,SQL,SQL,None,9,7,Yes,Senior,Data Analyst
+B.Tech,Electronics,Data Analysis,Cloud,AI Specialist,8,0,Yes,Senior,Data Analyst
+M.Tech,Business,Deep Learning,C++,None,9,3,No,Senior,ML Engineer
+MCA,IT,Machine Learning,Java,AI Specialist,7,7,No,Senior,ML Engineer
+B.Tech,Business,Deep Learning,Python,None,5,9,Yes,Mid,ML Engineer
+M.Tech,AI,C++,Python,None,3,3,Yes,Mid,Data Scientist
+BCA,Computer Science,Java,C++,Azure,8,1,No,Senior,Software Developer
+B.Tech,Business,Data Analysis,Machine Learning,AI Specialist,11,1,Yes,Expert,ML Engineer
+MBA,AI,Cloud,Data Analysis,Azure,8,3,Yes,Senior,Data Analyst
+MCA,Business,C++,Data Analysis,AI Specialist,9,3,Yes,Senior,Data Analyst
+M.Tech,Electronics,Machine Learning,C++,Azure,9,1,Yes,Senior,ML Engineer
+B.Tech,Electronics,Python,SQL,Azure,8,6,No,Senior,Data Analyst
+BCA,Electronics,Cloud,C++,AI Specialist,13,5,Yes,Expert,Security Analyst
+MCA,Electronics,C++,Python,Azure,9,2,Yes,Senior,Security Analyst
+MCA,IT,Deep Learning,Machine Learning,None,2,7,Yes,Junior,ML Engineer
+B.Tech,Electronics,Cloud,Machine Learning,AI Specialist,10,7,Yes,Senior,ML Engineer
+BCA,Electronics,Data Analysis,Deep Learning,Azure,11,0,Yes,Expert,ML Engineer
+M.Tech,IT,Deep Learning,C++,None,14,2,No,Expert,ML Engineer
+B.Tech,Electronics,SQL,SQL,None,2,4,Yes,Junior,Data Analyst
+M.Tech,AI,SQL,Python,Cybersecurity,10,1,Yes,Senior,Data Scientist
+MCA,AI,SQL,Java,AWS,5,4,Yes,Mid,Data Analyst
+M.Tech,Data Science,Cloud,Data Analysis,AI Specialist,5,9,Yes,Mid,Data Analyst
+BCA,AI,Python,Data Analysis,Azure,14,2,Yes,Expert,Data Scientist
+MBA,Computer Science,Machine Learning,Data Analysis,Cybersecurity,12,8,Yes,Expert,ML Engineer
+BCA,Computer Science,Data Analysis,Machine Learning,AWS,14,0,Yes,Expert,ML Engineer
+M.Tech,Computer Science,Cloud,Data Analysis,Azure,12,3,Yes,Expert,Data Analyst
+B.Tech,IT,Java,C++,AWS,5,9,Yes,Mid,Software Developer
+MCA,AI,Data Analysis,Deep Learning,AI Specialist,4,5,No,Mid,ML Engineer
+MBA,Computer Science,Deep Learning,SQL,None,13,8,No,Expert,ML Engineer
+B.Tech,Data Science,Deep Learning,SQL,None,4,2,Yes,Mid,ML Engineer
+B.Tech,IT,Cloud,Cloud,AWS,1,2,Yes,Junior,Cloud Engineer
+BCA,Data Science,Cloud,Data Analysis,None,13,4,No,Expert,Data Analyst
+M.Tech,AI,Machine Learning,Python,GCP,6,6,Yes,Senior,Data Scientist
+BCA,Electronics,Python,Machine Learning,Data Analytics,11,4,No,Expert,ML Engineer
+M.Tech,Data Science,Cloud,Python,None,3,7,Yes,Mid,Data Scientist
+BCA,Electronics,SQL,Data Analysis,GCP,13,4,Yes,Expert,Data Analyst
+B.Tech,IT,Machine Learning,Deep Learning,AI Specialist,2,6,No,Junior,ML Engineer
+MCA,Data Science,Java,Java,AI Specialist,7,5,Yes,Senior,Data Analyst
+M.Tech,Data Science,SQL,Data Analysis,AWS,3,9,Yes,Mid,Data Analyst
+MBA,Business,Java,Java,None,14,1,No,Expert,Business Analyst
+MBA,IT,C++,Java,None,10,2,No,Senior,Software Developer
+B.Tech,IT,Java,SQL,None,3,3,Yes,Mid,Software Developer
+BCA,Computer Science,SQL,Machine Learning,Cybersecurity,7,4,Yes,Senior,ML Engineer
+BCA,AI,C++,Data Analysis,Azure,0,8,Yes,Fresher,Data Analyst
+B.Tech,Data Science,SQL,Python,Data Analytics,8,5,No,Senior,Data Scientist
+MBA,Data Science,Deep Learning,Python,None,13,0,No,Expert,Data Scientist
+MBA,IT,SQL,Deep Learning,Azure,6,2,No,Senior,ML Engineer
+BCA,IT,C++,Java,Cybersecurity,14,6,No,Expert,Software Developer
+M.Tech,AI,Java,Machine Learning,AI Specialist,11,7,Yes,Expert,ML Engineer
+MCA,IT,Deep Learning,Machine Learning,Data Analytics,1,6,No,Junior,ML Engineer
+M.Tech,Electronics,Python,Deep Learning,GCP,10,4,No,Senior,ML Engineer
+MBA,Electronics,Python,C++,AI Specialist,11,9,No,Expert,Security Analyst
+M.Tech,Business,Data Analysis,Machine Learning,AI Specialist,5,7,Yes,Mid,ML Engineer
+MCA,Electronics,Python,Machine Learning,AWS,7,8,No,Senior,ML Engineer
+M.Tech,Electronics,Python,Python,Cybersecurity,10,6,Yes,Senior,Security Analyst
+M.Tech,AI,Machine Learning,Deep Learning,AWS,4,8,Yes,Mid,ML Engineer
+M.Tech,Data Science,Python,Data Analysis,AWS,5,0,Yes,Mid,Data Scientist
+M.Tech,Electronics,C++,Machine Learning,Azure,11,8,Yes,Expert,ML Engineer
+B.Tech,Business,Cloud,Machine Learning,AI Specialist,9,2,Yes,Senior,ML Engineer
+MBA,IT,Python,Python,Cybersecurity,7,5,No,Senior,Security Analyst
+MCA,Electronics,SQL,Data Analysis,AWS,12,7,Yes,Expert,Data Analyst
+MBA,Business,Cloud,Data Analysis,GCP,5,2,Yes,Mid,Data Analyst
+B.Tech,AI,Python,Machine Learning,Data Analytics,11,3,Yes,Expert,Data Scientist
+B.Tech,IT,Cloud,Python,None,8,6,No,Senior,Data Analyst
+B.Tech,Business,Java,C++,Cybersecurity,14,6,Yes,Expert,Security Analyst
+B.Tech,Electronics,C++,SQL,Azure,11,3,Yes,Expert,Data Analyst
+M.Tech,Data Science,C++,Cloud,Cybersecurity,8,8,Yes,Senior,Security Analyst
+MBA,IT,Data Analysis,Python,AI Specialist,8,2,Yes,Senior,Data Analyst
+BCA,IT,Cloud,Python,Azure,5,7,No,Mid,Cloud Engineer
+MCA,Data Science,Data Analysis,Machine Learning,Data Analytics,11,7,No,Expert,ML Engineer
+B.Tech,IT,Deep Learning,Python,GCP,14,3,No,Expert,ML Engineer
+MBA,Electronics,Machine Learning,Deep Learning,AWS,11,6,Yes,Expert,ML Engineer
+B.Tech,IT,SQL,Java,Cybersecurity,8,3,Yes,Senior,Software Developer
+B.Tech,Electronics,Cloud,Java,Azure,2,0,Yes,Junior,Cloud Engineer
+B.Tech,Data Science,C++,C++,Data Analytics,4,0,Yes,Mid,AI Engineer
+B.Tech,Computer Science,Data Analysis,Data Analysis,AWS,1,0,Yes,Junior,Data Analyst
+B.Tech,Data Science,Java,Python,None,11,1,Yes,Expert,Data Scientist
+MCA,Electronics,Python,Data Analysis,Data Analytics,12,5,Yes,Expert,Data Analyst
+MBA,AI,C++,Deep Learning,GCP,12,9,No,Expert,ML Engineer
+B.Tech,Data Science,Java,Machine Learning,AWS,7,4,No,Senior,ML Engineer
+B.Tech,AI,Python,Machine Learning,AWS,10,1,Yes,Senior,Data Scientist
+B.Tech,AI,Machine Learning,Cloud,None,12,7,Yes,Expert,ML Engineer
+B.Tech,Electronics,C++,SQL,AWS,3,8,No,Mid,Data Analyst
+M.Tech,Electronics,Data Analysis,C++,Azure,5,6,Yes,Mid,Data Analyst
+M.Tech,Computer Science,C++,Deep Learning,AWS,5,8,No,Mid,ML Engineer
+BCA,Business,Cloud,Data Analysis,Data Analytics,4,3,Yes,Mid,Data Analyst
+B.Tech,IT,Cloud,Deep Learning,Azure,11,6,No,Expert,ML Engineer
+BCA,Data Science,Java,Cloud,AWS,11,4,No,Expert,Cloud Engineer
+MCA,Electronics,Data Analysis,Cloud,Data Analytics,0,4,Yes,Fresher,Data Analyst
+BCA,Data Science,Deep Learning,Machine Learning,Data Analytics,10,2,Yes,Senior,ML Engineer
+MBA,Business,Cloud,Data Analysis,Cybersecurity,6,8,Yes,Senior,Data Analyst
+M.Tech,Business,SQL,SQL,Data Analytics,9,9,No,Senior,Data Analyst
+M.Tech,AI,Machine Learning,Machine Learning,None,14,4,Yes,Expert,ML Engineer
+B.Tech,IT,SQL,SQL,AI Specialist,7,5,Yes,Senior,Data Analyst
+B.Tech,Computer Science,C++,Java,GCP,0,2,Yes,Fresher,Software Developer
+MCA,Data Science,SQL,Deep Learning,AWS,9,9,No,Senior,ML Engineer
+MCA,IT,Python,Cloud,None,6,6,No,Senior,Data Analyst
+MBA,Computer Science,Machine Learning,Java,AWS,3,8,Yes,Mid,ML Engineer
+B.Tech,Data Science,SQL,Data Analysis,AWS,5,8,Yes,Mid,Data Analyst
+B.Tech,IT,Python,Machine Learning,Data Analytics,8,9,Yes,Senior,ML Engineer
+MCA,Electronics,Java,C++,Data Analytics,14,9,Yes,Expert,Security Analyst
+MCA,Data Science,SQL,Python,AWS,4,4,Yes,Mid,Data Scientist
+MCA,IT,Machine Learning,C++,AI Specialist,7,6,Yes,Senior,ML Engineer
+M.Tech,Business,Python,C++,Azure,4,2,No,Mid,Business Analyst
+BCA,Computer Science,SQL,Python,Azure,1,5,Yes,Junior,Data Analyst
+BCA,IT,Java,Deep Learning,GCP,3,7,No,Mid,ML Engineer
+B.Tech,Electronics,SQL,Java,Cybersecurity,13,7,Yes,Expert,Data Analyst
+M.Tech,Data Science,Python,Java,None,1,1,Yes,Junior,Data Scientist
+MCA,Data Science,SQL,Deep Learning,GCP,6,5,Yes,Senior,ML Engineer
+B.Tech,Data Science,Machine Learning,Python,AWS,6,6,Yes,Senior,Data Scientist
+M.Tech,Electronics,C++,SQL,None,13,6,Yes,Expert,Data Analyst
+MBA,Computer Science,Data Analysis,C++,AWS,14,2,No,Expert,Data Analyst
+M.Tech,Data Science,Data Analysis,Machine Learning,AWS,2,8,Yes,Junior,ML Engineer
+B.Tech,Computer Science,Python,Java,Cybersecurity,13,1,Yes,Expert,Software Developer
+BCA,IT,Python,Deep Learning,Data Analytics,12,2,No,Expert,ML Engineer
+MCA,Business,Python,Machine Learning,Cybersecurity,6,1,Yes,Senior,ML Engineer
+MBA,Business,Python,Cloud,GCP,14,8,Yes,Expert,Cloud Engineer
+M.Tech,Computer Science,SQL,Python,Data Analytics,0,3,Yes,Fresher,Data Analyst
+B.Tech,Computer Science,Machine Learning,Machine Learning,Data Analytics,0,1,No,Fresher,ML Engineer
+B.Tech,Business,Data Analysis,Data Analysis,GCP,8,2,No,Senior,Data Analyst
+MCA,Data Science,Java,Machine Learning,Data Analytics,5,3,Yes,Mid,ML Engineer
+B.Tech,AI,Data Analysis,Data Analysis,None,12,9,Yes,Expert,Data Analyst
+B.Tech,AI,Machine Learning,C++,Azure,13,5,No,Expert,ML Engineer
+MCA,Electronics,Python,Python,GCP,11,4,No,Expert,Security Analyst
+MBA,Business,Deep Learning,Machine Learning,GCP,4,2,Yes,Mid,ML Engineer
+BCA,Business,SQL,Java,Azure,12,9,No,Expert,Data Analyst
+BCA,Electronics,Deep Learning,Python,Cybersecurity,5,7,Yes,Mid,ML Engineer
+M.Tech,AI,SQL,Java,Cybersecurity,5,7,Yes,Mid,Data Analyst
+MBA,IT,Python,Deep Learning,Cybersecurity,0,6,Yes,Fresher,ML Engineer
+M.Tech,Data Science,SQL,Deep Learning,Data Analytics,4,2,Yes,Mid,ML Engineer
+BCA,Data Science,Python,Cloud,Azure,8,0,Yes,Senior,Data Scientist
+MCA,IT,Machine Learning,SQL,None,3,4,No,Mid,ML Engineer
+B.Tech,IT,Cloud,Deep Learning,GCP,2,0,Yes,Junior,ML Engineer
+BCA,AI,C++,Machine Learning,GCP,0,5,Yes,Fresher,ML Engineer
+MBA,Electronics,SQL,Python,GCP,13,6,Yes,Expert,Data Analyst
+BCA,IT,Python,Deep Learning,Data Analytics,14,4,No,Expert,ML Engineer
+MBA,Electronics,Deep Learning,Java,Data Analytics,1,3,No,Junior,ML Engineer
+MBA,Computer Science,Python,Machine Learning,AI Specialist,2,1,Yes,Junior,ML Engineer
+MBA,Data Science,Deep Learning,Deep Learning,None,3,4,Yes,Mid,ML Engineer
+M.Tech,AI,Data Analysis,Data Analysis,Cybersecurity,6,8,Yes,Senior,Data Analyst
+MCA,Data Science,SQL,Data Analysis,AI Specialist,5,3,Yes,Mid,Data Analyst
+BCA,AI,Java,C++,AI Specialist,10,1,Yes,Senior,Data Analyst
+MCA,Computer Science,Deep Learning,Java,Data Analytics,7,5,Yes,Senior,ML Engineer
+B.Tech,Data Science,Python,Cloud,Cybersecurity,13,7,No,Expert,Data Scientist
+BCA,Computer Science,SQL,Cloud,Cybersecurity,8,1,Yes,Senior,Data Analyst
+MCA,AI,Python,Cloud,GCP,14,8,Yes,Expert,Data Scientist
+MCA,IT,Java,Java,Data Analytics,5,6,Yes,Mid,Software Developer
+B.Tech,Data Science,C++,Cloud,Cybersecurity,6,1,Yes,Senior,Security Analyst
+MBA,Computer Science,Cloud,SQL,AI Specialist,3,4,Yes,Mid,Data Analyst
+BCA,Business,Cloud,C++,Azure,1,4,Yes,Junior,Cloud Engineer
+BCA,Data Science,Java,SQL,Azure,8,6,No,Senior,Data Analyst
+B.Tech,Data Science,Machine Learning,Data Analysis,Data Analytics,8,4,Yes,Senior,ML Engineer
+MBA,Data Science,SQL,Deep Learning,GCP,14,5,Yes,Expert,ML Engineer
+BCA,Electronics,Java,C++,GCP,3,8,Yes,Mid,Security Analyst
+BCA,Computer Science,C++,Java,Cybersecurity,11,2,No,Expert,Software Developer
+BCA,Computer Science,Python,SQL,None,2,2,Yes,Junior,Data Analyst
+MBA,Data Science,SQL,Machine Learning,Data Analytics,9,7,No,Senior,ML Engineer
+B.Tech,IT,Data Analysis,C++,None,13,9,Yes,Expert,Data Analyst
+BCA,Data Science,Deep Learning,Java,Azure,10,5,Yes,Senior,ML Engineer
+MCA,Electronics,Java,Python,AI Specialist,5,9,No,Mid,Security Analyst
+MBA,AI,Data Analysis,C++,Cybersecurity,13,2,Yes,Expert,Data Analyst
+M.Tech,Electronics,Data Analysis,C++,AI Specialist,13,1,Yes,Expert,Data Analyst
+B.Tech,IT,C++,Deep Learning,None,2,1,Yes,Junior,ML Engineer
+MCA,Data Science,Data Analysis,Machine Learning,Cybersecurity,0,1,No,Fresher,ML Engineer
+BCA,Computer Science,Java,Deep Learning,AWS,3,4,Yes,Mid,ML Engineer
+M.Tech,Business,Machine Learning,Cloud,AI Specialist,0,4,Yes,Fresher,ML Engineer
+B.Tech,Data Science,Cloud,C++,Data Analytics,1,0,Yes,Junior,Data Analyst
+MBA,IT,Cloud,Data Analysis,AI Specialist,2,1,Yes,Junior,Data Analyst
+M.Tech,Computer Science,SQL,C++,AI Specialist,7,1,Yes,Senior,Data Analyst
+M.Tech,Electronics,Python,Cloud,Cybersecurity,9,3,Yes,Senior,Security Analyst
+MCA,AI,C++,Machine Learning,Azure,3,6,Yes,Mid,ML Engineer
+B.Tech,AI,Java,Machine Learning,None,3,2,Yes,Mid,ML Engineer
+MCA,Data Science,SQL,Data Analysis,AWS,12,4,Yes,Expert,Data Analyst
+MCA,Electronics,Java,Data Analysis,AI Specialist,9,8,Yes,Senior,Data Analyst
+BCA,Business,SQL,SQL,None,8,4,Yes,Senior,Data Analyst
+MBA,Business,Cloud,Java,None,6,8,No,Senior,Business Analyst
+M.Tech,IT,Data Analysis,Java,Azure,1,0,No,Junior,Software Developer
+B.Tech,AI,Machine Learning,SQL,GCP,2,8,Yes,Junior,ML Engineer
+MBA,Electronics,Java,Java,AWS,3,4,No,Mid,Security Analyst
+MBA,Data Science,Machine Learning,C++,AWS,3,7,No,Mid,ML Engineer
+B.Tech,Computer Science,Deep Learning,SQL,None,9,4,Yes,Senior,ML Engineer
+MBA,Data Science,Deep Learning,SQL,Cybersecurity,7,5,Yes,Senior,ML Engineer
+BCA,Data Science,Data Analysis,Java,AI Specialist,9,7,Yes,Senior,Data Analyst
+MBA,Electronics,Cloud,Python,GCP,13,1,No,Expert,Cloud Engineer
+BCA,AI,C++,Data Analysis,Cybersecurity,9,2,Yes,Senior,Data Analyst
+M.Tech,Electronics,Machine Learning,Java,Data Analytics,5,8,Yes,Mid,ML Engineer
+M.Tech,Computer Science,SQL,Deep Learning,Azure,2,4,Yes,Junior,ML Engineer
+MCA,Electronics,C++,Python,Azure,10,4,No,Senior,Security Analyst
+BCA,IT,Java,SQL,Cybersecurity,8,8,Yes,Senior,Software Developer
+M.Tech,Data Science,Java,Python,None,9,9,No,Senior,Data Scientist
+MBA,AI,SQL,C++,Azure,7,2,No,Senior,Data Analyst
+B.Tech,Business,Python,Machine Learning,AI Specialist,8,3,Yes,Senior,ML Engineer
+B.Tech,Computer Science,Data Analysis,Python,Azure,14,6,Yes,Expert,Data Analyst
+BCA,Business,Python,Deep Learning,AI Specialist,4,1,Yes,Mid,ML Engineer
+MCA,Data Science,Data Analysis,Machine Learning,Data Analytics,2,7,No,Junior,ML Engineer
+MBA,Electronics,Java,C++,GCP,3,4,No,Mid,Security Analyst
+BCA,Business,Data Analysis,Deep Learning,AWS,13,0,No,Expert,ML Engineer
+B.Tech,IT,Cloud,Cloud,Cybersecurity,12,2,Yes,Expert,Security Analyst
+BCA,Electronics,Cloud,Machine Learning,Cybersecurity,11,8,Yes,Expert,ML Engineer
+MBA,Data Science,SQL,Cloud,AI Specialist,4,4,Yes,Mid,Data Analyst
+M.Tech,Business,Python,C++,Data Analytics,8,7,Yes,Senior,Business Analyst
+MBA,Computer Science,Machine Learning,Machine Learning,Data Analytics,8,0,No,Senior,ML Engineer
+M.Tech,Business,Java,Machine Learning,None,13,6,Yes,Expert,ML Engineer
+M.Tech,Business,Deep Learning,Java,AWS,2,6,Yes,Junior,ML Engineer
+M.Tech,AI,Machine Learning,Deep Learning,GCP,6,7,Yes,Senior,ML Engineer
+BCA,Business,SQL,Data Analysis,Cybersecurity,5,2,Yes,Mid,Data Analyst
+B.Tech,Data Science,Deep Learning,Deep Learning,AI Specialist,14,0,Yes,Expert,ML Engineer
+BCA,Computer Science,Machine Learning,Python,Data Analytics,3,8,Yes,Mid,ML Engineer
+B.Tech,Data Science,Python,Cloud,Cybersecurity,4,0,No,Mid,Data Scientist
+MBA,IT,Data Analysis,Cloud,AI Specialist,13,5,Yes,Expert,Data Analyst
+MCA,Electronics,Cloud,Deep Learning,Azure,14,8,Yes,Expert,ML Engineer
+MBA,Business,Python,Deep Learning,Cybersecurity,9,1,Yes,Senior,ML Engineer
+BCA,AI,Deep Learning,Machine Learning,GCP,1,3,No,Junior,ML Engineer
+BCA,Computer Science,Data Analysis,Cloud,AI Specialist,10,1,Yes,Senior,Data Analyst
+B.Tech,AI,Data Analysis,SQL,GCP,6,3,No,Senior,Data Analyst
+BCA,AI,Data Analysis,Data Analysis,Cybersecurity,13,1,Yes,Expert,Data Analyst
+M.Tech,AI,C++,Java,Azure,3,0,Yes,Mid,Software Developer
+BCA,Business,Cloud,Data Analysis,GCP,1,2,Yes,Junior,Data Analyst
+B.Tech,Computer Science,Java,Python,Data Analytics,10,7,Yes,Senior,Software Developer
+B.Tech,Computer Science,Deep Learning,Data Analysis,AI Specialist,5,4,No,Mid,ML Engineer
+M.Tech,AI,SQL,Java,Cybersecurity,10,3,Yes,Senior,Data Analyst
+B.Tech,Electronics,Java,Python,Azure,11,4,Yes,Expert,Security Analyst
+MCA,Business,Machine Learning,C++,Data Analytics,1,5,Yes,Junior,ML Engineer
+MBA,Business,Cloud,Machine Learning,Cybersecurity,9,5,No,Senior,ML Engineer
+BCA,Data Science,SQL,Deep Learning,None,1,4,No,Junior,ML Engineer
+MCA,Business,SQL,Deep Learning,Azure,6,5,Yes,Senior,ML Engineer
+BCA,AI,Python,SQL,Data Analytics,0,8,Yes,Fresher,Data Scientist
+MCA,IT,Machine Learning,Data Analysis,GCP,6,4,No,Senior,ML Engineer
+BCA,AI,Python,Cloud,Cybersecurity,9,5,No,Senior,Data Scientist
+M.Tech,Computer Science,Python,Cloud,Cybersecurity,4,3,Yes,Mid,Security Analyst
+B.Tech,Business,Data Analysis,Java,GCP,0,2,Yes,Fresher,Data Analyst
+B.Tech,Business,Cloud,Java,None,5,5,No,Mid,Business Analyst
+M.Tech,Data Science,C++,Java,AWS,6,4,Yes,Senior,Software Developer
+MCA,IT,Python,Cloud,Data Analytics,0,3,Yes,Fresher,Data Analyst
+MBA,Business,Java,Deep Learning,GCP,8,4,No,Senior,ML Engineer
+MCA,Data Science,SQL,Cloud,Cybersecurity,14,6,Yes,Expert,Data Analyst
+B.Tech,Data Science,Cloud,Java,Data Analytics,6,0,No,Senior,AI Engineer
+MBA,IT,Python,Machine Learning,None,0,0,Yes,Fresher,ML Engineer
+BCA,AI,Deep Learning,Python,Data Analytics,2,0,No,Junior,Data Scientist
+MBA,AI,Java,Deep Learning,AWS,4,1,Yes,Mid,ML Engineer
+MCA,AI,Machine Learning,Machine Learning,Cybersecurity,3,8,No,Mid,ML Engineer
+M.Tech,Electronics,SQL,C++,Azure,1,4,Yes,Junior,Data Analyst
+BCA,AI,Cloud,Data Analysis,AWS,14,8,Yes,Expert,Data Analyst
+MCA,IT,Deep Learning,Machine Learning,AWS,0,4,Yes,Fresher,ML Engineer
+BCA,Electronics,Cloud,Data Analysis,Azure,3,6,No,Mid,Data Analyst
+MBA,AI,Cloud,Machine Learning,Azure,6,5,Yes,Senior,ML Engineer
+B.Tech,Electronics,Deep Learning,C++,None,10,1,Yes,Senior,ML Engineer
+MCA,IT,Machine Learning,Machine Learning,None,3,2,Yes,Mid,ML Engineer
+M.Tech,AI,Deep Learning,Python,AWS,8,4,Yes,Senior,Data Scientist
+MBA,Computer Science,Java,Deep Learning,Data Analytics,13,3,Yes,Expert,ML Engineer
+MCA,Business,Data Analysis,Data Analysis,GCP,7,5,No,Senior,Data Analyst
+M.Tech,IT,Cloud,SQL,GCP,7,7,Yes,Senior,Data Analyst
+MCA,Data Science,Machine Learning,Cloud,AWS,4,7,Yes,Mid,ML Engineer
+MBA,Data Science,Cloud,C++,Data Analytics,11,2,No,Expert,Data Analyst
+MCA,IT,Deep Learning,Data Analysis,Azure,14,3,Yes,Expert,ML Engineer
+BCA,Data Science,Machine Learning,Deep Learning,AI Specialist,0,0,Yes,Fresher,ML Engineer
+MBA,IT,Machine Learning,Java,AWS,14,1,Yes,Expert,ML Engineer
+MCA,Computer Science,Python,Data Analysis,Cybersecurity,8,8,Yes,Senior,Data Analyst
+B.Tech,IT,Python,Python,Data Analytics,1,9,Yes,Junior,AI Engineer
+MCA,AI,Data Analysis,SQL,Cybersecurity,5,9,Yes,Mid,Data Analyst
+BCA,AI,Python,Python,Cybersecurity,9,1,No,Senior,Data Scientist
+M.Tech,Electronics,Deep Learning,Data Analysis,AWS,13,5,Yes,Expert,ML Engineer
+M.Tech,Data Science,SQL,Python,Data Analytics,4,6,Yes,Mid,Data Scientist
+M.Tech,Business,Java,Java,Cybersecurity,9,5,No,Senior,Security Analyst
+B.Tech,Data Science,Deep Learning,SQL,None,12,7,Yes,Expert,ML Engineer
+BCA,IT,Cloud,Cloud,None,14,8,No,Expert,Data Analyst
+MBA,Business,Python,Python,Data Analytics,7,7,Yes,Senior,Business Analyst
+M.Tech,Business,Machine Learning,Java,GCP,10,4,Yes,Senior,ML Engineer
+BCA,Data Science,Deep Learning,C++,AI Specialist,2,7,Yes,Junior,ML Engineer
+MCA,Business,Machine Learning,Java,Cybersecurity,5,9,Yes,Mid,ML Engineer
+B.Tech,Business,Data Analysis,Machine Learning,Cybersecurity,5,9,Yes,Mid,ML Engineer
+BCA,AI,Cloud,Data Analysis,Data Analytics,9,8,Yes,Senior,Data Analyst
+BCA,Computer Science,Machine Learning,Deep Learning,None,2,7,Yes,Junior,ML Engineer
+MBA,IT,Machine Learning,Data Analysis,AI Specialist,11,1,Yes,Expert,ML Engineer
+BCA,Data Science,Data Analysis,Data Analysis,GCP,11,1,Yes,Expert,Data Analyst
+MBA,AI,C++,Java,Cybersecurity,14,2,Yes,Expert,Security Analyst
+B.Tech,Electronics,SQL,Java,AWS,11,6,Yes,Expert,Data Analyst
+B.Tech,Business,Java,Java,None,6,8,Yes,Senior,Business Analyst
+MCA,Business,Java,Data Analysis,Data Analytics,10,7,Yes,Senior,Data Analyst
+MBA,Data Science,Python,Cloud,Data Analytics,3,8,Yes,Mid,Data Scientist
+MBA,Computer Science,C++,Python,None,4,5,Yes,Mid,AI Engineer
+M.Tech,Computer Science,Deep Learning,Cloud,Cybersecurity,8,0,Yes,Senior,ML Engineer
+M.Tech,Data Science,Data Analysis,SQL,GCP,5,3,Yes,Mid,Data Analyst
+MCA,Data Science,Deep Learning,Java,Cybersecurity,9,5,No,Senior,ML Engineer
+B.Tech,AI,Java,Java,None,14,5,Yes,Expert,AI Engineer
+M.Tech,Data Science,SQL,Machine Learning,Azure,12,7,Yes,Expert,ML Engineer
+BCA,Electronics,Machine Learning,Machine Learning,Cybersecurity,3,0,No,Mid,ML Engineer
+B.Tech,AI,Cloud,C++,AI Specialist,7,1,No,Senior,Data Analyst
+BCA,Business,Python,C++,None,8,1,No,Senior,Business Analyst
+MBA,Business,SQL,Machine Learning,AI Specialist,9,5,Yes,Senior,ML Engineer
+B.Tech,Business,Java,SQL,None,4,6,Yes,Mid,Data Analyst
+MCA,Business,C++,C++,Azure,1,1,No,Junior,Business Analyst
+MBA,IT,Python,Deep Learning,AI Specialist,14,4,No,Expert,ML Engineer
+MBA,Electronics,Data Analysis,Deep Learning,AI Specialist,14,5,Yes,Expert,ML Engineer
+BCA,AI,Java,SQL,AWS,5,3,Yes,Mid,Data Analyst
+MBA,AI,Deep Learning,Machine Learning,Data Analytics,10,0,No,Senior,ML Engineer
+M.Tech,Business,Python,C++,AI Specialist,14,2,Yes,Expert,Business Analyst
+B.Tech,Computer Science,Data Analysis,Java,Data Analytics,11,9,Yes,Expert,Software Developer
+M.Tech,AI,Java,Machine Learning,None,7,8,Yes,Senior,ML Engineer
+BCA,Electronics,Deep Learning,C++,GCP,12,5,Yes,Expert,ML Engineer
+BCA,Data Science,Cloud,SQL,Cybersecurity,4,1,Yes,Mid,Data Analyst
+B.Tech,Electronics,Deep Learning,Deep Learning,AWS,0,8,Yes,Fresher,ML Engineer
+MBA,Business,Machine Learning,Data Analysis,None,7,3,No,Senior,ML Engineer
+MCA,Business,Data Analysis,SQL,Azure,8,7,Yes,Senior,Data Analyst
+BCA,IT,Data Analysis,Data Analysis,GCP,0,9,Yes,Fresher,Data Analyst
+B.Tech,AI,C++,C++,AWS,7,6,No,Senior,AI Engineer
+MCA,AI,Data Analysis,SQL,AWS,9,2,Yes,Senior,Data Analyst
+MBA,AI,Machine Learning,C++,None,11,7,Yes,Expert,ML Engineer
+BCA,Business,Java,C++,Azure,1,3,Yes,Junior,Business Analyst
+B.Tech,AI,Cloud,Data Analysis,Azure,3,1,Yes,Mid,Data Analyst
+B.Tech,Computer Science,SQL,SQL,Data Analytics,12,4,Yes,Expert,Data Analyst
+B.Tech,Computer Science,Cloud,Python,Cybersecurity,14,0,Yes,Expert,Security Analyst
+BCA,Data Science,Cloud,Java,None,14,7,No,Expert,AI Engineer
+MCA,AI,Data Analysis,Machine Learning,GCP,1,7,No,Junior,ML Engineer
+B.Tech,IT,Cloud,Deep Learning,Cybersecurity,1,2,Yes,Junior,ML Engineer
+MBA,Data Science,Data Analysis,Java,GCP,9,0,Yes,Senior,Data Analyst
+B.Tech,Business,Machine Learning,Machine Learning,AWS,2,3,Yes,Junior,ML Engineer
+MCA,AI,SQL,Machine Learning,AI Specialist,13,8,Yes,Expert,ML Engineer
+BCA,Computer Science,Deep Learning,Deep Learning,AI Specialist,7,8,Yes,Senior,ML Engineer
+B.Tech,IT,Data Analysis,Java,None,3,0,No,Mid,Software Developer
+B.Tech,Data Science,Java,Deep Learning,Azure,6,6,Yes,Senior,ML Engineer
+MBA,IT,C++,C++,Azure,11,5,Yes,Expert,Data Analyst
+MBA,AI,SQL,Deep Learning,AWS,9,6,Yes,Senior,ML Engineer
+B.Tech,Electronics,Java,Data Analysis,AWS,2,6,Yes,Junior,Data Analyst
+B.Tech,IT,Data Analysis,Data Analysis,GCP,9,7,No,Senior,Data Analyst
+MBA,IT,SQL,SQL,AWS,11,7,No,Expert,Data Analyst
+MCA,Business,Data Analysis,Python,None,13,9,Yes,Expert,Data Analyst
+M.Tech,Computer Science,Machine Learning,Python,GCP,14,1,Yes,Expert,ML Engineer
+M.Tech,AI,Java,Python,Cybersecurity,13,3,No,Expert,Data Scientist
+B.Tech,IT,Machine Learning,Java,Azure,12,3,No,Expert,ML Engineer
+MBA,AI,Python,Data Analysis,Azure,10,9,No,Senior,Data Scientist
+BCA,Computer Science,Java,Java,AI Specialist,13,7,Yes,Expert,Software Developer
+BCA,Business,SQL,C++,AI Specialist,2,2,Yes,Junior,Data Analyst
+M.Tech,AI,Python,Cloud,None,1,2,Yes,Junior,Data Scientist
+MCA,Computer Science,Machine Learning,Python,Azure,12,1,Yes,Expert,ML Engineer
+M.Tech,Computer Science,Machine Learning,C++,None,11,0,No,Expert,ML Engineer
+B.Tech,Data Science,SQL,Data Analysis,Cybersecurity,5,7,Yes,Mid,Data Analyst
+MCA,Business,Python,Cloud,Cybersecurity,5,8,Yes,Mid,Security Analyst
+BCA,Business,Cloud,Python,Data Analytics,0,8,Yes,Fresher,Business Analyst
+MBA,AI,Deep Learning,Java,GCP,6,7,No,Senior,ML Engineer
+MBA,Electronics,C++,Cloud,AI Specialist,11,4,Yes,Expert,Security Analyst
+B.Tech,Data Science,SQL,SQL,GCP,13,0,Yes,Expert,Data Analyst
+M.Tech,Business,Machine Learning,SQL,AI Specialist,13,8,Yes,Expert,ML Engineer
+B.Tech,Computer Science,Java,SQL,Data Analytics,3,5,Yes,Mid,Software Developer
+MBA,Business,Python,Deep Learning,Azure,12,6,Yes,Expert,ML Engineer
+BCA,Electronics,Data Analysis,SQL,None,10,7,Yes,Senior,Data Analyst
+MBA,IT,Deep Learning,Machine Learning,GCP,11,4,No,Expert,ML Engineer
+MCA,IT,C++,Python,AI Specialist,2,5,Yes,Junior,AI Engineer
+MBA,Business,Java,SQL,GCP,12,6,Yes,Expert,Data Analyst
+MBA,Business,Python,Cloud,Azure,12,6,No,Expert,Cloud Engineer
+MCA,Data Science,Deep Learning,Data Analysis,None,7,1,No,Senior,ML Engineer
+M.Tech,Business,SQL,Machine Learning,AWS,1,0,Yes,Junior,ML Engineer
+MBA,Electronics,Data Analysis,Machine Learning,AI Specialist,8,7,Yes,Senior,ML Engineer
+B.Tech,Business,Deep Learning,Machine Learning,AWS,12,4,Yes,Expert,ML Engineer
+MBA,AI,SQL,C++,Data Analytics,7,9,Yes,Senior,Data Analyst
+B.Tech,Electronics,Data Analysis,Cloud,None,7,1,No,Senior,Data Analyst
+MCA,Data Science,Data Analysis,C++,Cybersecurity,12,2,No,Expert,Data Analyst
+MBA,AI,Cloud,Machine Learning,GCP,2,5,Yes,Junior,ML Engineer
+MCA,AI,Python,Deep Learning,AI Specialist,12,9,Yes,Expert,Data Scientist
+MCA,IT,Data Analysis,SQL,GCP,3,5,Yes,Mid,Data Analyst
+M.Tech,Electronics,Deep Learning,Data Analysis,Data Analytics,1,7,Yes,Junior,ML Engineer
+MBA,AI,Data Analysis,Python,Data Analytics,1,4,Yes,Junior,Data Scientist
+B.Tech,Data Science,C++,Cloud,GCP,3,4,Yes,Mid,Cloud Engineer
+B.Tech,IT,Deep Learning,Deep Learning,AI Specialist,5,6,Yes,Mid,ML Engineer
+MBA,AI,Python,Java,None,4,9,Yes,Mid,Data Scientist
+M.Tech,Electronics,Java,C++,Azure,14,4,Yes,Expert,Security Analyst
+M.Tech,IT,Java,SQL,None,0,8,Yes,Fresher,Software Developer
+M.Tech,Electronics,Deep Learning,SQL,Azure,12,5,Yes,Expert,ML Engineer
+B.Tech,Electronics,Deep Learning,Java,Cybersecurity,9,6,No,Senior,ML Engineer
+MCA,Electronics,SQL,Java,None,0,7,Yes,Fresher,Data Analyst
+M.Tech,IT,Python,Cloud,GCP,14,4,Yes,Expert,Cloud Engineer
+B.Tech,AI,SQL,SQL,GCP,5,3,Yes,Mid,Data Analyst
+B.Tech,Business,C++,Java,AI Specialist,2,7,Yes,Junior,Business Analyst
+MCA,Computer Science,Cloud,SQL,GCP,2,9,Yes,Junior,Data Analyst
+MBA,AI,Java,Deep Learning,AI Specialist,6,8,Yes,Senior,ML Engineer
+MBA,IT,Data Analysis,Cloud,GCP,12,0,Yes,Expert,Data Analyst
+M.Tech,Computer Science,Data Analysis,Data Analysis,Data Analytics,12,2,Yes,Expert,Data Analyst
+M.Tech,Computer Science,Machine Learning,Java,AWS,0,3,Yes,Fresher,ML Engineer
+MCA,Computer Science,Machine Learning,Deep Learning,GCP,0,6,Yes,Fresher,ML Engineer
+M.Tech,Business,Python,Deep Learning,AWS,13,5,No,Expert,ML Engineer
+MCA,Data Science,Data Analysis,Java,Azure,12,9,Yes,Expert,Data Analyst
+B.Tech,IT,Python,Cloud,Cybersecurity,9,9,Yes,Senior,Security Analyst
+M.Tech,Business,Machine Learning,SQL,None,2,0,Yes,Junior,ML Engineer
+B.Tech,Business,Python,Data Analysis,None,13,3,Yes,Expert,Data Analyst
+BCA,Data Science,Java,Machine Learning,Azure,7,5,Yes,Senior,ML Engineer
+MCA,Computer Science,C++,SQL,GCP,0,2,Yes,Fresher,Data Analyst
+BCA,Data Science,C++,Python,None,9,1,No,Senior,Data Scientist
+M.Tech,Data Science,Data Analysis,Java,AI Specialist,12,1,Yes,Expert,Data Analyst
+B.Tech,Business,SQL,C++,Azure,3,9,Yes,Mid,Data Analyst
+M.Tech,IT,Java,Cloud,Data Analytics,8,3,Yes,Senior,Software Developer
+BCA,Electronics,Cloud,Java,AWS,13,0,Yes,Expert,Cloud Engineer
+M.Tech,Data Science,Python,Python,AI Specialist,3,9,Yes,Mid,Data Scientist
+MBA,Data Science,Python,Deep Learning,None,9,1,No,Senior,Data Scientist
+BCA,Computer Science,Data Analysis,C++,AI Specialist,7,9,Yes,Senior,Data Analyst
+M.Tech,Computer Science,Cloud,C++,GCP,6,1,No,Senior,Cloud Engineer
+B.Tech,Business,SQL,SQL,Data Analytics,2,3,Yes,Junior,Data Analyst
+M.Tech,Computer Science,SQL,Machine Learning,AWS,6,3,No,Senior,ML Engineer
+B.Tech,AI,Python,SQL,Data Analytics,14,0,No,Expert,Data Scientist
+MBA,Data Science,Python,Cloud,Azure,6,6,No,Senior,Data Scientist
+M.Tech,Computer Science,Cloud,C++,GCP,9,6,No,Senior,Cloud Engineer
+MBA,IT,Data Analysis,Data Analysis,AI Specialist,2,9,Yes,Junior,Data Analyst
+BCA,AI,Java,Data Analysis,AI Specialist,1,9,Yes,Junior,Data Analyst
+B.Tech,Business,Cloud,C++,Azure,14,9,Yes,Expert,Cloud Engineer
+BCA,Electronics,SQL,Data Analysis,AI Specialist,8,0,Yes,Senior,Data Analyst
+B.Tech,Data Science,Cloud,Data Analysis,Cybersecurity,14,7,No,Expert,Data Analyst
+MBA,Data Science,Cloud,Machine Learning,GCP,0,9,Yes,Fresher,ML Engineer
+MCA,IT,Cloud,Cloud,Azure,13,6,Yes,Expert,Cloud Engineer
+M.Tech,Electronics,Java,Java,GCP,6,6,Yes,Senior,Security Analyst
+MBA,Electronics,Deep Learning,Machine Learning,AWS,3,5,No,Mid,ML Engineer
+B.Tech,Business,Python,Deep Learning,GCP,1,3,No,Junior,ML Engineer
+B.Tech,Business,Machine Learning,SQL,GCP,14,7,Yes,Expert,ML Engineer
+B.Tech,AI,Data Analysis,Data Analysis,AWS,1,1,Yes,Junior,Data Analyst
+B.Tech,Data Science,Cloud,Java,Azure,7,6,Yes,Senior,Cloud Engineer
+M.Tech,Computer Science,Data Analysis,SQL,GCP,6,2,Yes,Senior,Data Analyst
+BCA,Business,Machine Learning,Data Analysis,Data Analytics,11,2,Yes,Expert,ML Engineer
+MCA,IT,Deep Learning,Machine Learning,GCP,6,6,Yes,Senior,ML Engineer
+M.Tech,IT,Python,Java,Azure,4,2,Yes,Mid,Software Developer
+B.Tech,IT,SQL,Machine Learning,AI Specialist,13,4,Yes,Expert,ML Engineer
+M.Tech,Business,Machine Learning,Deep Learning,None,9,7,Yes,Senior,ML Engineer
+MBA,Business,Data Analysis,Python,AWS,7,3,No,Senior,Data Analyst
+B.Tech,IT,Data Analysis,C++,AI Specialist,13,6,No,Expert,Data Analyst
+MCA,Business,Data Analysis,Cloud,Azure,1,6,Yes,Junior,Data Analyst
+B.Tech,Computer Science,SQL,Java,Cybersecurity,1,1,No,Junior,Software Developer
+MCA,Computer Science,Machine Learning,C++,None,4,7,Yes,Mid,ML Engineer
+MCA,AI,Data Analysis,Python,AI Specialist,14,9,Yes,Expert,Data Scientist
+BCA,Data Science,SQL,Java,GCP,0,9,Yes,Fresher,Data Analyst
+BCA,Computer Science,Cloud,C++,None,5,8,No,Mid,AI Engineer
+M.Tech,AI,Data Analysis,C++,GCP,3,5,Yes,Mid,Data Analyst
+M.Tech,Electronics,Machine Learning,Java,AWS,5,4,Yes,Mid,ML Engineer
+MCA,Data Science,SQL,C++,GCP,6,0,Yes,Senior,Data Analyst
+B.Tech,Computer Science,Deep Learning,C++,None,12,0,No,Expert,ML Engineer
+MBA,Electronics,Java,Java,Data Analytics,2,8,No,Junior,Security Analyst
+MBA,AI,SQL,Cloud,Data Analytics,10,3,Yes,Senior,Data Analyst
+B.Tech,Computer Science,Java,C++,AI Specialist,12,0,No,Expert,Software Developer
+B.Tech,Computer Science,Java,C++,Azure,7,9,Yes,Senior,Software Developer
+BCA,Business,Python,Cloud,AWS,6,2,No,Senior,Cloud Engineer
+MBA,Electronics,Cloud,SQL,Cybersecurity,12,5,No,Expert,Data Analyst
+MCA,Computer Science,Deep Learning,Deep Learning,AI Specialist,0,7,Yes,Fresher,ML Engineer
+M.Tech,IT,Java,SQL,Azure,5,9,No,Mid,Software Developer
+BCA,Business,C++,Data Analysis,AWS,6,1,Yes,Senior,Data Analyst
+MBA,Business,Cloud,Python,None,13,7,No,Expert,Business Analyst
+B.Tech,Computer Science,Java,SQL,AWS,10,0,No,Senior,Software Developer
+MBA,Business,SQL,SQL,None,14,1,Yes,Expert,Data Analyst
+MCA,Data Science,Java,Python,AI Specialist,3,7,Yes,Mid,Data Scientist
+BCA,Electronics,SQL,C++,Azure,13,6,Yes,Expert,Data Analyst
+B.Tech,Data Science,Data Analysis,C++,Azure,1,4,No,Junior,Data Analyst
+MCA,AI,SQL,SQL,GCP,9,9,No,Senior,Data Analyst
+M.Tech,Data Science,C++,Python,Cybersecurity,8,1,Yes,Senior,Data Scientist
+BCA,IT,Java,C++,Data Analytics,6,8,Yes,Senior,Software Developer
+MCA,Business,Java,Machine Learning,GCP,0,4,Yes,Fresher,ML Engineer
+MCA,Business,Machine Learning,Java,AWS,7,7,Yes,Senior,ML Engineer
+B.Tech,IT,Cloud,Java,Cybersecurity,14,3,Yes,Expert,Software Developer
+M.Tech,Business,Machine Learning,Deep Learning,Cybersecurity,2,8,Yes,Junior,ML Engineer
+MCA,Data Science,Python,Java,Azure,3,9,Yes,Mid,Data Scientist
+BCA,AI,SQL,SQL,Cybersecurity,11,6,Yes,Expert,Data Analyst
+MCA,Computer Science,C++,Java,AI Specialist,4,1,Yes,Mid,Software Developer
+MBA,IT,Machine Learning,Java,Cybersecurity,0,2,No,Fresher,ML Engineer
+BCA,Data Science,Java,Machine Learning,AWS,14,1,Yes,Expert,ML Engineer
+BCA,Data Science,Python,C++,AI Specialist,5,4,Yes,Mid,Data Scientist
+MCA,Data Science,C++,Machine Learning,AI Specialist,9,1,Yes,Senior,ML Engineer
+B.Tech,Computer Science,Deep Learning,SQL,GCP,5,4,Yes,Mid,ML Engineer
+BCA,Electronics,Java,Java,Cybersecurity,1,8,Yes,Junior,Security Analyst
+MBA,Business,Java,Cloud,Azure,10,1,Yes,Senior,Cloud Engineer
+B.Tech,Business,Data Analysis,C++,None,9,8,Yes,Senior,Data Analyst
+B.Tech,AI,Deep Learning,Deep Learning,GCP,5,6,No,Mid,ML Engineer
+B.Tech,Electronics,SQL,Deep Learning,Azure,7,6,Yes,Senior,ML Engineer
+BCA,Business,SQL,Data Analysis,Cybersecurity,5,4,Yes,Mid,Data Analyst
+B.Tech,AI,Machine Learning,Data Analysis,GCP,3,7,Yes,Mid,ML Engineer
+MCA,AI,Machine Learning,Java,Cybersecurity,14,6,Yes,Expert,ML Engineer
+B.Tech,Data Science,Java,Java,AWS,3,5,No,Mid,Data Analyst
+MBA,IT,Cloud,Deep Learning,GCP,8,1,No,Senior,ML Engineer
+M.Tech,Data Science,Java,Deep Learning,Azure,5,5,Yes,Mid,ML Engineer
+MBA,Computer Science,Machine Learning,Cloud,AWS,7,1,Yes,Senior,ML Engineer
+BCA,Business,Deep Learning,SQL,Data Analytics,7,0,No,Senior,ML Engineer
+B.Tech,AI,Machine Learning,Java,Azure,6,8,Yes,Senior,ML Engineer
+B.Tech,IT,Java,Deep Learning,None,2,4,Yes,Junior,ML Engineer
+MCA,Business,C++,Cloud,Cybersecurity,9,9,Yes,Senior,Security Analyst
+B.Tech,AI,Java,Python,Azure,0,9,Yes,Fresher,Data Scientist
+MBA,AI,C++,Deep Learning,Data Analytics,4,3,No,Mid,ML Engineer
+BCA,Data Science,C++,C++,Azure,12,7,Yes,Expert,Data Analyst
+M.Tech,IT,Java,C++,AWS,14,4,Yes,Expert,Software Developer
+B.Tech,IT,Cloud,Python,AI Specialist,9,6,Yes,Senior,Data Analyst
+M.Tech,Business,Cloud,Data Analysis,Azure,9,2,No,Senior,Data Analyst
+B.Tech,AI,Python,SQL,GCP,14,7,Yes,Expert,Data Scientist
+BCA,IT,Machine Learning,Data Analysis,None,1,7,No,Junior,ML Engineer
+MBA,IT,Cloud,Java,Data Analytics,11,2,Yes,Expert,Software Developer
+BCA,Business,SQL,Data Analysis,Azure,9,8,No,Senior,Data Analyst
+M.Tech,Data Science,Java,Java,Data Analytics,12,7,Yes,Expert,AI Engineer
+B.Tech,Electronics,C++,Deep Learning,AI Specialist,1,0,Yes,Junior,ML Engineer
+M.Tech,Computer Science,Java,C++,AWS,13,7,Yes,Expert,Software Developer
+MBA,Electronics,Machine Learning,SQL,GCP,6,3,No,Senior,ML Engineer
+BCA,IT,Deep Learning,SQL,Cybersecurity,10,5,Yes,Senior,ML Engineer
+M.Tech,AI,Cloud,SQL,Azure,12,9,Yes,Expert,Data Analyst
+M.Tech,Computer Science,Cloud,Deep Learning,AWS,2,8,Yes,Junior,ML Engineer
+MBA,Computer Science,Cloud,Java,Data Analytics,12,4,Yes,Expert,Software Developer
+B.Tech,AI,C++,SQL,AI Specialist,7,6,No,Senior,Data Analyst
+M.Tech,Computer Science,SQL,Deep Learning,None,8,0,Yes,Senior,ML Engineer
+MBA,AI,Data Analysis,Deep Learning,Data Analytics,13,8,No,Expert,ML Engineer
+B.Tech,Computer Science,SQL,Python,None,12,5,Yes,Expert,Data Analyst
+B.Tech,Business,Cloud,Machine Learning,AI Specialist,7,3,No,Senior,ML Engineer
+BCA,Business,SQL,Data Analysis,None,5,5,Yes,Mid,Data Analyst
+MBA,Electronics,Deep Learning,SQL,AI Specialist,4,4,Yes,Mid,ML Engineer
+B.Tech,Computer Science,Cloud,Machine Learning,AWS,2,2,Yes,Junior,ML Engineer
+BCA,Data Science,Python,Java,Azure,2,6,No,Junior,Data Scientist
+MCA,AI,C++,Deep Learning,Cybersecurity,6,2,Yes,Senior,ML Engineer
+MBA,Computer Science,Deep Learning,Cloud,Azure,12,1,Yes,Expert,ML Engineer
+MCA,Business,Data Analysis,Data Analysis,GCP,4,3,No,Mid,Data Analyst
+B.Tech,Business,C++,Data Analysis,Azure,11,6,No,Expert,Data Analyst
+MBA,AI,Data Analysis,SQL,AI Specialist,13,4,No,Expert,Data Analyst
+BCA,Data Science,Cloud,Cloud,AI Specialist,5,8,Yes,Mid,AI Engineer
+B.Tech,Computer Science,Deep Learning,C++,GCP,13,9,Yes,Expert,ML Engineer
+MBA,Computer Science,Cloud,Java,Data Analytics,5,6,No,Mid,Software Developer
+MBA,Data Science,Data Analysis,Python,AI Specialist,8,8,Yes,Senior,Data Scientist
+MCA,Data Science,Data Analysis,Python,GCP,0,8,Yes,Fresher,Data Scientist
+B.Tech,Data Science,Deep Learning,Machine Learning,AI Specialist,7,1,Yes,Senior,ML Engineer
+BCA,Business,Cloud,Deep Learning,Cybersecurity,9,0,No,Senior,ML Engineer
+BCA,AI,Python,Machine Learning,AI Specialist,12,3,Yes,Expert,Data Scientist
+B.Tech,Data Science,C++,C++,AWS,12,3,No,Expert,Data Analyst
+B.Tech,AI,Deep Learning,C++,GCP,4,1,Yes,Mid,ML Engineer
+M.Tech,Electronics,Python,Data Analysis,None,12,2,No,Expert,Data Analyst
+MCA,Computer Science,Java,Python,Azure,5,2,Yes,Mid,Software Developer
+B.Tech,Computer Science,Cloud,Cloud,GCP,5,4,Yes,Mid,Cloud Engineer
+B.Tech,IT,Machine Learning,SQL,Data Analytics,0,0,Yes,Fresher,ML Engineer
+M.Tech,Electronics,Deep Learning,Python,AI Specialist,2,8,No,Junior,ML Engineer
+M.Tech,Data Science,SQL,Python,GCP,11,7,Yes,Expert,Data Scientist
+MBA,Data Science,Python,Cloud,Cybersecurity,5,7,No,Mid,Data Scientist
+BCA,Business,Python,Data Analysis,GCP,13,2,Yes,Expert,Data Analyst
+MCA,Electronics,Deep Learning,Data Analysis,Cybersecurity,14,1,Yes,Expert,ML Engineer
+MBA,Data Science,Data Analysis,Cloud,AI Specialist,13,0,Yes,Expert,Data Analyst
+B.Tech,IT,Python,C++,Azure,10,5,Yes,Senior,Software Developer
+M.Tech,AI,Java,Cloud,AI Specialist,10,9,No,Senior,AI Engineer
+BCA,Computer Science,Python,Machine Learning,Data Analytics,8,0,Yes,Senior,ML Engineer
+MBA,Electronics,Machine Learning,C++,AWS,5,4,No,Mid,ML Engineer
+BCA,Computer Science,Machine Learning,Cloud,Azure,14,8,No,Expert,ML Engineer
+M.Tech,AI,Data Analysis,Deep Learning,Azure,11,8,Yes,Expert,ML Engineer
+MBA,Electronics,Cloud,C++,AWS,12,3,Yes,Expert,Cloud Engineer
+MBA,AI,Cloud,C++,GCP,5,6,Yes,Mid,Cloud Engineer
+BCA,Data Science,Data Analysis,Python,AI Specialist,0,6,No,Fresher,Data Scientist
+M.Tech,Data Science,SQL,SQL,GCP,8,3,Yes,Senior,Data Analyst
+B.Tech,Data Science,Java,Python,GCP,3,4,Yes,Mid,Data Scientist
+MBA,AI,Machine Learning,Java,AI Specialist,14,8,No,Expert,ML Engineer
+B.Tech,AI,Data Analysis,C++,Data Analytics,1,6,Yes,Junior,Data Analyst
+M.Tech,AI,Deep Learning,Cloud,Azure,0,6,Yes,Fresher,ML Engineer
+MBA,Computer Science,C++,Cloud,Cybersecurity,2,9,Yes,Junior,Security Analyst
+MBA,AI,C++,Cloud,AWS,2,6,Yes,Junior,Cloud Engineer
+B.Tech,Data Science,C++,C++,Azure,4,8,Yes,Mid,Software Developer
+MCA,IT,Cloud,Cloud,GCP,0,4,Yes,Fresher,Cloud Engineer
+B.Tech,AI,Deep Learning,Java,AWS,6,5,No,Senior,ML Engineer
+B.Tech,IT,Python,C++,Cybersecurity,12,2,Yes,Expert,Security Analyst
+MCA,Data Science,Deep Learning,Cloud,Azure,0,0,Yes,Fresher,ML Engineer
+M.Tech,AI,Python,C++,Azure,3,1,Yes,Mid,Data Scientist
+M.Tech,Computer Science,C++,Deep Learning,Data Analytics,5,7,Yes,Mid,ML Engineer
+MBA,Computer Science,SQL,C++,Azure,14,0,Yes,Expert,Data Analyst
+BCA,IT,SQL,Java,Azure,0,9,Yes,Fresher,Software Developer
+BCA,Business,Data Analysis,Python,Cybersecurity,6,6,Yes,Senior,Data Analyst
+MBA,Computer Science,Python,C++,Cybersecurity,9,4,Yes,Senior,Security Analyst
+BCA,Computer Science,C++,SQL,AWS,14,5,Yes,Expert,Data Analyst
+B.Tech,Computer Science,Deep Learning,Java,GCP,6,7,Yes,Senior,ML Engineer
+B.Tech,Data Science,SQL,Machine Learning,Cybersecurity,2,3,Yes,Junior,ML Engineer
+MCA,Computer Science,Python,Deep Learning,AWS,3,5,Yes,Mid,ML Engineer
+MCA,Electronics,Data Analysis,Java,Azure,5,2,Yes,Mid,Data Analyst
+MBA,AI,Deep Learning,Python,AWS,13,6,Yes,Expert,Data Scientist
+MBA,Computer Science,C++,Cloud,AWS,10,1,Yes,Senior,Cloud Engineer
+MBA,Business,Java,Cloud,AWS,6,7,Yes,Senior,Cloud Engineer
+B.Tech,Business,C++,Java,AI Specialist,13,6,No,Expert,Business Analyst
+BCA,Computer Science,Cloud,Machine Learning,AWS,12,7,Yes,Expert,ML Engineer
+MBA,Computer Science,C++,Cloud,Cybersecurity,3,1,Yes,Mid,Security Analyst
+MBA,Electronics,Data Analysis,Deep Learning,None,9,2,Yes,Senior,ML Engineer
+B.Tech,Computer Science,Deep Learning,SQL,None,10,3,No,Senior,ML Engineer
+B.Tech,Computer Science,Data Analysis,Machine Learning,None,8,8,Yes,Senior,ML Engineer
+B.Tech,AI,Deep Learning,Data Analysis,None,8,4,No,Senior,ML Engineer
+BCA,Business,Machine Learning,Data Analysis,AI Specialist,8,5,No,Senior,ML Engineer
+MBA,Electronics,Machine Learning,Java,GCP,11,0,Yes,Expert,ML Engineer
+M.Tech,Business,Deep Learning,Machine Learning,AWS,9,3,Yes,Senior,ML Engineer
+M.Tech,Electronics,Deep Learning,Cloud,Data Analytics,5,3,Yes,Mid,ML Engineer
+MBA,Business,Java,Cloud,None,1,9,Yes,Junior,Business Analyst
+MBA,Computer Science,Java,Java,Azure,1,7,Yes,Junior,Software Developer
+MBA,Business,C++,Cloud,None,10,7,No,Senior,Business Analyst
+MBA,Business,Data Analysis,Cloud,None,3,9,Yes,Mid,Data Analyst
+BCA,Electronics,Cloud,SQL,Azure,8,5,Yes,Senior,Data Analyst
+M.Tech,IT,Data Analysis,SQL,AI Specialist,2,7,No,Junior,Data Analyst
+MCA,Electronics,SQL,Python,Azure,5,8,Yes,Mid,Data Analyst
+M.Tech,Electronics,Data Analysis,SQL,Azure,1,4,No,Junior,Data Analyst
+M.Tech,Electronics,Cloud,C++,AI Specialist,14,0,Yes,Expert,Security Analyst
+B.Tech,Data Science,Java,Machine Learning,Azure,0,0,Yes,Fresher,ML Engineer
+MBA,Data Science,C++,Machine Learning,AWS,11,1,Yes,Expert,ML Engineer
+MBA,Data Science,Cloud,Java,None,4,1,No,Mid,Data Analyst
+MBA,Electronics,Data Analysis,SQL,GCP,7,4,Yes,Senior,Data Analyst
+B.Tech,IT,Python,Python,AI Specialist,9,6,No,Senior,AI Engineer
+BCA,Electronics,Machine Learning,Cloud,Data Analytics,9,6,Yes,Senior,ML Engineer
+BCA,Computer Science,Cloud,Python,AI Specialist,1,3,No,Junior,Software Developer
+MCA,IT,SQL,Python,Cybersecurity,9,3,No,Senior,Data Analyst
+BCA,Data Science,C++,Deep Learning,Data Analytics,8,9,No,Senior,ML Engineer
+BCA,Business,Cloud,Cloud,Cybersecurity,11,2,Yes,Expert,Security Analyst
+MBA,Business,Deep Learning,C++,AI Specialist,7,1,Yes,Senior,ML Engineer
+M.Tech,AI,Data Analysis,SQL,Cybersecurity,2,2,Yes,Junior,Data Analyst
+BCA,IT,Python,Cloud,Data Analytics,0,7,Yes,Fresher,Software Developer
+BCA,Data Science,Machine Learning,Python,AWS,3,0,Yes,Mid,Data Scientist
+B.Tech,IT,Python,Cloud,AI Specialist,7,3,No,Senior,AI Engineer
+MCA,IT,C++,C++,AI Specialist,2,6,Yes,Junior,Data Analyst
+B.Tech,Business,Data Analysis,Machine Learning,Azure,9,4,No,Senior,ML Engineer
+MBA,Electronics,Java,Java,AI Specialist,11,1,Yes,Expert,Security Analyst
+M.Tech,Computer Science,Machine Learning,SQL,None,1,0,Yes,Junior,ML Engineer
+MCA,AI,Data Analysis,SQL,None,6,5,Yes,Senior,Data Analyst
